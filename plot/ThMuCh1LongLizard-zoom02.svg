@@ -1,0 +1,2616 @@
+<?xml version="1.0"?>
+<svg version="1.1" viewBox="0 0 1000 600" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<polyline fill="none" points="90.00,291.41 110.00,287.51 130.00,299.67 150.00,287.87 170.00,273.26 190.00,231.24 210.00,206.82 230.00,165.44 250.00,156.54 270.00,122.87 290.00,116.24 310.00,104.63 330.00,141.29 350.00,147.74 370.00,144.20 390.00,140.21 410.00,134.67 430.00,98.73 450.00,106.17 470.00,130.13 490.00,137.48 510.00,142.66 530.00,170.61 550.00,184.59 570.00,183.41 590.00,173.88 610.00,170.61 630.00,149.37 650.00,132.67 670.00,142.38 690.00,182.59 710.00,179.69 730.00,230.51 750.00,230.06 770.00,258.74 790.00,250.75 810.00,263.91 830.00,264.00 850.00,227.70 870.00,115.88 890.00,117.06 910.00,126.41" stroke-width="4.0" stroke="#ffb2b066" />
+<g fill="none" stroke-width="1.0" stroke="#ff3230dd">
+<line x1="90.00" x2="90.00" y1="545.09" y2="546.00" />
+<line x1="110.00" x2="110.00" y1="542.01" y2="546.00" />
+<line x1="130.00" x2="130.00" y1="544.46" y2="546.00" />
+<line x1="150.00" x2="150.00" y1="526.21" y2="546.00" />
+<line x1="170.00" x2="170.00" y1="531.39" y2="546.00" />
+<line x1="190.00" x2="190.00" y1="503.80" y2="546.00" />
+<line x1="210.00" x2="210.00" y1="521.49" y2="546.00" />
+<line x1="230.00" x2="230.00" y1="486.19" y2="546.00" />
+<line x1="250.00" x2="250.00" y1="534.56" y2="546.00" />
+<line x1="270.00" x2="270.00" y1="507.97" y2="546.00" />
+<line x1="290.00" x2="290.00" y1="524.85" y2="546.00" />
+<line x1="310.00" x2="310.00" y1="530.30" y2="546.00" />
+<line x1="330.00" x2="330.00" y1="543.55" y2="546.00" />
+<line x1="350.00" x2="350.00" y1="545.46" y2="546.00" />
+<line x1="370.00" x2="370.00" y1="536.92" y2="546.00" />
+<line x1="390.00" x2="390.00" y1="542.01" y2="546.00" />
+<line x1="410.00" x2="410.00" y1="536.38" y2="546.00" />
+<line x1="430.00" x2="430.00" y1="508.33" y2="546.00" />
+<line x1="450.00" x2="450.00" y1="525.85" y2="546.00" />
+<line x1="470.00" x2="470.00" y1="545.36" y2="546.00" />
+<line x1="490.00" x2="490.00" y1="546.00" y2="546.00" />
+<line x1="510.00" x2="510.00" y1="544.46" y2="546.00" />
+<line x1="530.00" x2="530.00" y1="532.39" y2="546.00" />
+<line x1="550.00" x2="550.00" y1="542.10" y2="546.00" />
+<line x1="570.00" x2="570.00" y1="540.28" y2="546.00" />
+<line x1="590.00" x2="590.00" y1="535.56" y2="546.00" />
+<line x1="610.00" x2="610.00" y1="538.74" y2="546.00" />
+<line x1="630.00" x2="630.00" y1="523.22" y2="546.00" />
+<line x1="650.00" x2="650.00" y1="509.51" y2="546.00" />
+<line x1="670.00" x2="670.00" y1="541.10" y2="546.00" />
+<line x1="690.00" x2="690.00" y1="544.00" y2="546.00" />
+<line x1="710.00" x2="710.00" y1="518.59" y2="546.00" />
+<line x1="730.00" x2="730.00" y1="537.01" y2="546.00" />
+<line x1="750.00" x2="750.00" y1="534.11" y2="546.00" />
+<line x1="770.00" x2="770.00" y1="536.65" y2="546.00" />
+<line x1="790.00" x2="790.00" y1="516.87" y2="546.00" />
+<line x1="810.00" x2="810.00" y1="543.46" y2="546.00" />
+<line x1="830.00" x2="830.00" y1="543.64" y2="546.00" />
+<line x1="850.00" x2="850.00" y1="509.15" y2="546.00" />
+<line x1="870.00" x2="870.00" y1="425.11" y2="546.00" />
+<line x1="890.00" x2="890.00" y1="543.19" y2="546.00" />
+<line x1="910.00" x2="910.00" y1="545.73" y2="546.00" />
+</g>
+</g>
+<g>
+<g>
+<text dominant-baseline="hanging" dx="-18.0" dy="18.0" fill="#0088" font-family="Arial, sans-serif" font-size="18.0" font-style="italic" stroke="none" text-anchor="end" text-orientation="sideways" x="910.00" y="54.00">d18O</text>
+</g>
+<g>
+<g>
+<text dominant-baseline="central" fill="#8008" font-size="26.666666666666668" stroke="none" text-anchor="middle" tooltip="Vial    :AAGQ
+Date: 2024-09-10
+Comment: " vial="AAGQ" x="110.00" y="199.69">A</text>
+<title>Vial    :AAGQ
+Date: 2024-09-10
+Comment: </title>
+</g>
+<g>
+<text dominant-baseline="central" fill="#8008" font-size="26.666666666666668" stroke="none" text-anchor="middle" tooltip="Vial    :AUXM
+Date: 2024-10-04
+Comment: " vial="AUXM" x="590.00" y="199.69">A</text>
+<title>Vial    :AUXM
+Date: 2024-10-04
+Comment: </title>
+</g>
+</g>
+<polyline fill="none" points="" stroke-dasharray="3.6 3.6" stroke-width="3.6" stroke="#0084" />
+<polyline fill="none" points="" stroke-dasharray="3.6 3.6" stroke-width="3.6" stroke="#0084" />
+<polyline fill="none" points="" stroke-dasharray="3.6 3.6" stroke-width="3.6" stroke="#0084" />
+<polyline fill="none" points="" stroke-dasharray="3.6 3.6" stroke-width="3.6" stroke="#0084" />
+<g>
+</g>
+<g stroke="#0088">
+<line x1="524.17" x2="524.17" y1="54.00" y2="54.00" />
+<g fill="none" font-family="Arial, sans-serif" font-size="18.0" stroke="none" text-anchor="start" transform="translate(9.0 0.0)">
+<text x="524.17" y="47.74">Oct</text>
+</g>
+<line x1="90.00" x2="910.00" y1="54.00" y2="54.00" />
+</g>
+<g stroke="#0088">
+<line x1="910.00" x2="922.00" y1="472.13" y2="472.13" />
+<line x1="910.00" x2="922.00" y1="199.69" y2="199.69" />
+<g fill="#0088" font-family="Arial, sans-serif" font-size="18.0" stroke="none" text-anchor="beginning">
+<text x="919.00" y="463.13">-10</text>
+<text x="919.00" y="190.69">0</text>
+</g>
+<line x1="910.00" x2="910.00" y1="546.00" y2="54.00" />
+</g>
+</g>
+<g>
+<g stroke-dasharray="3.6 7.2" stroke-width="0.72" stroke="#caa">
+<line x1="524.17" x2="524.17" y1="546.00" y2="54.00" />
+<line x1="90.00" x2="910.00" y1="509.35" y2="509.35" />
+<line x1="90.00" x2="910.00" y1="487.92" y2="487.92" />
+<line x1="90.00" x2="910.00" y1="472.71" y2="472.71" />
+<line x1="90.00" x2="910.00" y1="460.91" y2="460.91" />
+<line x1="90.00" x2="910.00" y1="451.27" y2="451.27" />
+<line x1="90.00" x2="910.00" y1="443.12" y2="443.12" />
+<line x1="90.00" x2="910.00" y1="436.06" y2="436.06" />
+<line x1="90.00" x2="910.00" y1="429.83" y2="429.83" />
+<line x1="90.00" x2="910.00" y1="387.61" y2="387.61" />
+<line x1="90.00" x2="910.00" y1="366.17" y2="366.17" />
+<line x1="90.00" x2="910.00" y1="350.96" y2="350.96" />
+<line x1="90.00" x2="910.00" y1="339.17" y2="339.17" />
+<line x1="90.00" x2="910.00" y1="329.53" y2="329.53" />
+<line x1="90.00" x2="910.00" y1="321.38" y2="321.38" />
+<line x1="90.00" x2="910.00" y1="314.32" y2="314.32" />
+<line x1="90.00" x2="910.00" y1="308.09" y2="308.09" />
+<line x1="90.00" x2="910.00" y1="265.87" y2="265.87" />
+<line x1="90.00" x2="910.00" y1="244.43" y2="244.43" />
+<line x1="90.00" x2="910.00" y1="229.22" y2="229.22" />
+<line x1="90.00" x2="910.00" y1="217.43" y2="217.43" />
+<line x1="90.00" x2="910.00" y1="207.79" y2="207.79" />
+<line x1="90.00" x2="910.00" y1="199.64" y2="199.64" />
+<line x1="90.00" x2="910.00" y1="192.58" y2="192.58" />
+<line x1="90.00" x2="910.00" y1="186.35" y2="186.35" />
+<line x1="90.00" x2="910.00" y1="144.13" y2="144.13" />
+<line x1="90.00" x2="910.00" y1="122.69" y2="122.69" />
+<line x1="90.00" x2="910.00" y1="107.48" y2="107.48" />
+<line x1="90.00" x2="910.00" y1="95.69" y2="95.69" />
+<line x1="90.00" x2="910.00" y1="86.05" y2="86.05" />
+<line x1="90.00" x2="910.00" y1="77.90" y2="77.90" />
+<line x1="90.00" x2="910.00" y1="70.84" y2="70.84" />
+<line x1="90.00" x2="910.00" y1="64.61" y2="64.61" />
+<line x1="90.00" x2="910.00" y1="546.00" y2="546.00" />
+<line x1="90.00" x2="910.00" y1="424.26" y2="424.26" />
+<line x1="90.00" x2="910.00" y1="302.52" y2="302.52" />
+<line x1="90.00" x2="910.00" y1="180.78" y2="180.78" />
+<line x1="90.00" x2="910.00" y1="59.04" y2="59.04" />
+</g>
+<g>
+<text dominant-baseline="hanging" dx="-36.0" dy="36.0" fill="#0004" font-family="Arial, sans-serif" font-size="36" stroke="none" text-anchor="end" x="910.00" y="59.04">ThMuCh1LongLizard</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="12.0" dy="48.0" fill="#008f" font-size="12.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" x="90.00" y="54.00">WATER ISOTOPE</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="12.0" dy="60.0" fill="#000f" font-size="12.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" x="90.00" y="54.00">DRIP RATE</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="12.0" dy="72.0" fill="#ff3230ff" font-size="12.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" x="90.00" y="54.00">RAIN RATE</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="12.0" dy="84.0" fill="#ffb2b0ff" font-size="12.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" x="90.00" y="54.00">RAIN RATE - ROLLING SUM (25 day)</text>
+</g>
+<g>
+<text dominant-baseline="text-bottom" dy="-9.0" fill="black" font-family="Arial, sans-serif" font-size="18.0" font-style="italic" stroke="none" text-anchor="middle" x="500.00" y="54.00">Years 2024 to 2024</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="18.0" dy="18.0" fill="black" font-family="Arial, sans-serif" font-size="18.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" x="90.00" y="54.00">log(Clicks per day)</text>
+</g>
+<g>
+<g>
+<circle cx="133.68" cy="493.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-11T11:24:39
+Y: 2.706766917293233" />
+<title>Click Time: 2024-09-11T11:24:39
+Y: 2.706766917293233</title>
+</g>
+<g>
+<circle cx="139.87" cy="484.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-11T18:50:39
+Y: 3.2286995515695067" />
+<title>Click Time: 2024-09-11T18:50:39
+Y: 3.2286995515695067</title>
+</g>
+<g>
+<circle cx="147.12" cy="492.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-12T03:32:39
+Y: 2.7586206896551726" />
+<title>Click Time: 2024-09-12T03:32:39
+Y: 2.7586206896551726</title>
+</g>
+<g>
+<circle cx="153.54" cy="485.89" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-12T11:14:39
+Y: 3.116883116883117" />
+<title>Click Time: 2024-09-12T11:14:39
+Y: 3.116883116883117</title>
+</g>
+<g>
+<circle cx="160.98" cy="493.75" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-12T20:10:39
+Y: 2.6865671641791047" />
+<title>Click Time: 2024-09-12T20:10:39
+Y: 2.6865671641791047</title>
+</g>
+<g>
+<circle cx="167.19" cy="484.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-13T03:37:39
+Y: 3.221476510067114" />
+<title>Click Time: 2024-09-13T03:37:39
+Y: 3.221476510067114</title>
+</g>
+<g>
+<circle cx="174.59" cy="493.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-13T12:30:39
+Y: 2.7016885553470917" />
+<title>Click Time: 2024-09-13T12:30:39
+Y: 2.7016885553470917</title>
+</g>
+<g>
+<circle cx="181.08" cy="486.46" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-13T20:17:39
+Y: 3.0835117773019274" />
+<title>Click Time: 2024-09-13T20:17:39
+Y: 3.0835117773019274</title>
+</g>
+<g>
+<circle cx="188.63" cy="494.53" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-14T05:21:39
+Y: 2.6470588235294117" />
+<title>Click Time: 2024-09-14T05:21:39
+Y: 2.6470588235294117</title>
+</g>
+<g>
+<circle cx="195.25" cy="487.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-14T13:17:39
+Y: 3.0252100840336134" />
+<title>Click Time: 2024-09-14T13:17:39
+Y: 3.0252100840336134</title>
+</g>
+<g>
+<circle cx="203.12" cy="496.72" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-14T22:44:39
+Y: 2.5396825396825395" />
+<title>Click Time: 2024-09-14T22:44:39
+Y: 2.5396825396825395</title>
+</g>
+<g>
+<circle cx="209.66" cy="486.91" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-15T06:35:39
+Y: 3.0573248407643314" />
+<title>Click Time: 2024-09-15T06:35:39
+Y: 3.0573248407643314</title>
+</g>
+<g>
+<circle cx="217.23" cy="494.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-15T15:40:39
+Y: 2.6422018348623855" />
+<title>Click Time: 2024-09-15T15:40:39
+Y: 2.6422018348623855</title>
+</g>
+<g>
+<circle cx="224.23" cy="490.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T00:04:39
+Y: 2.857142857142857" />
+<title>Click Time: 2024-09-16T00:04:39
+Y: 2.857142857142857</title>
+</g>
+<g>
+<circle cx="232.02" cy="496.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T09:25:39
+Y: 2.5668449197860963" />
+<title>Click Time: 2024-09-16T09:25:39
+Y: 2.5668449197860963</title>
+</g>
+<g>
+<circle cx="236.25" cy="463.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T14:29:39
+Y: 4.7368421052631575" />
+<title>Click Time: 2024-09-16T14:29:39
+Y: 4.7368421052631575</title>
+</g>
+<g>
+<circle cx="238.41" cy="428.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T17:05:39
+Y: 9.23076923076923" />
+<title>Click Time: 2024-09-16T17:05:39
+Y: 9.23076923076923</title>
+</g>
+<g>
+<circle cx="239.91" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T18:53:39
+Y: 13.333333333333334" />
+<title>Click Time: 2024-09-16T18:53:39
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="241.45" cy="410.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T20:44:39
+Y: 12.972972972972974" />
+<title>Click Time: 2024-09-16T20:44:39
+Y: 12.972972972972974</title>
+</g>
+<g>
+<circle cx="242.63" cy="396.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T22:09:39
+Y: 16.941176470588236" />
+<title>Click Time: 2024-09-16T22:09:39
+Y: 16.941176470588236</title>
+</g>
+<g>
+<circle cx="244.04" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-16T23:50:39
+Y: 14.257425742574258" />
+<title>Click Time: 2024-09-16T23:50:39
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="245.11" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T01:07:39
+Y: 18.7012987012987" />
+<title>Click Time: 2024-09-17T01:07:39
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="246.31" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T02:34:39
+Y: 16.551724137931036" />
+<title>Click Time: 2024-09-17T02:34:39
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="247.37" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T03:50:39
+Y: 18.94736842105263" />
+<title>Click Time: 2024-09-17T03:50:39
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="248.61" cy="398.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T05:19:39
+Y: 16.179775280898877" />
+<title>Click Time: 2024-09-17T05:19:39
+Y: 16.179775280898877</title>
+</g>
+<g>
+<circle cx="249.66" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T06:35:39
+Y: 18.94736842105263" />
+<title>Click Time: 2024-09-17T06:35:39
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="250.95" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T08:08:39
+Y: 15.483870967741936" />
+<title>Click Time: 2024-09-17T08:08:39
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="252.01" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T09:24:39
+Y: 18.94736842105263" />
+<title>Click Time: 2024-09-17T09:24:39
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="253.27" cy="399.99" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T10:55:39
+Y: 15.824175824175825" />
+<title>Click Time: 2024-09-17T10:55:39
+Y: 15.824175824175825</title>
+</g>
+<g>
+<circle cx="254.26" cy="386.87" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T12:06:39
+Y: 20.281690140845072" />
+<title>Click Time: 2024-09-17T12:06:39
+Y: 20.281690140845072</title>
+</g>
+<g>
+<circle cx="255.59" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T13:42:39
+Y: 15.0" />
+<title>Click Time: 2024-09-17T13:42:39
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="256.62" cy="389.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T14:56:39
+Y: 19.45945945945946" />
+<title>Click Time: 2024-09-17T14:56:39
+Y: 19.45945945945946</title>
+</g>
+<g>
+<circle cx="257.91" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T16:29:39
+Y: 15.483870967741936" />
+<title>Click Time: 2024-09-17T16:29:39
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="258.91" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T17:41:39
+Y: 20.0" />
+<title>Click Time: 2024-09-17T17:41:39
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="260.19" cy="400.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T19:13:39
+Y: 15.652173913043478" />
+<title>Click Time: 2024-09-17T19:13:39
+Y: 15.652173913043478</title>
+</g>
+<g>
+<circle cx="261.23" cy="389.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T20:28:39
+Y: 19.2" />
+<title>Click Time: 2024-09-17T20:28:39
+Y: 19.2</title>
+</g>
+<g>
+<circle cx="262.55" cy="402.27" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T22:03:39
+Y: 15.157894736842104" />
+<title>Click Time: 2024-09-17T22:03:39
+Y: 15.157894736842104</title>
+</g>
+<g>
+<circle cx="263.62" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-17T23:20:39
+Y: 18.7012987012987" />
+<title>Click Time: 2024-09-17T23:20:39
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="264.95" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T00:56:39
+Y: 15.0" />
+<title>Click Time: 2024-09-18T00:56:39
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="266.12" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T02:20:39
+Y: 17.142857142857142" />
+<title>Click Time: 2024-09-18T02:20:39
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="267.52" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T04:01:39
+Y: 14.257425742574258" />
+<title>Click Time: 2024-09-18T04:01:39
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="268.72" cy="397.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T05:27:39
+Y: 16.74418604651163" />
+<title>Click Time: 2024-09-18T05:27:39
+Y: 16.74418604651163</title>
+</g>
+<g>
+<circle cx="270.15" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T07:10:39
+Y: 13.980582524271844" />
+<title>Click Time: 2024-09-18T07:10:39
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="271.33" cy="396.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T08:35:39
+Y: 16.941176470588236" />
+<title>Click Time: 2024-09-18T08:35:39
+Y: 16.941176470588236</title>
+</g>
+<g>
+<circle cx="272.80" cy="408.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T10:21:39
+Y: 13.584905660377359" />
+<title>Click Time: 2024-09-18T10:21:39
+Y: 13.584905660377359</title>
+</g>
+<g>
+<circle cx="274.00" cy="397.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T11:47:39
+Y: 16.74418604651163" />
+<title>Click Time: 2024-09-18T11:47:39
+Y: 16.74418604651163</title>
+</g>
+<g>
+<circle cx="275.51" cy="409.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-18T13:36:39
+Y: 13.211009174311927" />
+<title>Click Time: 2024-09-18T13:36:39
+Y: 13.211009174311927</title>
+</g>
+<g>
+<circle cx="320.19" cy="381.38" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-20T19:14
+Y: 22.5" />
+<title>Click Time: 2024-09-20T19:14
+Y: 22.5</title>
+</g>
+<g>
+<circle cx="321.19" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-20T20:26
+Y: 20.0" />
+<title>Click Time: 2024-09-20T20:26
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="321.99" cy="375.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-20T21:23
+Y: 25.263157894736842" />
+<title>Click Time: 2024-09-20T21:23
+Y: 25.263157894736842</title>
+</g>
+<g>
+<circle cx="323.00" cy="388.34" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-20T22:36
+Y: 19.726027397260275" />
+<title>Click Time: 2024-09-20T22:36
+Y: 19.726027397260275</title>
+</g>
+<g>
+<circle cx="323.83" cy="377.97" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-20T23:36
+Y: 24.0" />
+<title>Click Time: 2024-09-20T23:36
+Y: 24.0</title>
+</g>
+<g>
+<circle cx="324.76" cy="383.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T00:43
+Y: 21.492537313432837" />
+<title>Click Time: 2024-09-21T00:43
+Y: 21.492537313432837</title>
+</g>
+<g>
+<circle cx="325.61" cy="378.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T01:44
+Y: 23.60655737704918" />
+<title>Click Time: 2024-09-21T01:44
+Y: 23.60655737704918</title>
+</g>
+<g>
+<circle cx="326.56" cy="384.59" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T02:52
+Y: 21.176470588235293" />
+<title>Click Time: 2024-09-21T02:52
+Y: 21.176470588235293</title>
+</g>
+<g>
+<circle cx="327.29" cy="371.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T03:45
+Y: 27.169811320754718" />
+<title>Click Time: 2024-09-21T03:45
+Y: 27.169811320754718</title>
+</g>
+<g>
+<circle cx="328.25" cy="385.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T04:54
+Y: 20.869565217391305" />
+<title>Click Time: 2024-09-21T04:54
+Y: 20.869565217391305</title>
+</g>
+<g>
+<circle cx="329.04" cy="375.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T05:51
+Y: 25.263157894736842" />
+<title>Click Time: 2024-09-21T05:51
+Y: 25.263157894736842</title>
+</g>
+<g>
+<circle cx="330.00" cy="385.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T07:00
+Y: 20.869565217391305" />
+<title>Click Time: 2024-09-21T07:00
+Y: 20.869565217391305</title>
+</g>
+<g>
+<circle cx="330.75" cy="372.40" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T07:54
+Y: 26.666666666666668" />
+<title>Click Time: 2024-09-21T07:54
+Y: 26.666666666666668</title>
+</g>
+<g>
+<circle cx="331.72" cy="386.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T09:04
+Y: 20.571428571428573" />
+<title>Click Time: 2024-09-21T09:04
+Y: 20.571428571428573</title>
+</g>
+<g>
+<circle cx="332.53" cy="376.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T10:02
+Y: 24.82758620689655" />
+<title>Click Time: 2024-09-21T10:02
+Y: 24.82758620689655</title>
+</g>
+<g>
+<circle cx="333.50" cy="386.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T11:12
+Y: 20.571428571428573" />
+<title>Click Time: 2024-09-21T11:12
+Y: 20.571428571428573</title>
+</g>
+<g>
+<circle cx="334.32" cy="377.08" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T12:11
+Y: 24.406779661016948" />
+<title>Click Time: 2024-09-21T12:11
+Y: 24.406779661016948</title>
+</g>
+<g>
+<circle cx="335.32" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T13:23
+Y: 20.0" />
+<title>Click Time: 2024-09-21T13:23
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="336.10" cy="374.32" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T14:19
+Y: 25.714285714285715" />
+<title>Click Time: 2024-09-21T14:19
+Y: 25.714285714285715</title>
+</g>
+<g>
+<circle cx="337.10" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T15:31
+Y: 20.0" />
+<title>Click Time: 2024-09-21T15:31
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="337.90" cy="376.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T16:29
+Y: 24.82758620689655" />
+<title>Click Time: 2024-09-21T16:29
+Y: 24.82758620689655</title>
+</g>
+<g>
+<circle cx="338.86" cy="385.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T17:38
+Y: 20.869565217391305" />
+<title>Click Time: 2024-09-21T17:38
+Y: 20.869565217391305</title>
+</g>
+<g>
+<circle cx="339.68" cy="377.08" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T18:37
+Y: 24.406779661016948" />
+<title>Click Time: 2024-09-21T18:37
+Y: 24.406779661016948</title>
+</g>
+<g>
+<circle cx="340.65" cy="386.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T19:47
+Y: 20.571428571428573" />
+<title>Click Time: 2024-09-21T19:47
+Y: 20.571428571428573</title>
+</g>
+<g>
+<circle cx="341.44" cy="375.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T20:44
+Y: 25.263157894736842" />
+<title>Click Time: 2024-09-21T20:44
+Y: 25.263157894736842</title>
+</g>
+<g>
+<circle cx="342.42" cy="386.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T21:54
+Y: 20.571428571428573" />
+<title>Click Time: 2024-09-21T21:54
+Y: 20.571428571428573</title>
+</g>
+<g>
+<circle cx="343.19" cy="374.32" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T22:50
+Y: 25.714285714285715" />
+<title>Click Time: 2024-09-21T22:50
+Y: 25.714285714285715</title>
+</g>
+<g>
+<circle cx="344.14" cy="384.59" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-21T23:58
+Y: 21.176470588235293" />
+<title>Click Time: 2024-09-21T23:58
+Y: 21.176470588235293</title>
+</g>
+<g>
+<circle cx="344.97" cy="377.97" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T00:58
+Y: 24.0" />
+<title>Click Time: 2024-09-22T00:58
+Y: 24.0</title>
+</g>
+<g>
+<circle cx="345.93" cy="385.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T02:07
+Y: 20.869565217391305" />
+<title>Click Time: 2024-09-22T02:07
+Y: 20.869565217391305</title>
+</g>
+<g>
+<circle cx="346.71" cy="374.32" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T03:03
+Y: 25.714285714285715" />
+<title>Click Time: 2024-09-22T03:03
+Y: 25.714285714285715</title>
+</g>
+<g>
+<circle cx="347.67" cy="385.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T04:12
+Y: 20.869565217391305" />
+<title>Click Time: 2024-09-22T04:12
+Y: 20.869565217391305</title>
+</g>
+<g>
+<circle cx="348.47" cy="376.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T05:10
+Y: 24.82758620689655" />
+<title>Click Time: 2024-09-22T05:10
+Y: 24.82758620689655</title>
+</g>
+<g>
+<circle cx="349.47" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T06:22
+Y: 20.0" />
+<title>Click Time: 2024-09-22T06:22
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="350.29" cy="377.08" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T07:21
+Y: 24.406779661016948" />
+<title>Click Time: 2024-09-22T07:21
+Y: 24.406779661016948</title>
+</g>
+<g>
+<circle cx="351.32" cy="389.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T08:35
+Y: 19.45945945945946" />
+<title>Click Time: 2024-09-22T08:35
+Y: 19.45945945945946</title>
+</g>
+<g>
+<circle cx="352.25" cy="383.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T09:42
+Y: 21.492537313432837" />
+<title>Click Time: 2024-09-22T09:42
+Y: 21.492537313432837</title>
+</g>
+<g>
+<circle cx="353.32" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T10:59
+Y: 18.7012987012987" />
+<title>Click Time: 2024-09-22T10:59
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="354.19" cy="380.55" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T12:02
+Y: 22.857142857142858" />
+<title>Click Time: 2024-09-22T12:02
+Y: 22.857142857142858</title>
+</g>
+<g>
+<circle cx="355.32" cy="393.84" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T13:23
+Y: 17.77777777777778" />
+<title>Click Time: 2024-09-22T13:23
+Y: 17.77777777777778</title>
+</g>
+<g>
+<circle cx="356.25" cy="383.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T14:30
+Y: 21.492537313432837" />
+<title>Click Time: 2024-09-22T14:30
+Y: 21.492537313432837</title>
+</g>
+<g>
+<circle cx="357.35" cy="392.52" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T15:49
+Y: 18.227848101265824" />
+<title>Click Time: 2024-09-22T15:49
+Y: 18.227848101265824</title>
+</g>
+<g>
+<circle cx="358.25" cy="382.20" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T16:54
+Y: 22.153846153846153" />
+<title>Click Time: 2024-09-22T16:54
+Y: 22.153846153846153</title>
+</g>
+<g>
+<circle cx="359.40" cy="395.13" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T18:17
+Y: 17.349397590361445" />
+<title>Click Time: 2024-09-22T18:17
+Y: 17.349397590361445</title>
+</g>
+<g>
+<circle cx="360.38" cy="386.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T19:27
+Y: 20.571428571428573" />
+<title>Click Time: 2024-09-22T19:27
+Y: 20.571428571428573</title>
+</g>
+<g>
+<circle cx="361.50" cy="393.84" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T20:48
+Y: 17.77777777777778" />
+<title>Click Time: 2024-09-22T20:48
+Y: 17.77777777777778</title>
+</g>
+<g>
+<circle cx="362.44" cy="384.59" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T21:56
+Y: 21.176470588235293" />
+<title>Click Time: 2024-09-22T21:56
+Y: 21.176470588235293</title>
+</g>
+<g>
+<circle cx="363.64" cy="397.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-22T23:22
+Y: 16.74418604651163" />
+<title>Click Time: 2024-09-22T23:22
+Y: 16.74418604651163</title>
+</g>
+<g>
+<circle cx="364.65" cy="388.34" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T00:35
+Y: 19.726027397260275" />
+<title>Click Time: 2024-09-23T00:35
+Y: 19.726027397260275</title>
+</g>
+<g>
+<circle cx="365.78" cy="393.84" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T01:56
+Y: 17.77777777777778" />
+<title>Click Time: 2024-09-23T01:56
+Y: 17.77777777777778</title>
+</g>
+<g>
+<circle cx="366.83" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T03:12
+Y: 18.94736842105263" />
+<title>Click Time: 2024-09-23T03:12
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="368.04" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T04:39
+Y: 16.551724137931036" />
+<title>Click Time: 2024-09-23T04:39
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="369.06" cy="388.34" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T05:52
+Y: 19.726027397260275" />
+<title>Click Time: 2024-09-23T05:52
+Y: 19.726027397260275</title>
+</g>
+<g>
+<circle cx="370.28" cy="398.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T07:20
+Y: 16.363636363636363" />
+<title>Click Time: 2024-09-23T07:20
+Y: 16.363636363636363</title>
+</g>
+<g>
+<circle cx="371.35" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T08:37
+Y: 18.7012987012987" />
+<title>Click Time: 2024-09-23T08:37
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="372.65" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T10:11
+Y: 15.319148936170214" />
+<title>Click Time: 2024-09-23T10:11
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="373.72" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T11:28
+Y: 18.7012987012987" />
+<title>Click Time: 2024-09-23T11:28
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="375.03" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T13:02
+Y: 15.319148936170214" />
+<title>Click Time: 2024-09-23T13:02
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="376.18" cy="395.13" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T14:25
+Y: 17.349397590361445" />
+<title>Click Time: 2024-09-23T14:25
+Y: 17.349397590361445</title>
+</g>
+<g>
+<circle cx="377.47" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T15:58
+Y: 15.483870967741936" />
+<title>Click Time: 2024-09-23T15:58
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="378.58" cy="393.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T17:18
+Y: 18.0" />
+<title>Click Time: 2024-09-23T17:18
+Y: 18.0</title>
+</g>
+<g>
+<circle cx="379.89" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T18:52
+Y: 15.319148936170214" />
+<title>Click Time: 2024-09-23T18:52
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="381.13" cy="398.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T20:21
+Y: 16.179775280898877" />
+<title>Click Time: 2024-09-23T20:21
+Y: 16.179775280898877</title>
+</g>
+<g>
+<circle cx="382.56" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T22:04
+Y: 13.980582524271844" />
+<title>Click Time: 2024-09-23T22:04
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="383.72" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-23T23:28
+Y: 17.142857142857142" />
+<title>Click Time: 2024-09-23T23:28
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="385.13" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T01:09
+Y: 14.257425742574258" />
+<title>Click Time: 2024-09-24T01:09
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="386.33" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T02:36
+Y: 16.551724137931036" />
+<title>Click Time: 2024-09-24T02:36
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="387.83" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T04:24
+Y: 13.333333333333334" />
+<title>Click Time: 2024-09-24T04:24
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="389.10" cy="399.99" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T05:55
+Y: 15.824175824175825" />
+<title>Click Time: 2024-09-24T05:55
+Y: 15.824175824175825</title>
+</g>
+<g>
+<circle cx="390.57" cy="408.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T07:41
+Y: 13.584905660377359" />
+<title>Click Time: 2024-09-24T07:41
+Y: 13.584905660377359</title>
+</g>
+<g>
+<circle cx="391.88" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T09:15
+Y: 15.319148936170214" />
+<title>Click Time: 2024-09-24T09:15
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="393.39" cy="409.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T11:04
+Y: 13.211009174311927" />
+<title>Click Time: 2024-09-24T11:04
+Y: 13.211009174311927</title>
+</g>
+<g>
+<circle cx="394.67" cy="400.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T12:36
+Y: 15.652173913043478" />
+<title>Click Time: 2024-09-24T12:36
+Y: 15.652173913043478</title>
+</g>
+<g>
+<circle cx="396.24" cy="411.44" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T14:29
+Y: 12.743362831858407" />
+<title>Click Time: 2024-09-24T14:29
+Y: 12.743362831858407</title>
+</g>
+<g>
+<circle cx="397.51" cy="400.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T16:01
+Y: 15.652173913043478" />
+<title>Click Time: 2024-09-24T16:01
+Y: 15.652173913043478</title>
+</g>
+<g>
+<circle cx="399.08" cy="411.44" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T17:54
+Y: 12.743362831858407" />
+<title>Click Time: 2024-09-24T17:54
+Y: 12.743362831858407</title>
+</g>
+<g>
+<circle cx="400.43" cy="403.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T19:31
+Y: 14.845360824742269" />
+<title>Click Time: 2024-09-24T19:31
+Y: 14.845360824742269</title>
+</g>
+<g>
+<circle cx="402.06" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T21:28
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-24T21:28
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="403.36" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-24T23:02
+Y: 15.319148936170214" />
+<title>Click Time: 2024-09-24T23:02
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="404.99" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T00:59
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-25T00:59
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="406.33" cy="403.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T02:36
+Y: 14.845360824742269" />
+<title>Click Time: 2024-09-25T02:36
+Y: 14.845360824742269</title>
+</g>
+<g>
+<circle cx="407.96" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T04:33
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-25T04:33
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="409.33" cy="404.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T06:12
+Y: 14.545454545454545" />
+<title>Click Time: 2024-09-25T06:12
+Y: 14.545454545454545</title>
+</g>
+<g>
+<circle cx="410.97" cy="413.73" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T08:10
+Y: 12.203389830508474" />
+<title>Click Time: 2024-09-25T08:10
+Y: 12.203389830508474</title>
+</g>
+<g>
+<circle cx="412.32" cy="403.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T09:47
+Y: 14.845360824742269" />
+<title>Click Time: 2024-09-25T09:47
+Y: 14.845360824742269</title>
+</g>
+<g>
+<circle cx="414.01" cy="415.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T11:49
+Y: 11.80327868852459" />
+<title>Click Time: 2024-09-25T11:49
+Y: 11.80327868852459</title>
+</g>
+<g>
+<circle cx="415.40" cy="404.98" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T13:29
+Y: 14.4" />
+<title>Click Time: 2024-09-25T13:29
+Y: 14.4</title>
+</g>
+<g>
+<circle cx="417.01" cy="412.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T15:25
+Y: 12.413793103448276" />
+<title>Click Time: 2024-09-25T15:25
+Y: 12.413793103448276</title>
+</g>
+<g>
+<circle cx="418.29" cy="400.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T16:57
+Y: 15.652173913043478" />
+<title>Click Time: 2024-09-25T16:57
+Y: 15.652173913043478</title>
+</g>
+<g>
+<circle cx="419.78" cy="408.56" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T18:44
+Y: 13.457943925233645" />
+<title>Click Time: 2024-09-25T18:44
+Y: 13.457943925233645</title>
+</g>
+<g>
+<circle cx="421.15" cy="404.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T20:23
+Y: 14.545454545454545" />
+<title>Click Time: 2024-09-25T20:23
+Y: 14.545454545454545</title>
+</g>
+<g>
+<circle cx="422.75" cy="412.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T22:18
+Y: 12.521739130434783" />
+<title>Click Time: 2024-09-25T22:18
+Y: 12.521739130434783</title>
+</g>
+<g>
+<circle cx="424.08" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-25T23:54
+Y: 15.0" />
+<title>Click Time: 2024-09-25T23:54
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="425.65" cy="411.44" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T01:47
+Y: 12.743362831858407" />
+<title>Click Time: 2024-09-26T01:47
+Y: 12.743362831858407</title>
+</g>
+<g>
+<circle cx="427.04" cy="404.98" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T03:27
+Y: 14.4" />
+<title>Click Time: 2024-09-26T03:27
+Y: 14.4</title>
+</g>
+<g>
+<circle cx="428.60" cy="410.97" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T05:19
+Y: 12.857142857142858" />
+<title>Click Time: 2024-09-26T05:19
+Y: 12.857142857142858</title>
+</g>
+<g>
+<circle cx="429.93" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T06:55
+Y: 15.0" />
+<title>Click Time: 2024-09-26T06:55
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="431.54" cy="412.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T08:51
+Y: 12.413793103448276" />
+<title>Click Time: 2024-09-26T08:51
+Y: 12.413793103448276</title>
+</g>
+<g>
+<circle cx="432.97" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T10:34
+Y: 13.980582524271844" />
+<title>Click Time: 2024-09-26T10:34
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="434.60" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T12:31
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-26T12:31
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="435.99" cy="404.98" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T14:11
+Y: 14.4" />
+<title>Click Time: 2024-09-26T14:11
+Y: 14.4</title>
+</g>
+<g>
+<circle cx="437.61" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T16:08
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-26T16:08
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="438.96" cy="403.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T17:45
+Y: 14.845360824742269" />
+<title>Click Time: 2024-09-26T17:45
+Y: 14.845360824742269</title>
+</g>
+<g>
+<circle cx="440.63" cy="414.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T19:45
+Y: 12.0" />
+<title>Click Time: 2024-09-26T19:45
+Y: 12.0</title>
+</g>
+<g>
+<circle cx="442.06" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T21:28
+Y: 13.980582524271844" />
+<title>Click Time: 2024-09-26T21:28
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="443.68" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-26T23:25
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-26T23:25
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="445.06" cy="404.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T01:04
+Y: 14.545454545454545" />
+<title>Click Time: 2024-09-27T01:04
+Y: 14.545454545454545</title>
+</g>
+<g>
+<circle cx="446.78" cy="416.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T03:08
+Y: 11.612903225806452" />
+<title>Click Time: 2024-09-27T03:08
+Y: 11.612903225806452</title>
+</g>
+<g>
+<circle cx="448.17" cy="404.98" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T04:48
+Y: 14.4" />
+<title>Click Time: 2024-09-27T04:48
+Y: 14.4</title>
+</g>
+<g>
+<circle cx="449.97" cy="418.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T06:58
+Y: 11.076923076923077" />
+<title>Click Time: 2024-09-27T06:58
+Y: 11.076923076923077</title>
+</g>
+<g>
+<circle cx="451.44" cy="408.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T08:44
+Y: 13.584905660377359" />
+<title>Click Time: 2024-09-27T08:44
+Y: 13.584905660377359</title>
+</g>
+<g>
+<circle cx="453.22" cy="418.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T10:52
+Y: 11.25" />
+<title>Click Time: 2024-09-27T10:52
+Y: 11.25</title>
+</g>
+<g>
+<circle cx="454.76" cy="410.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T12:43
+Y: 12.972972972972974" />
+<title>Click Time: 2024-09-27T12:43
+Y: 12.972972972972974</title>
+</g>
+<g>
+<circle cx="456.64" cy="420.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T14:58
+Y: 10.666666666666666" />
+<title>Click Time: 2024-09-27T14:58
+Y: 10.666666666666666</title>
+</g>
+<g>
+<circle cx="458.14" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T16:46
+Y: 13.333333333333334" />
+<title>Click Time: 2024-09-27T16:46
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="459.99" cy="420.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T18:59
+Y: 10.827067669172932" />
+<title>Click Time: 2024-09-27T18:59
+Y: 10.827067669172932</title>
+</g>
+<g>
+<circle cx="461.61" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T20:56
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-27T20:56
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="463.42" cy="418.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-27T23:06
+Y: 11.076923076923077" />
+<title>Click Time: 2024-09-27T23:06
+Y: 11.076923076923077</title>
+</g>
+<g>
+<circle cx="465.14" cy="416.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T01:10
+Y: 11.612903225806452" />
+<title>Click Time: 2024-09-28T01:10
+Y: 11.612903225806452</title>
+</g>
+<g>
+<circle cx="467.06" cy="422.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T03:28
+Y: 10.434782608695652" />
+<title>Click Time: 2024-09-28T03:28
+Y: 10.434782608695652</title>
+</g>
+<g>
+<circle cx="468.56" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T05:16
+Y: 13.333333333333334" />
+<title>Click Time: 2024-09-28T05:16
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="470.43" cy="420.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T07:31
+Y: 10.666666666666666" />
+<title>Click Time: 2024-09-28T07:31
+Y: 10.666666666666666</title>
+</g>
+<g>
+<circle cx="472.06" cy="413.28" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T09:28
+Y: 12.307692307692308" />
+<title>Click Time: 2024-09-28T09:28
+Y: 12.307692307692308</title>
+</g>
+<g>
+<circle cx="474.07" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T11:53
+Y: 9.931034482758621" />
+<title>Click Time: 2024-09-28T11:53
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="475.85" cy="418.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T14:01
+Y: 11.25" />
+<title>Click Time: 2024-09-28T14:01
+Y: 11.25</title>
+</g>
+<g>
+<circle cx="477.89" cy="425.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T16:28
+Y: 9.795918367346939" />
+<title>Click Time: 2024-09-28T16:28
+Y: 9.795918367346939</title>
+</g>
+<g>
+<circle cx="479.67" cy="418.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T18:36
+Y: 11.25" />
+<title>Click Time: 2024-09-28T18:36
+Y: 11.25</title>
+</g>
+<g>
+<circle cx="481.78" cy="427.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T21:08
+Y: 9.473684210526315" />
+<title>Click Time: 2024-09-28T21:08
+Y: 9.473684210526315</title>
+</g>
+<g>
+<circle cx="483.71" cy="422.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-28T23:27
+Y: 10.359712230215827" />
+<title>Click Time: 2024-09-28T23:27
+Y: 10.359712230215827</title>
+</g>
+<g>
+<circle cx="485.81" cy="426.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T01:58
+Y: 9.536423841059603" />
+<title>Click Time: 2024-09-29T01:58
+Y: 9.536423841059603</title>
+</g>
+<g>
+<circle cx="487.68" cy="420.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T04:13
+Y: 10.666666666666666" />
+<title>Click Time: 2024-09-29T04:13
+Y: 10.666666666666666</title>
+</g>
+<g>
+<circle cx="489.88" cy="429.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T06:51
+Y: 9.113924050632912" />
+<title>Click Time: 2024-09-29T06:51
+Y: 9.113924050632912</title>
+</g>
+<g>
+<circle cx="491.81" cy="422.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T09:10
+Y: 10.359712230215827" />
+<title>Click Time: 2024-09-29T09:10
+Y: 10.359712230215827</title>
+</g>
+<g>
+<circle cx="494.03" cy="429.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T11:50
+Y: 9.0" />
+<title>Click Time: 2024-09-29T11:50
+Y: 9.0</title>
+</g>
+<g>
+<circle cx="495.89" cy="420.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T14:04
+Y: 10.746268656716419" />
+<title>Click Time: 2024-09-29T14:04
+Y: 10.746268656716419</title>
+</g>
+<g>
+<circle cx="498.07" cy="428.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T16:41
+Y: 9.171974522292993" />
+<title>Click Time: 2024-09-29T16:41
+Y: 9.171974522292993</title>
+</g>
+<g>
+<circle cx="499.92" cy="420.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T18:54
+Y: 10.827067669172932" />
+<title>Click Time: 2024-09-29T18:54
+Y: 10.827067669172932</title>
+</g>
+<g>
+<circle cx="502.22" cy="431.78" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-29T21:40
+Y: 8.674698795180722" />
+<title>Click Time: 2024-09-29T21:40
+Y: 8.674698795180722</title>
+</g>
+<g>
+<circle cx="504.26" cy="425.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T00:07
+Y: 9.795918367346939" />
+<title>Click Time: 2024-09-30T00:07
+Y: 9.795918367346939</title>
+</g>
+<g>
+<circle cx="506.46" cy="429.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T02:45
+Y: 9.113924050632912" />
+<title>Click Time: 2024-09-30T02:45
+Y: 9.113924050632912</title>
+</g>
+<g>
+<circle cx="508.22" cy="417.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T04:52
+Y: 11.338582677165354" />
+<title>Click Time: 2024-09-30T04:52
+Y: 11.338582677165354</title>
+</g>
+<g>
+<circle cx="510.43" cy="429.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T07:31
+Y: 9.056603773584905" />
+<title>Click Time: 2024-09-30T07:31
+Y: 9.056603773584905</title>
+</g>
+<g>
+<circle cx="512.39" cy="423.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T09:52
+Y: 10.212765957446809" />
+<title>Click Time: 2024-09-30T09:52
+Y: 10.212765957446809</title>
+</g>
+<g>
+<circle cx="514.74" cy="432.72" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T12:41
+Y: 8.520710059171599" />
+<title>Click Time: 2024-09-30T12:41
+Y: 8.520710059171599</title>
+</g>
+<g>
+<circle cx="516.68" cy="422.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T15:01
+Y: 10.285714285714286" />
+<title>Click Time: 2024-09-30T15:01
+Y: 10.285714285714286</title>
+</g>
+<g>
+<circle cx="518.92" cy="430.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T17:42
+Y: 8.944099378881987" />
+<title>Click Time: 2024-09-30T17:42
+Y: 8.944099378881987</title>
+</g>
+<g>
+<circle cx="520.82" cy="421.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T19:59
+Y: 10.510948905109489" />
+<title>Click Time: 2024-09-30T19:59
+Y: 10.510948905109489</title>
+</g>
+<g>
+<circle cx="523.08" cy="430.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-09-30T22:42
+Y: 8.83435582822086" />
+<title>Click Time: 2024-09-30T22:42
+Y: 8.83435582822086</title>
+</g>
+<g>
+<circle cx="524.93" cy="420.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T00:55
+Y: 10.827067669172932" />
+<title>Click Time: 2024-10-01T00:55
+Y: 10.827067669172932</title>
+</g>
+<g>
+<circle cx="527.17" cy="430.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T03:36
+Y: 8.944099378881987" />
+<title>Click Time: 2024-10-01T03:36
+Y: 8.944099378881987</title>
+</g>
+<g>
+<circle cx="529.10" cy="422.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T05:55
+Y: 10.359712230215827" />
+<title>Click Time: 2024-10-01T05:55
+Y: 10.359712230215827</title>
+</g>
+<g>
+<circle cx="531.35" cy="430.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T08:37
+Y: 8.88888888888889" />
+<title>Click Time: 2024-10-01T08:37
+Y: 8.88888888888889</title>
+</g>
+<g>
+<circle cx="533.19" cy="420.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T10:50
+Y: 10.827067669172932" />
+<title>Click Time: 2024-10-01T10:50
+Y: 10.827067669172932</title>
+</g>
+<g>
+<circle cx="535.44" cy="430.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T13:32
+Y: 8.88888888888889" />
+<title>Click Time: 2024-10-01T13:32
+Y: 8.88888888888889</title>
+</g>
+<g>
+<circle cx="537.32" cy="420.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T15:47
+Y: 10.666666666666666" />
+<title>Click Time: 2024-10-01T15:47
+Y: 10.666666666666666</title>
+</g>
+<g>
+<circle cx="539.61" cy="431.46" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T18:32
+Y: 8.727272727272727" />
+<title>Click Time: 2024-10-01T18:32
+Y: 8.727272727272727</title>
+</g>
+<g>
+<circle cx="541.60" cy="423.89" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T20:55
+Y: 10.06993006993007" />
+<title>Click Time: 2024-10-01T20:55
+Y: 10.06993006993007</title>
+</g>
+<g>
+<circle cx="543.90" cy="431.78" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-01T23:41
+Y: 8.674698795180722" />
+<title>Click Time: 2024-10-01T23:41
+Y: 8.674698795180722</title>
+</g>
+<g>
+<circle cx="545.99" cy="426.42" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T02:11
+Y: 9.6" />
+<title>Click Time: 2024-10-02T02:11
+Y: 9.6</title>
+</g>
+<g>
+<circle cx="548.26" cy="431.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T04:55
+Y: 8.78048780487805" />
+<title>Click Time: 2024-10-02T04:55
+Y: 8.78048780487805</title>
+</g>
+<g>
+<circle cx="550.18" cy="422.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T07:13
+Y: 10.434782608695652" />
+<title>Click Time: 2024-10-02T07:13
+Y: 10.434782608695652</title>
+</g>
+<g>
+<circle cx="552.50" cy="432.09" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T10:00
+Y: 8.622754491017965" />
+<title>Click Time: 2024-10-02T10:00
+Y: 8.622754491017965</title>
+</g>
+<g>
+<circle cx="554.44" cy="422.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T12:20
+Y: 10.285714285714286" />
+<title>Click Time: 2024-10-02T12:20
+Y: 10.285714285714286</title>
+</g>
+<g>
+<circle cx="556.81" cy="433.04" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T15:10
+Y: 8.470588235294118" />
+<title>Click Time: 2024-10-02T15:10
+Y: 8.470588235294118</title>
+</g>
+<g>
+<circle cx="558.78" cy="423.52" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T17:32
+Y: 10.140845070422536" />
+<title>Click Time: 2024-10-02T17:32
+Y: 10.140845070422536</title>
+</g>
+<g>
+<circle cx="561.18" cy="433.96" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T20:25
+Y: 8.323699421965317" />
+<title>Click Time: 2024-10-02T20:25
+Y: 8.323699421965317</title>
+</g>
+<g>
+<circle cx="563.15" cy="423.52" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-02T22:47
+Y: 10.140845070422536" />
+<title>Click Time: 2024-10-02T22:47
+Y: 10.140845070422536</title>
+</g>
+<g>
+<circle cx="565.53" cy="433.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T01:38
+Y: 8.421052631578947" />
+<title>Click Time: 2024-10-03T01:38
+Y: 8.421052631578947</title>
+</g>
+<g>
+<circle cx="567.49" cy="423.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T03:59
+Y: 10.212765957446809" />
+<title>Click Time: 2024-10-03T03:59
+Y: 10.212765957446809</title>
+</g>
+<g>
+<circle cx="569.97" cy="435.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T06:58
+Y: 8.044692737430168" />
+<title>Click Time: 2024-10-03T06:58
+Y: 8.044692737430168</title>
+</g>
+<g>
+<circle cx="572.22" cy="430.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T09:40
+Y: 8.88888888888889" />
+<title>Click Time: 2024-10-03T09:40
+Y: 8.88888888888889</title>
+</g>
+<g>
+<circle cx="574.74" cy="436.35" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T12:41
+Y: 7.955801104972376" />
+<title>Click Time: 2024-10-03T12:41
+Y: 7.955801104972376</title>
+</g>
+<g>
+<circle cx="576.72" cy="423.89" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T15:04
+Y: 10.06993006993007" />
+<title>Click Time: 2024-10-03T15:04
+Y: 10.06993006993007</title>
+</g>
+<g>
+<circle cx="579.22" cy="436.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T18:04
+Y: 8.0" />
+<title>Click Time: 2024-10-03T18:04
+Y: 8.0</title>
+</g>
+<g>
+<circle cx="581.24" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T20:29
+Y: 9.931034482758621" />
+<title>Click Time: 2024-10-03T20:29
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="583.78" cy="436.93" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-03T23:32
+Y: 7.868852459016393" />
+<title>Click Time: 2024-10-03T23:32
+Y: 7.868852459016393</title>
+</g>
+<g>
+<circle cx="585.76" cy="423.89" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T01:55
+Y: 10.06993006993007" />
+<title>Click Time: 2024-10-04T01:55
+Y: 10.06993006993007</title>
+</g>
+<g>
+<circle cx="588.25" cy="435.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T04:54
+Y: 8.044692737430168" />
+<title>Click Time: 2024-10-04T04:54
+Y: 8.044692737430168</title>
+</g>
+<g>
+<circle cx="590.47" cy="429.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T07:34
+Y: 9.0" />
+<title>Click Time: 2024-10-04T07:34
+Y: 9.0</title>
+</g>
+<g>
+<circle cx="593.13" cy="439.19" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T10:45
+Y: 7.539267015706806" />
+<title>Click Time: 2024-10-04T10:45
+Y: 7.539267015706806</title>
+</g>
+<g>
+<circle cx="595.35" cy="429.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T13:25
+Y: 9.0" />
+<title>Click Time: 2024-10-04T13:25
+Y: 9.0</title>
+</g>
+<g>
+<circle cx="597.90" cy="437.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T16:29
+Y: 7.826086956521739" />
+<title>Click Time: 2024-10-04T16:29
+Y: 7.826086956521739</title>
+</g>
+<g>
+<circle cx="600.06" cy="428.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T19:04
+Y: 9.290322580645162" />
+<title>Click Time: 2024-10-04T19:04
+Y: 9.290322580645162</title>
+</g>
+<g>
+<circle cx="602.60" cy="436.93" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-04T22:07
+Y: 7.868852459016393" />
+<title>Click Time: 2024-10-04T22:07
+Y: 7.868852459016393</title>
+</g>
+<g>
+<circle cx="604.78" cy="428.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T00:44
+Y: 9.171974522292993" />
+<title>Click Time: 2024-10-05T00:44
+Y: 9.171974522292993</title>
+</g>
+<g>
+<circle cx="607.35" cy="437.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T03:49
+Y: 7.783783783783784" />
+<title>Click Time: 2024-10-05T03:49
+Y: 7.783783783783784</title>
+</g>
+<g>
+<circle cx="609.35" cy="424.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T06:13
+Y: 10.0" />
+<title>Click Time: 2024-10-05T06:13
+Y: 10.0</title>
+</g>
+<g>
+<circle cx="611.94" cy="438.07" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T09:20
+Y: 7.7005347593582885" />
+<title>Click Time: 2024-10-05T09:20
+Y: 7.7005347593582885</title>
+</g>
+<g>
+<circle cx="614.06" cy="427.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T11:52
+Y: 9.473684210526315" />
+<title>Click Time: 2024-10-05T11:52
+Y: 9.473684210526315</title>
+</g>
+<g>
+<circle cx="616.71" cy="439.19" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T15:03
+Y: 7.539267015706806" />
+<title>Click Time: 2024-10-05T15:03
+Y: 7.539267015706806</title>
+</g>
+<g>
+<circle cx="618.93" cy="429.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T17:43
+Y: 9.0" />
+<title>Click Time: 2024-10-05T17:43
+Y: 9.0</title>
+</g>
+<g>
+<circle cx="621.56" cy="438.64" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T20:52
+Y: 7.619047619047619" />
+<title>Click Time: 2024-10-05T20:52
+Y: 7.619047619047619</title>
+</g>
+<g>
+<circle cx="623.86" cy="431.78" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-05T23:38
+Y: 8.674698795180722" />
+<title>Click Time: 2024-10-05T23:38
+Y: 8.674698795180722</title>
+</g>
+<g>
+<circle cx="626.51" cy="439.19" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T02:49
+Y: 7.539267015706806" />
+<title>Click Time: 2024-10-06T02:49
+Y: 7.539267015706806</title>
+</g>
+<g>
+<circle cx="628.76" cy="430.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T05:31
+Y: 8.88888888888889" />
+<title>Click Time: 2024-10-06T05:31
+Y: 8.88888888888889</title>
+</g>
+<g>
+<circle cx="631.42" cy="439.19" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T08:42
+Y: 7.539267015706806" />
+<title>Click Time: 2024-10-06T08:42
+Y: 7.539267015706806</title>
+</g>
+<g>
+<circle cx="633.51" cy="426.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T11:13
+Y: 9.536423841059603" />
+<title>Click Time: 2024-10-06T11:13
+Y: 9.536423841059603</title>
+</g>
+<g>
+<circle cx="636.15" cy="438.92" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T14:23
+Y: 7.578947368421052" />
+<title>Click Time: 2024-10-06T14:23
+Y: 7.578947368421052</title>
+</g>
+<g>
+<circle cx="638.57" cy="434.27" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T17:17
+Y: 8.275862068965518" />
+<title>Click Time: 2024-10-06T17:17
+Y: 8.275862068965518</title>
+</g>
+<g>
+<circle cx="641.18" cy="438.36" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T20:25
+Y: 7.659574468085107" />
+<title>Click Time: 2024-10-06T20:25
+Y: 7.659574468085107</title>
+</g>
+<g>
+<circle cx="643.42" cy="430.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-06T23:06
+Y: 8.944099378881987" />
+<title>Click Time: 2024-10-06T23:06
+Y: 8.944099378881987</title>
+</g>
+<g>
+<circle cx="646.14" cy="440.56" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T02:22
+Y: 7.346938775510204" />
+<title>Click Time: 2024-10-07T02:22
+Y: 7.346938775510204</title>
+</g>
+<g>
+<circle cx="648.53" cy="433.65" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T05:14
+Y: 8.372093023255815" />
+<title>Click Time: 2024-10-07T05:14
+Y: 8.372093023255815</title>
+</g>
+<g>
+<circle cx="651.40" cy="443.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T08:41
+Y: 6.956521739130435" />
+<title>Click Time: 2024-10-07T08:41
+Y: 6.956521739130435</title>
+</g>
+<g>
+<circle cx="653.69" cy="431.46" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T11:26
+Y: 8.727272727272727" />
+<title>Click Time: 2024-10-07T11:26
+Y: 8.727272727272727</title>
+</g>
+<g>
+<circle cx="656.25" cy="437.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T14:30
+Y: 7.826086956521739" />
+<title>Click Time: 2024-10-07T14:30
+Y: 7.826086956521739</title>
+</g>
+<g>
+<circle cx="658.51" cy="430.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T17:13
+Y: 8.83435582822086" />
+<title>Click Time: 2024-10-07T17:13
+Y: 8.83435582822086</title>
+</g>
+<g>
+<circle cx="661.22" cy="440.29" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T20:28
+Y: 7.384615384615385" />
+<title>Click Time: 2024-10-07T20:28
+Y: 7.384615384615385</title>
+</g>
+<g>
+<circle cx="663.56" cy="432.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-07T23:16
+Y: 8.571428571428571" />
+<title>Click Time: 2024-10-07T23:16
+Y: 8.571428571428571</title>
+</g>
+<g>
+<circle cx="666.15" cy="438.07" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T02:23
+Y: 7.7005347593582885" />
+<title>Click Time: 2024-10-08T02:23
+Y: 7.7005347593582885</title>
+</g>
+<g>
+<circle cx="668.39" cy="430.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T05:04
+Y: 8.944099378881987" />
+<title>Click Time: 2024-10-08T05:04
+Y: 8.944099378881987</title>
+</g>
+<g>
+<circle cx="670.88" cy="435.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T08:03
+Y: 8.044692737430168" />
+<title>Click Time: 2024-10-08T08:03
+Y: 8.044692737430168</title>
+</g>
+<g>
+<circle cx="672.72" cy="420.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T10:16
+Y: 10.827067669172932" />
+<title>Click Time: 2024-10-08T10:16
+Y: 10.827067669172932</title>
+</g>
+<g>
+<circle cx="674.63" cy="421.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T12:33
+Y: 10.510948905109489" />
+<title>Click Time: 2024-10-08T12:33
+Y: 10.510948905109489</title>
+</g>
+<g>
+<circle cx="676.03" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T14:14
+Y: 14.257425742574258" />
+<title>Click Time: 2024-10-08T14:14
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="677.64" cy="412.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T16:10
+Y: 12.413793103448276" />
+<title>Click Time: 2024-10-08T16:10
+Y: 12.413793103448276</title>
+</g>
+<g>
+<circle cx="678.94" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T17:44
+Y: 15.319148936170214" />
+<title>Click Time: 2024-10-08T17:44
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="680.44" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T19:32
+Y: 13.333333333333334" />
+<title>Click Time: 2024-10-08T19:32
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="681.78" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T21:08
+Y: 15.0" />
+<title>Click Time: 2024-10-08T21:08
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="683.21" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-08T22:51
+Y: 13.980582524271844" />
+<title>Click Time: 2024-10-08T22:51
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="684.35" cy="394.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T00:13
+Y: 17.5609756097561" />
+<title>Click Time: 2024-10-09T00:13
+Y: 17.5609756097561</title>
+</g>
+<g>
+<circle cx="685.75" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T01:54
+Y: 14.257425742574258" />
+<title>Click Time: 2024-10-09T01:54
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="686.92" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T03:18
+Y: 17.142857142857142" />
+<title>Click Time: 2024-10-09T03:18
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="688.31" cy="404.98" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T04:58
+Y: 14.4" />
+<title>Click Time: 2024-10-09T04:58
+Y: 14.4</title>
+</g>
+<g>
+<circle cx="689.46" cy="395.13" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T06:21
+Y: 17.349397590361445" />
+<title>Click Time: 2024-10-09T06:21
+Y: 17.349397590361445</title>
+</g>
+<g>
+<circle cx="690.81" cy="403.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T07:58
+Y: 14.845360824742269" />
+<title>Click Time: 2024-10-09T07:58
+Y: 14.845360824742269</title>
+</g>
+<g>
+<circle cx="691.97" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T09:22
+Y: 17.142857142857142" />
+<title>Click Time: 2024-10-09T09:22
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="693.28" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T10:56
+Y: 15.319148936170214" />
+<title>Click Time: 2024-10-09T10:56
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="694.29" cy="388.34" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T12:09
+Y: 19.726027397260275" />
+<title>Click Time: 2024-10-09T12:09
+Y: 19.726027397260275</title>
+</g>
+<g>
+<circle cx="695.60" cy="401.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T13:43
+Y: 15.319148936170214" />
+<title>Click Time: 2024-10-09T13:43
+Y: 15.319148936170214</title>
+</g>
+<g>
+<circle cx="696.64" cy="389.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T14:58
+Y: 19.2" />
+<title>Click Time: 2024-10-09T14:58
+Y: 19.2</title>
+</g>
+<g>
+<circle cx="697.81" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T16:22
+Y: 17.142857142857142" />
+<title>Click Time: 2024-10-09T16:22
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="698.83" cy="389.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T17:36
+Y: 19.45945945945946" />
+<title>Click Time: 2024-10-09T17:36
+Y: 19.45945945945946</title>
+</g>
+<g>
+<circle cx="700.04" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T19:03
+Y: 16.551724137931036" />
+<title>Click Time: 2024-10-09T19:03
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="700.99" cy="384.59" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T20:11
+Y: 21.176470588235293" />
+<title>Click Time: 2024-10-09T20:11
+Y: 21.176470588235293</title>
+</g>
+<g>
+<circle cx="702.26" cy="400.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T21:43
+Y: 15.652173913043478" />
+<title>Click Time: 2024-10-09T21:43
+Y: 15.652173913043478</title>
+</g>
+<g>
+<circle cx="703.32" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-09T22:59
+Y: 18.94736842105263" />
+<title>Click Time: 2024-10-09T22:59
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="704.50" cy="396.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T00:24
+Y: 16.941176470588236" />
+<title>Click Time: 2024-10-10T00:24
+Y: 16.941176470588236</title>
+</g>
+<g>
+<circle cx="705.56" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T01:40
+Y: 18.94736842105263" />
+<title>Click Time: 2024-10-10T01:40
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="706.76" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T03:07
+Y: 16.551724137931036" />
+<title>Click Time: 2024-10-10T03:07
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="707.85" cy="391.84" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T04:25
+Y: 18.46153846153846" />
+<title>Click Time: 2024-10-10T04:25
+Y: 18.46153846153846</title>
+</g>
+<g>
+<circle cx="709.08" cy="398.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T05:54
+Y: 16.179775280898877" />
+<title>Click Time: 2024-10-10T05:54
+Y: 16.179775280898877</title>
+</g>
+<g>
+<circle cx="710.14" cy="390.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T07:10
+Y: 18.94736842105263" />
+<title>Click Time: 2024-10-10T07:10
+Y: 18.94736842105263</title>
+</g>
+<g>
+<circle cx="711.36" cy="398.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T08:38
+Y: 16.363636363636363" />
+<title>Click Time: 2024-10-10T08:38
+Y: 16.363636363636363</title>
+</g>
+<g>
+<circle cx="712.40" cy="389.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T09:53
+Y: 19.2" />
+<title>Click Time: 2024-10-10T09:53
+Y: 19.2</title>
+</g>
+<g>
+<circle cx="713.56" cy="395.13" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T11:16
+Y: 17.349397590361445" />
+<title>Click Time: 2024-10-10T11:16
+Y: 17.349397590361445</title>
+</g>
+<g>
+<circle cx="714.56" cy="387.61" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T12:28
+Y: 20.0" />
+<title>Click Time: 2024-10-10T12:28
+Y: 20.0</title>
+</g>
+<g>
+<circle cx="715.79" cy="398.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T13:57
+Y: 16.179775280898877" />
+<title>Click Time: 2024-10-10T13:57
+Y: 16.179775280898877</title>
+</g>
+<g>
+<circle cx="716.82" cy="389.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T15:11
+Y: 19.45945945945946" />
+<title>Click Time: 2024-10-10T15:11
+Y: 19.45945945945946</title>
+</g>
+<g>
+<circle cx="718.07" cy="399.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T16:41
+Y: 16.0" />
+<title>Click Time: 2024-10-10T16:41
+Y: 16.0</title>
+</g>
+<g>
+<circle cx="719.14" cy="391.16" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T17:58
+Y: 18.7012987012987" />
+<title>Click Time: 2024-10-10T17:58
+Y: 18.7012987012987</title>
+</g>
+<g>
+<circle cx="720.47" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T19:34
+Y: 15.0" />
+<title>Click Time: 2024-10-10T19:34
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="721.64" cy="395.76" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T20:58
+Y: 17.142857142857142" />
+<title>Click Time: 2024-10-10T20:58
+Y: 17.142857142857142</title>
+</g>
+<g>
+<circle cx="723.01" cy="404.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T22:37
+Y: 14.545454545454545" />
+<title>Click Time: 2024-10-10T22:37
+Y: 14.545454545454545</title>
+</g>
+<g>
+<circle cx="724.13" cy="393.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-10T23:57
+Y: 18.0" />
+<title>Click Time: 2024-10-10T23:57
+Y: 18.0</title>
+</g>
+<g>
+<circle cx="725.42" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T01:30
+Y: 15.483870967741936" />
+<title>Click Time: 2024-10-11T01:30
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="726.64" cy="398.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T02:58
+Y: 16.363636363636363" />
+<title>Click Time: 2024-10-11T02:58
+Y: 16.363636363636363</title>
+</g>
+<g>
+<circle cx="728.01" cy="404.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T04:37
+Y: 14.545454545454545" />
+<title>Click Time: 2024-10-11T04:37
+Y: 14.545454545454545</title>
+</g>
+<g>
+<circle cx="729.10" cy="391.84" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T05:55
+Y: 18.46153846153846" />
+<title>Click Time: 2024-10-11T05:55
+Y: 18.46153846153846</title>
+</g>
+<g>
+<circle cx="730.50" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T07:36
+Y: 14.257425742574258" />
+<title>Click Time: 2024-10-11T07:36
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="731.71" cy="397.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T09:03
+Y: 16.551724137931036" />
+<title>Click Time: 2024-10-11T09:03
+Y: 16.551724137931036</title>
+</g>
+<g>
+<circle cx="733.13" cy="406.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T10:45
+Y: 14.117647058823529" />
+<title>Click Time: 2024-10-11T10:45
+Y: 14.117647058823529</title>
+</g>
+<g>
+<circle cx="734.42" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T12:18
+Y: 15.483870967741936" />
+<title>Click Time: 2024-10-11T12:18
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="735.88" cy="407.56" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T14:03
+Y: 13.714285714285714" />
+<title>Click Time: 2024-10-11T14:03
+Y: 13.714285714285714</title>
+</g>
+<g>
+<circle cx="737.06" cy="396.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T15:28
+Y: 16.941176470588236" />
+<title>Click Time: 2024-10-11T15:28
+Y: 16.941176470588236</title>
+</g>
+<g>
+<circle cx="738.49" cy="406.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T17:11
+Y: 13.980582524271844" />
+<title>Click Time: 2024-10-11T17:11
+Y: 13.980582524271844</title>
+</g>
+<g>
+<circle cx="739.71" cy="398.22" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T18:39
+Y: 16.363636363636363" />
+<title>Click Time: 2024-10-11T18:39
+Y: 16.363636363636363</title>
+</g>
+<g>
+<circle cx="741.22" cy="409.54" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T20:28
+Y: 13.211009174311927" />
+<title>Click Time: 2024-10-11T20:28
+Y: 13.211009174311927</title>
+</g>
+<g>
+<circle cx="742.51" cy="401.14" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T22:01
+Y: 15.483870967741936" />
+<title>Click Time: 2024-10-11T22:01
+Y: 15.483870967741936</title>
+</g>
+<g>
+<circle cx="743.97" cy="407.56" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-11T23:46
+Y: 13.714285714285714" />
+<title>Click Time: 2024-10-11T23:46
+Y: 13.714285714285714</title>
+</g>
+<g>
+<circle cx="745.29" cy="402.27" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T01:21
+Y: 15.157894736842104" />
+<title>Click Time: 2024-10-12T01:21
+Y: 15.157894736842104</title>
+</g>
+<g>
+<circle cx="746.79" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T03:09
+Y: 13.333333333333334" />
+<title>Click Time: 2024-10-12T03:09
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="748.13" cy="402.82" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T04:45
+Y: 15.0" />
+<title>Click Time: 2024-10-12T04:45
+Y: 15.0</title>
+</g>
+<g>
+<circle cx="749.71" cy="411.91" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T06:39
+Y: 12.631578947368421" />
+<title>Click Time: 2024-10-12T06:39
+Y: 12.631578947368421</title>
+</g>
+<g>
+<circle cx="751.13" cy="406.03" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T08:21
+Y: 14.117647058823529" />
+<title>Click Time: 2024-10-12T08:21
+Y: 14.117647058823529</title>
+</g>
+<g>
+<circle cx="752.83" cy="415.93" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T10:24
+Y: 11.707317073170731" />
+<title>Click Time: 2024-10-12T10:24
+Y: 11.707317073170731</title>
+</g>
+<g>
+<circle cx="754.32" cy="408.56" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T12:11
+Y: 13.457943925233645" />
+<title>Click Time: 2024-10-12T12:11
+Y: 13.457943925233645</title>
+</g>
+<g>
+<circle cx="756.01" cy="415.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T14:13
+Y: 11.80327868852459" />
+<title>Click Time: 2024-10-12T14:13
+Y: 11.80327868852459</title>
+</g>
+<g>
+<circle cx="757.42" cy="405.51" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T15:54
+Y: 14.257425742574258" />
+<title>Click Time: 2024-10-12T15:54
+Y: 14.257425742574258</title>
+</g>
+<g>
+<circle cx="759.11" cy="415.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T17:56
+Y: 11.80327868852459" />
+<title>Click Time: 2024-10-12T17:56
+Y: 11.80327868852459</title>
+</g>
+<g>
+<circle cx="760.64" cy="410.02" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T19:46
+Y: 13.090909090909092" />
+<title>Click Time: 2024-10-12T19:46
+Y: 13.090909090909092</title>
+</g>
+<g>
+<circle cx="762.31" cy="414.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T21:46
+Y: 12.0" />
+<title>Click Time: 2024-10-12T21:46
+Y: 12.0</title>
+</g>
+<g>
+<circle cx="763.81" cy="409.05" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-12T23:34
+Y: 13.333333333333334" />
+<title>Click Time: 2024-10-12T23:34
+Y: 13.333333333333334</title>
+</g>
+<g>
+<circle cx="765.63" cy="419.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T01:45
+Y: 10.992366412213741" />
+<title>Click Time: 2024-10-13T01:45
+Y: 10.992366412213741</title>
+</g>
+<g>
+<circle cx="767.17" cy="410.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T03:36
+Y: 12.972972972972974" />
+<title>Click Time: 2024-10-13T03:36
+Y: 12.972972972972974</title>
+</g>
+<g>
+<circle cx="769.00" cy="419.66" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T05:48
+Y: 10.909090909090908" />
+<title>Click Time: 2024-10-13T05:48
+Y: 10.909090909090908</title>
+</g>
+<g>
+<circle cx="770.61" cy="412.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T07:44
+Y: 12.413793103448276" />
+<title>Click Time: 2024-10-13T07:44
+Y: 12.413793103448276</title>
+</g>
+<g>
+<circle cx="772.53" cy="422.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T10:02
+Y: 10.434782608695652" />
+<title>Click Time: 2024-10-13T10:02
+Y: 10.434782608695652</title>
+</g>
+<g>
+<circle cx="774.06" cy="410.02" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T11:52
+Y: 13.090909090909092" />
+<title>Click Time: 2024-10-13T11:52
+Y: 13.090909090909092</title>
+</g>
+<g>
+<circle cx="775.92" cy="420.45" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T14:06
+Y: 10.746268656716419" />
+<title>Click Time: 2024-10-13T14:06
+Y: 10.746268656716419</title>
+</g>
+<g>
+<circle cx="777.50" cy="411.91" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T16:00
+Y: 12.631578947368421" />
+<title>Click Time: 2024-10-13T16:00
+Y: 12.631578947368421</title>
+</g>
+<g>
+<circle cx="779.38" cy="420.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T18:15
+Y: 10.666666666666666" />
+<title>Click Time: 2024-10-13T18:15
+Y: 10.666666666666666</title>
+</g>
+<g>
+<circle cx="780.97" cy="412.37" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T20:10
+Y: 12.521739130434783" />
+<title>Click Time: 2024-10-13T20:10
+Y: 12.521739130434783</title>
+</g>
+<g>
+<circle cx="782.90" cy="422.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-13T22:29
+Y: 10.359712230215827" />
+<title>Click Time: 2024-10-13T22:29
+Y: 10.359712230215827</title>
+</g>
+<g>
+<circle cx="784.56" cy="414.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T00:28
+Y: 12.100840336134453" />
+<title>Click Time: 2024-10-14T00:28
+Y: 12.100840336134453</title>
+</g>
+<g>
+<circle cx="786.56" cy="424.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T02:52
+Y: 10.0" />
+<title>Click Time: 2024-10-14T02:52
+Y: 10.0</title>
+</g>
+<g>
+<circle cx="788.21" cy="414.18" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T04:51
+Y: 12.100840336134453" />
+<title>Click Time: 2024-10-14T04:51
+Y: 12.100840336134453</title>
+</g>
+<g>
+<circle cx="790.22" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T07:16
+Y: 9.931034482758621" />
+<title>Click Time: 2024-10-14T07:16
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="791.93" cy="415.93" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T09:19
+Y: 11.707317073170731" />
+<title>Click Time: 2024-10-14T09:19
+Y: 11.707317073170731</title>
+</g>
+<g>
+<circle cx="793.85" cy="422.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T11:37
+Y: 10.434782608695652" />
+<title>Click Time: 2024-10-14T11:37
+Y: 10.434782608695652</title>
+</g>
+<g>
+<circle cx="795.51" cy="414.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T13:37
+Y: 12.0" />
+<title>Click Time: 2024-10-14T13:37
+Y: 12.0</title>
+</g>
+<g>
+<circle cx="797.53" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T16:02
+Y: 9.931034482758621" />
+<title>Click Time: 2024-10-14T16:02
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="799.17" cy="413.73" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T18:00
+Y: 12.203389830508474" />
+<title>Click Time: 2024-10-14T18:00
+Y: 12.203389830508474</title>
+</g>
+<g>
+<circle cx="801.18" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T20:25
+Y: 9.931034482758621" />
+<title>Click Time: 2024-10-14T20:25
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="802.97" cy="418.44" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-14T22:34
+Y: 11.162790697674419" />
+<title>Click Time: 2024-10-14T22:34
+Y: 11.162790697674419</title>
+</g>
+<g>
+<circle cx="805.00" cy="424.99" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T01:00
+Y: 9.863013698630137" />
+<title>Click Time: 2024-10-15T01:00
+Y: 9.863013698630137</title>
+</g>
+<g>
+<circle cx="806.94" cy="422.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T03:20
+Y: 10.285714285714286" />
+<title>Click Time: 2024-10-15T03:20
+Y: 10.285714285714286</title>
+</g>
+<g>
+<circle cx="809.14" cy="429.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T05:58
+Y: 9.113924050632912" />
+<title>Click Time: 2024-10-15T05:58
+Y: 9.113924050632912</title>
+</g>
+<g>
+<circle cx="811.06" cy="422.01" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T08:16
+Y: 10.434782608695652" />
+<title>Click Time: 2024-10-15T08:16
+Y: 10.434782608695652</title>
+</g>
+<g>
+<circle cx="813.32" cy="430.81" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T10:59
+Y: 8.83435582822086" />
+<title>Click Time: 2024-10-15T10:59
+Y: 8.83435582822086</title>
+</g>
+<g>
+<circle cx="815.25" cy="422.39" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T13:18
+Y: 10.359712230215827" />
+<title>Click Time: 2024-10-15T13:18
+Y: 10.359712230215827</title>
+</g>
+<g>
+<circle cx="817.43" cy="428.83" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T15:55
+Y: 9.171974522292993" />
+<title>Click Time: 2024-10-15T15:55
+Y: 9.171974522292993</title>
+</g>
+<g>
+<circle cx="819.43" cy="424.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T18:19
+Y: 10.0" />
+<title>Click Time: 2024-10-15T18:19
+Y: 10.0</title>
+</g>
+<g>
+<circle cx="821.64" cy="429.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T20:58
+Y: 9.056603773584905" />
+<title>Click Time: 2024-10-15T20:58
+Y: 9.056603773584905</title>
+</g>
+<g>
+<circle cx="823.64" cy="424.26" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-15T23:22
+Y: 10.0" />
+<title>Click Time: 2024-10-15T23:22
+Y: 10.0</title>
+</g>
+<g>
+<circle cx="825.97" cy="432.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T02:10
+Y: 8.571428571428571" />
+<title>Click Time: 2024-10-16T02:10
+Y: 8.571428571428571</title>
+</g>
+<g>
+<circle cx="827.93" cy="423.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T04:31
+Y: 10.212765957446809" />
+<title>Click Time: 2024-10-16T04:31
+Y: 10.212765957446809</title>
+</g>
+<g>
+<circle cx="830.26" cy="432.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T07:19
+Y: 8.571428571428571" />
+<title>Click Time: 2024-10-16T07:19
+Y: 8.571428571428571</title>
+</g>
+<g>
+<circle cx="832.21" cy="422.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T09:39
+Y: 10.285714285714286" />
+<title>Click Time: 2024-10-16T09:39
+Y: 10.285714285714286</title>
+</g>
+<g>
+<circle cx="834.51" cy="431.78" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T12:25
+Y: 8.674698795180722" />
+<title>Click Time: 2024-10-16T12:25
+Y: 8.674698795180722</title>
+</g>
+<g>
+<circle cx="836.42" cy="421.62" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T14:42
+Y: 10.510948905109489" />
+<title>Click Time: 2024-10-16T14:42
+Y: 10.510948905109489</title>
+</g>
+<g>
+<circle cx="838.78" cy="433.04" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T17:32
+Y: 8.470588235294118" />
+<title>Click Time: 2024-10-16T17:32
+Y: 8.470588235294118</title>
+</g>
+<g>
+<circle cx="840.58" cy="418.85" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T19:42
+Y: 11.076923076923077" />
+<title>Click Time: 2024-10-16T19:42
+Y: 11.076923076923077</title>
+</g>
+<g>
+<circle cx="842.99" cy="433.96" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-16T22:35
+Y: 8.323699421965317" />
+<title>Click Time: 2024-10-16T22:35
+Y: 8.323699421965317</title>
+</g>
+<g>
+<circle cx="844.93" cy="422.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T00:55
+Y: 10.285714285714286" />
+<title>Click Time: 2024-10-17T00:55
+Y: 10.285714285714286</title>
+</g>
+<g>
+<circle cx="847.39" cy="435.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T03:52
+Y: 8.135593220338983" />
+<title>Click Time: 2024-10-17T03:52
+Y: 8.135593220338983</title>
+</g>
+<g>
+<circle cx="849.54" cy="428.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T06:27
+Y: 9.290322580645162" />
+<title>Click Time: 2024-10-17T06:27
+Y: 9.290322580645162</title>
+</g>
+<g>
+<circle cx="851.97" cy="434.57" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T09:22
+Y: 8.228571428571428" />
+<title>Click Time: 2024-10-17T09:22
+Y: 8.228571428571428</title>
+</g>
+<g>
+<circle cx="853.99" cy="424.63" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T11:47
+Y: 9.931034482758621" />
+<title>Click Time: 2024-10-17T11:47
+Y: 9.931034482758621</title>
+</g>
+<g>
+<circle cx="856.40" cy="434.27" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T14:41
+Y: 8.275862068965518" />
+<title>Click Time: 2024-10-17T14:41
+Y: 8.275862068965518</title>
+</g>
+<g>
+<circle cx="858.39" cy="423.89" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T17:04
+Y: 10.06993006993007" />
+<title>Click Time: 2024-10-17T17:04
+Y: 10.06993006993007</title>
+</g>
+<g>
+<circle cx="860.86" cy="435.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T20:02
+Y: 8.089887640449438" />
+<title>Click Time: 2024-10-17T20:02
+Y: 8.089887640449438</title>
+</g>
+<g>
+<circle cx="863.11" cy="430.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-17T22:44
+Y: 8.88888888888889" />
+<title>Click Time: 2024-10-17T22:44
+Y: 8.88888888888889</title>
+</g>
+<g>
+<circle cx="865.51" cy="433.96" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T01:37
+Y: 8.323699421965317" />
+<title>Click Time: 2024-10-18T01:37
+Y: 8.323699421965317</title>
+</g>
+<g>
+<circle cx="867.49" cy="423.52" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T03:59
+Y: 10.140845070422536" />
+<title>Click Time: 2024-10-18T03:59
+Y: 10.140845070422536</title>
+</g>
+<g>
+<circle cx="869.93" cy="434.87" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T06:55
+Y: 8.181818181818182" />
+<title>Click Time: 2024-10-18T06:55
+Y: 8.181818181818182</title>
+</g>
+<g>
+<circle cx="872.03" cy="426.77" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T09:26
+Y: 9.536423841059603" />
+<title>Click Time: 2024-10-18T09:26
+Y: 9.536423841059603</title>
+</g>
+<g>
+<circle cx="874.49" cy="435.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T12:23
+Y: 8.135593220338983" />
+<title>Click Time: 2024-10-18T12:23
+Y: 8.135593220338983</title>
+</g>
+<g>
+<circle cx="876.44" cy="423.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T14:44
+Y: 10.212765957446809" />
+<title>Click Time: 2024-10-18T14:44
+Y: 10.212765957446809</title>
+</g>
+<g>
+<circle cx="878.78" cy="432.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T17:32
+Y: 8.571428571428571" />
+<title>Click Time: 2024-10-18T17:32
+Y: 8.571428571428571</title>
+</g>
+<g>
+<circle cx="880.83" cy="425.71" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T20:00
+Y: 9.72972972972973" />
+<title>Click Time: 2024-10-18T20:00
+Y: 9.72972972972973</title>
+</g>
+<g>
+<circle cx="883.33" cy="436.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-18T23:00
+Y: 8.0" />
+<title>Click Time: 2024-10-18T23:00
+Y: 8.0</title>
+</g>
+<g>
+<circle cx="885.50" cy="428.49" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T01:36
+Y: 9.23076923076923" />
+<title>Click Time: 2024-10-19T01:36
+Y: 9.23076923076923</title>
+</g>
+<g>
+<circle cx="887.83" cy="432.41" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T04:24
+Y: 8.571428571428571" />
+<title>Click Time: 2024-10-19T04:24
+Y: 8.571428571428571</title>
+</g>
+<g>
+<circle cx="889.99" cy="428.15" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T06:59
+Y: 9.290322580645162" />
+<title>Click Time: 2024-10-19T06:59
+Y: 9.290322580645162</title>
+</g>
+<g>
+<circle cx="892.51" cy="436.64" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T10:01
+Y: 7.912087912087912" />
+<title>Click Time: 2024-10-19T10:01
+Y: 7.912087912087912</title>
+</g>
+<g>
+<circle cx="894.63" cy="427.12" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T12:33
+Y: 9.473684210526315" />
+<title>Click Time: 2024-10-19T12:33
+Y: 9.473684210526315</title>
+</g>
+<g>
+<circle cx="897.10" cy="435.47" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T15:31
+Y: 8.089887640449438" />
+<title>Click Time: 2024-10-19T15:31
+Y: 8.089887640449438</title>
+</g>
+<g>
+<circle cx="899.29" cy="429.17" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T18:09
+Y: 9.113924050632912" />
+<title>Click Time: 2024-10-19T18:09
+Y: 9.113924050632912</title>
+</g>
+<g>
+<circle cx="901.92" cy="438.64" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T21:18
+Y: 7.619047619047619" />
+<title>Click Time: 2024-10-19T21:18
+Y: 7.619047619047619</title>
+</g>
+<g>
+<circle cx="904.13" cy="429.50" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-19T23:57
+Y: 9.056603773584905" />
+<title>Click Time: 2024-10-19T23:57
+Y: 9.056603773584905</title>
+</g>
+<g>
+<circle cx="906.63" cy="436.06" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-20T02:57
+Y: 8.0" />
+<title>Click Time: 2024-10-20T02:57
+Y: 8.0</title>
+</g>
+<g>
+<circle cx="908.94" cy="432.09" fill="#000f" r="1.6666666666666667" stroke="none" tooltip="Click Time: 2024-10-20T05:44
+Y: 8.622754491017965" />
+<title>Click Time: 2024-10-20T05:44
+Y: 8.622754491017965</title>
+</g>
+</g>
+<g stroke="black">
+<line x1="524.17" x2="524.17" y1="546.00" y2="556.00" />
+<g fill="black" font-family="Arial, sans-serif" font-size="18.0" stroke="none" text-anchor="start" transform="translate(9.0 0.0)">
+<text x="524.17" y="566.57">Oct</text>
+</g>
+<line x1="90.00" x2="910.00" y1="546.00" y2="546.00" />
+</g>
+<g stroke="black">
+<line x1="90.00" x2="78.00" y1="546.00" y2="546.00" />
+<line x1="90.00" x2="78.00" y1="424.26" y2="424.26" />
+<line x1="90.00" x2="78.00" y1="302.52" y2="302.52" />
+<line x1="90.00" x2="78.00" y1="180.78" y2="180.78" />
+<line x1="90.00" x2="78.00" y1="59.04" y2="59.04" />
+<line x1="90.00" x2="85.00" y1="509.35" y2="509.35" />
+<line x1="90.00" x2="85.00" y1="487.92" y2="487.92" />
+<line x1="90.00" x2="85.00" y1="472.71" y2="472.71" />
+<line x1="90.00" x2="85.00" y1="460.91" y2="460.91" />
+<line x1="90.00" x2="85.00" y1="451.27" y2="451.27" />
+<line x1="90.00" x2="85.00" y1="443.12" y2="443.12" />
+<line x1="90.00" x2="85.00" y1="436.06" y2="436.06" />
+<line x1="90.00" x2="85.00" y1="429.83" y2="429.83" />
+<line x1="90.00" x2="85.00" y1="387.61" y2="387.61" />
+<line x1="90.00" x2="85.00" y1="366.17" y2="366.17" />
+<line x1="90.00" x2="85.00" y1="350.96" y2="350.96" />
+<line x1="90.00" x2="85.00" y1="339.17" y2="339.17" />
+<line x1="90.00" x2="85.00" y1="329.53" y2="329.53" />
+<line x1="90.00" x2="85.00" y1="321.38" y2="321.38" />
+<line x1="90.00" x2="85.00" y1="314.32" y2="314.32" />
+<line x1="90.00" x2="85.00" y1="308.09" y2="308.09" />
+<line x1="90.00" x2="85.00" y1="265.87" y2="265.87" />
+<line x1="90.00" x2="85.00" y1="244.43" y2="244.43" />
+<line x1="90.00" x2="85.00" y1="229.22" y2="229.22" />
+<line x1="90.00" x2="85.00" y1="217.43" y2="217.43" />
+<line x1="90.00" x2="85.00" y1="207.79" y2="207.79" />
+<line x1="90.00" x2="85.00" y1="199.64" y2="199.64" />
+<line x1="90.00" x2="85.00" y1="192.58" y2="192.58" />
+<line x1="90.00" x2="85.00" y1="186.35" y2="186.35" />
+<line x1="90.00" x2="85.00" y1="144.13" y2="144.13" />
+<line x1="90.00" x2="85.00" y1="122.69" y2="122.69" />
+<line x1="90.00" x2="85.00" y1="107.48" y2="107.48" />
+<line x1="90.00" x2="85.00" y1="95.69" y2="95.69" />
+<line x1="90.00" x2="85.00" y1="86.05" y2="86.05" />
+<line x1="90.00" x2="85.00" y1="77.90" y2="77.90" />
+<line x1="90.00" x2="85.00" y1="70.84" y2="70.84" />
+<line x1="90.00" x2="85.00" y1="64.61" y2="64.61" />
+<g fill="black" font-family="Arial, sans-serif" font-size="18.0" stroke="none" text-anchor="end">
+<text x="81.00" y="537.00">1</text>
+<text x="81.00" y="415.26">10</text>
+<text x="81.00" y="293.52">100</text>
+<text x="81.00" y="171.78">1000</text>
+<text x="81.00" y="50.04">10000</text>
+</g>
+<line x1="90.00" x2="90.00" y1="546.00" y2="54.00" />
+</g>
+</g>
+</g>
+</svg>
