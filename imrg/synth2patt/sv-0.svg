@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<svg height="342.0" version="1.1" viewBox="0 0 1.0 2.0" width="171.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<g>
+<polygon fill="#ede7ea" points="0.00,0.00 0.10,0.00 0.10,0.10 0.00,0.10" />
+<polygon fill="#ede7ea" points="0.10,0.00 0.20,0.00 0.20,0.10 0.10,0.10" />
+<polygon fill="#dbd8ee" points="0.20,0.00 0.30,0.00 0.30,0.10 0.20,0.10" />
+<polygon fill="#ccc8ed" points="0.30,0.00 0.40,0.00 0.40,0.10 0.30,0.10" />
+<polygon fill="#b4afea" points="0.40,0.00 0.50,0.00 0.50,0.10 0.40,0.10" />
+<polygon fill="#cdc9ed" points="0.50,0.00 0.60,0.00 0.60,0.10 0.50,0.10" />
+<polygon fill="#e5e3ef" points="0.60,0.00 0.70,0.00 0.70,0.10 0.60,0.10" />
+<polygon fill="#ede7ea" points="0.70,0.00 0.80,0.00 0.80,0.10 0.70,0.10" />
+<polygon fill="#ede7ea" points="0.80,0.00 0.90,0.00 0.90,0.10 0.80,0.10" />
+<polygon fill="#ede7ea" points="0.90,0.00 1.00,0.00 1.00,0.10 0.90,0.10" />
+<polygon fill="#ede7ea" points="0.00,0.10 0.10,0.10 0.10,0.20 0.00,0.20" />
+<polygon fill="#ede7ea" points="0.10,0.10 0.20,0.10 0.20,0.20 0.10,0.20" />
+<polygon fill="#d7d4ee" points="0.20,0.10 0.30,0.10 0.30,0.20 0.20,0.20" />
+<polygon fill="#c1bcec" points="0.30,0.10 0.40,0.10 0.40,0.20 0.30,0.20" />
+<polygon fill="#8b8ae5" points="0.40,0.10 0.50,0.10 0.50,0.20 0.40,0.20" />
+<polygon fill="#9a96e7" points="0.50,0.10 0.60,0.10 0.60,0.20 0.50,0.20" />
+<polygon fill="#e8e5ee" points="0.60,0.10 0.70,0.10 0.70,0.20 0.60,0.20" />
+<polygon fill="#ede7ea" points="0.70,0.10 0.80,0.10 0.80,0.20 0.70,0.20" />
+<polygon fill="#ede7ea" points="0.80,0.10 0.90,0.10 0.90,0.20 0.80,0.20" />
+<polygon fill="#ede7ea" points="0.90,0.10 1.00,0.10 1.00,0.20 0.90,0.20" />
+<polygon fill="#ede7ea" points="0.00,0.20 0.10,0.20 0.10,0.30 0.00,0.30" />
+<polygon fill="#ede7ea" points="0.10,0.20 0.20,0.20 0.20,0.30 0.10,0.30" />
+<polygon fill="#cac5ed" points="0.20,0.20 0.30,0.20 0.30,0.30 0.20,0.30" />
+<polygon fill="#d0cced" points="0.30,0.20 0.40,0.20 0.40,0.30 0.30,0.30" />
+<polygon fill="#a29ee8" points="0.40,0.20 0.50,0.20 0.50,0.30 0.40,0.30" />
+<polygon fill="#cac5ed" points="0.50,0.20 0.60,0.20 0.60,0.30 0.50,0.30" />
+<polygon fill="#e9e6ee" points="0.60,0.20 0.70,0.20 0.70,0.30 0.60,0.30" />
+<polygon fill="#ede7ea" points="0.70,0.20 0.80,0.20 0.80,0.30 0.70,0.30" />
+<polygon fill="#ede7ea" points="0.80,0.20 0.90,0.20 0.90,0.30 0.80,0.30" />
+<polygon fill="#ede7ea" points="0.90,0.20 1.00,0.20 1.00,0.30 0.90,0.30" />
+<polygon fill="#ede7ea" points="0.00,0.30 0.10,0.30 0.10,0.40 0.00,0.40" />
+<polygon fill="#ede7ea" points="0.10,0.30 0.20,0.30 0.20,0.40 0.10,0.40" />
+<polygon fill="#e1deef" points="0.20,0.30 0.30,0.30 0.30,0.40 0.20,0.40" />
+<polygon fill="#c2bdec" points="0.30,0.30 0.40,0.30 0.40,0.40 0.30,0.40" />
+<polygon fill="#9794e6" points="0.40,0.30 0.50,0.30 0.50,0.40 0.40,0.40" />
+<polygon fill="#afaae9" points="0.50,0.30 0.60,0.30 0.60,0.40 0.50,0.40" />
+<polygon fill="#e4e2ef" points="0.60,0.30 0.70,0.30 0.70,0.40 0.60,0.40" />
+<polygon fill="#ede7ea" points="0.70,0.30 0.80,0.30 0.80,0.40 0.70,0.40" />
+<polygon fill="#ede7ea" points="0.80,0.30 0.90,0.30 0.90,0.40 0.80,0.40" />
+<polygon fill="#ede7ea" points="0.90,0.30 1.00,0.30 1.00,0.40 0.90,0.40" />
+<polygon fill="#ede7ea" points="0.00,0.40 0.10,0.40 0.10,0.50 0.00,0.50" />
+<polygon fill="#ede7ea" points="0.10,0.40 0.20,0.40 0.20,0.50 0.10,0.50" />
+<polygon fill="#e2dfef" points="0.20,0.40 0.30,0.40 0.30,0.50 0.20,0.50" />
+<polygon fill="#bbb6eb" points="0.30,0.40 0.40,0.40 0.40,0.50 0.30,0.50" />
+<polygon fill="#5a67df" points="0.40,0.40 0.50,0.40 0.50,0.50 0.40,0.50" />
+<polygon fill="#b0acea" points="0.50,0.40 0.60,0.40 0.60,0.50 0.50,0.50" />
+<polygon fill="#e0ddef" points="0.60,0.40 0.70,0.40 0.70,0.50 0.60,0.50" />
+<polygon fill="#ede7ea" points="0.70,0.40 0.80,0.40 0.80,0.50 0.70,0.50" />
+<polygon fill="#ede7ea" points="0.80,0.40 0.90,0.40 0.90,0.50 0.80,0.50" />
+<polygon fill="#ede7ea" points="0.90,0.40 1.00,0.40 1.00,0.50 0.90,0.50" />
+<polygon fill="#e3e1ef" points="0.00,0.50 0.10,0.50 0.10,0.60 0.00,0.60" />
+<polygon fill="#e1deef" points="0.10,0.50 0.20,0.50 0.20,0.60 0.10,0.60" />
+<polygon fill="#d5d1ee" points="0.20,0.50 0.30,0.50 0.30,0.60 0.20,0.60" />
+<polygon fill="#b4afea" points="0.30,0.50 0.40,0.50 0.40,0.60 0.30,0.60" />
+<polygon fill="#3857dc" points="0.40,0.50 0.50,0.50 0.50,0.60 0.40,0.60" />
+<polygon fill="#c1bcec" points="0.50,0.50 0.60,0.50 0.60,0.60 0.50,0.60" />
+<polygon fill="#e8e5ee" points="0.60,0.50 0.70,0.50 0.70,0.60 0.60,0.60" />
+<polygon fill="#e4e2ef" points="0.70,0.50 0.80,0.50 0.80,0.60 0.70,0.60" />
+<polygon fill="#e8e5ee" points="0.80,0.50 0.90,0.50 0.90,0.60 0.80,0.60" />
+<polygon fill="#e4e2ef" points="0.90,0.50 1.00,0.50 1.00,0.60 0.90,0.60" />
+<polygon fill="#bdb8eb" points="0.00,0.60 0.10,0.60 0.10,0.70 0.00,0.70" />
+<polygon fill="#c7c3ec" points="0.10,0.60 0.20,0.60 0.20,0.70 0.10,0.70" />
+<polygon fill="#a7a3e8" points="0.20,0.60 0.30,0.60 0.30,0.70 0.20,0.70" />
+<polygon fill="#aea9e9" points="0.30,0.60 0.40,0.60 0.40,0.70 0.30,0.70" />
+<polygon fill="#bbb6eb" points="0.40,0.60 0.50,0.60 0.50,0.70 0.40,0.70" />
+<polygon fill="#a6a1e8" points="0.50,0.60 0.60,0.60 0.60,0.70 0.50,0.70" />
+<polygon fill="#aaa5e9" points="0.60,0.60 0.70,0.60 0.70,0.70 0.60,0.70" />
+<polygon fill="#b9b5eb" points="0.70,0.60 0.80,0.60 0.80,0.70 0.70,0.70" />
+<polygon fill="#a7a3e8" points="0.80,0.60 0.90,0.60 0.90,0.70 0.80,0.70" />
+<polygon fill="#b9b5eb" points="0.90,0.60 1.00,0.60 1.00,0.70 0.90,0.70" />
+<polygon fill="#626ce0" points="0.00,0.70 0.10,0.70 0.10,0.80 0.00,0.80" />
+<polygon fill="#7f80e3" points="0.10,0.70 0.20,0.70 0.20,0.80 0.10,0.80" />
+<polygon fill="#8b8ae5" points="0.20,0.70 0.30,0.70 0.30,0.80 0.20,0.80" />
+<polygon fill="#a09ce8" points="0.30,0.70 0.40,0.70 0.40,0.80 0.30,0.80" />
+<polygon fill="#a7a3e8" points="0.40,0.70 0.50,0.70 0.50,0.80 0.40,0.80" />
+<polygon fill="#8b8ae5" points="0.50,0.70 0.60,0.70 0.60,0.80 0.50,0.80" />
+<polygon fill="#bbb6eb" points="0.60,0.70 0.70,0.70 0.70,0.80 0.60,0.80" />
+<polygon fill="#bebaeb" points="0.70,0.70 0.80,0.70 0.80,0.80 0.70,0.80" />
+<polygon fill="#8a88e5" points="0.80,0.70 0.90,0.70 0.90,0.80 0.80,0.80" />
+<polygon fill="#9491e6" points="0.90,0.70 1.00,0.70 1.00,0.80 0.90,0.80" />
+<polygon fill="#b6b1ea" points="0.00,0.80 0.10,0.80 0.10,0.90 0.00,0.90" />
+<polygon fill="#b2adea" points="0.10,0.80 0.20,0.80 0.20,0.90 0.10,0.90" />
+<polygon fill="#c5c0ec" points="0.20,0.80 0.30,0.80 0.30,0.90 0.20,0.90" />
+<polygon fill="#c0bbeb" points="0.30,0.80 0.40,0.80 0.40,0.90 0.30,0.90" />
+<polygon fill="#cac5ed" points="0.40,0.80 0.50,0.80 0.50,0.90 0.40,0.90" />
+<polygon fill="#a29ee8" points="0.50,0.80 0.60,0.80 0.60,0.90 0.50,0.90" />
+<polygon fill="#d6d3ee" points="0.60,0.80 0.70,0.80 0.70,0.90 0.60,0.90" />
+<polygon fill="#cdc9ed" points="0.70,0.80 0.80,0.80 0.80,0.90 0.70,0.90" />
+<polygon fill="#dbd8ee" points="0.80,0.80 0.90,0.80 0.90,0.90 0.80,0.90" />
+<polygon fill="#bebaeb" points="0.90,0.80 1.00,0.80 1.00,0.90 0.90,0.90" />
+<polygon fill="#c8c4ec" points="0.00,0.90 0.10,0.90 0.10,1.00 0.00,1.00" />
+<polygon fill="#c6c2ec" points="0.10,0.90 0.20,0.90 0.20,1.00 0.10,1.00" />
+<polygon fill="#d3d0ee" points="0.20,0.90 0.30,0.90 0.30,1.00 0.20,1.00" />
+<polygon fill="#cfcbed" points="0.30,0.90 0.40,0.90 0.40,1.00 0.30,1.00" />
+<polygon fill="#c8c4ec" points="0.40,0.90 0.50,0.90 0.50,1.00 0.40,1.00" />
+<polygon fill="#908ee6" points="0.50,0.90 0.60,0.90 0.60,1.00 0.50,1.00" />
+<polygon fill="#cbc7ed" points="0.60,0.90 0.70,0.90 0.70,1.00 0.60,1.00" />
+<polygon fill="#cdc9ed" points="0.70,0.90 0.80,0.90 0.80,1.00 0.70,1.00" />
+<polygon fill="#d0cced" points="0.80,0.90 0.90,0.90 0.90,1.00 0.80,1.00" />
+<polygon fill="#bebaeb" points="0.90,0.90 1.00,0.90 1.00,1.00 0.90,1.00" />
+<polygon fill="#ede7ea" points="0.00,1.00 0.10,1.00 0.10,1.10 0.00,1.10" />
+<polygon fill="#ede7ea" points="0.10,1.00 0.20,1.00 0.20,1.10 0.10,1.10" />
+<polygon fill="#e0ddef" points="0.20,1.00 0.30,1.00 0.30,1.10 0.20,1.10" />
+<polygon fill="#cdc9ed" points="0.30,1.00 0.40,1.00 0.40,1.10 0.30,1.10" />
+<polygon fill="#9592e6" points="0.40,1.00 0.50,1.00 0.50,1.10 0.40,1.10" />
+<polygon fill="#b6b1ea" points="0.50,1.00 0.60,1.00 0.60,1.10 0.50,1.10" />
+<polygon fill="#e8e5ee" points="0.60,1.00 0.70,1.00 0.70,1.10 0.60,1.10" />
+<polygon fill="#ede7ea" points="0.70,1.00 0.80,1.00 0.80,1.10 0.70,1.10" />
+<polygon fill="#ede7ea" points="0.80,1.00 0.90,1.00 0.90,1.10 0.80,1.10" />
+<polygon fill="#ede7ea" points="0.90,1.00 1.00,1.00 1.00,1.10 0.90,1.10" />
+<polygon fill="#ede7ea" points="0.00,1.10 0.10,1.10 0.10,1.20 0.00,1.20" />
+<polygon fill="#ede7ea" points="0.10,1.10 0.20,1.10 0.20,1.20 0.10,1.20" />
+<polygon fill="#dbd8ee" points="0.20,1.10 0.30,1.10 0.30,1.20 0.20,1.20" />
+<polygon fill="#cfcbed" points="0.30,1.10 0.40,1.10 0.40,1.20 0.30,1.20" />
+<polygon fill="#7a7ce3" points="0.40,1.10 0.50,1.10 0.50,1.20 0.40,1.20" />
+<polygon fill="#d2cfee" points="0.50,1.10 0.60,1.10 0.60,1.20 0.50,1.20" />
+<polygon fill="#e6e4ee" points="0.60,1.10 0.70,1.10 0.70,1.20 0.60,1.20" />
+<polygon fill="#ede7ea" points="0.70,1.10 0.80,1.10 0.80,1.20 0.70,1.20" />
+<polygon fill="#ede7ea" points="0.80,1.10 0.90,1.10 0.90,1.20 0.80,1.20" />
+<polygon fill="#ede7ea" points="0.90,1.10 1.00,1.10 1.00,1.20 0.90,1.20" />
+<polygon fill="#dad6ee" points="0.00,1.20 0.10,1.20 0.10,1.30 0.00,1.30" />
+<polygon fill="#ccc8ed" points="0.10,1.20 0.20,1.20 0.20,1.30 0.10,1.30" />
+<polygon fill="#c2bdec" points="0.20,1.20 0.30,1.20 0.30,1.30 0.20,1.30" />
+<polygon fill="#a7a3e8" points="0.30,1.20 0.40,1.20 0.40,1.30 0.30,1.30" />
+<polygon fill="#7a7ce3" points="0.40,1.20 0.50,1.20 0.50,1.30 0.40,1.30" />
+<polygon fill="#b4afea" points="0.50,1.20 0.60,1.20 0.60,1.30 0.50,1.30" />
+<polygon fill="#e5e3ef" points="0.60,1.20 0.70,1.20 0.70,1.30 0.60,1.30" />
+<polygon fill="#d0cced" points="0.70,1.20 0.80,1.20 0.80,1.30 0.70,1.30" />
+<polygon fill="#bbb6eb" points="0.80,1.20 0.90,1.20 0.90,1.30 0.80,1.30" />
+<polygon fill="#d0cced" points="0.90,1.20 1.00,1.20 1.00,1.30 0.90,1.30" />
+<polygon fill="#dedcef" points="0.00,1.30 0.10,1.30 0.10,1.40 0.00,1.40" />
+<polygon fill="#eae6ed" points="0.10,1.30 0.20,1.30 0.20,1.40 0.10,1.40" />
+<polygon fill="#d1cded" points="0.20,1.30 0.30,1.30 0.30,1.40 0.20,1.40" />
+<polygon fill="#bcb7eb" points="0.30,1.30 0.40,1.30 0.40,1.40 0.30,1.40" />
+<polygon fill="#2151db" points="0.40,1.30 0.50,1.30 0.50,1.40 0.40,1.40" />
+<polygon fill="#bcb7eb" points="0.50,1.30 0.60,1.30 0.60,1.40 0.50,1.40" />
+<polygon fill="#e3e1ef" points="0.60,1.30 0.70,1.30 0.70,1.40 0.60,1.40" />
+<polygon fill="#d7d4ee" points="0.70,1.30 0.80,1.30 0.80,1.40 0.70,1.40" />
+<polygon fill="#dad6ee" points="0.80,1.30 0.90,1.30 0.90,1.40 0.80,1.40" />
+<polygon fill="#dbd8ee" points="0.90,1.30 1.00,1.30 1.00,1.40 0.90,1.40" />
+<polygon fill="#eae7ed" points="0.00,1.40 0.10,1.40 0.10,1.50 0.00,1.50" />
+<polygon fill="#e5e3ef" points="0.10,1.40 0.20,1.40 0.20,1.50 0.10,1.50" />
+<polygon fill="#d3d0ee" points="0.20,1.40 0.30,1.40 0.30,1.50 0.20,1.50" />
+<polygon fill="#a6a1e8" points="0.30,1.40 0.40,1.40 0.40,1.50 0.30,1.50" />
+<polygon fill="#908ee6" points="0.40,1.40 0.50,1.40 0.50,1.50 0.40,1.50" />
+<polygon fill="#aba7e9" points="0.50,1.40 0.60,1.40 0.60,1.50 0.50,1.50" />
+<polygon fill="#e8e5ee" points="0.60,1.40 0.70,1.40 0.70,1.50 0.60,1.50" />
+<polygon fill="#eae7ed" points="0.70,1.40 0.80,1.40 0.80,1.50 0.70,1.50" />
+<polygon fill="#e6e4ee" points="0.80,1.40 0.90,1.40 0.90,1.50 0.80,1.50" />
+<polygon fill="#e4e2ef" points="0.90,1.40 1.00,1.40 1.00,1.50 0.90,1.50" />
+<polygon fill="#ede7ea" points="0.00,1.50 0.10,1.50 0.10,1.60 0.00,1.60" />
+<polygon fill="#ede7ea" points="0.10,1.50 0.20,1.50 0.20,1.60 0.10,1.60" />
+<polygon fill="#dddbef" points="0.20,1.50 0.30,1.50 0.30,1.60 0.20,1.60" />
+<polygon fill="#b2adea" points="0.30,1.50 0.40,1.50 0.40,1.60 0.30,1.60" />
+<polygon fill="#9794e6" points="0.40,1.50 0.50,1.50 0.50,1.60 0.40,1.60" />
+<polygon fill="#b4afea" points="0.50,1.50 0.60,1.50 0.60,1.60 0.50,1.60" />
+<polygon fill="#e5e3ef" points="0.60,1.50 0.70,1.50 0.70,1.60 0.60,1.60" />
+<polygon fill="#ede7ea" points="0.70,1.50 0.80,1.50 0.80,1.60 0.70,1.60" />
+<polygon fill="#ede7ea" points="0.80,1.50 0.90,1.50 0.90,1.60 0.80,1.60" />
+<polygon fill="#ede7ea" points="0.90,1.50 1.00,1.50 1.00,1.60 0.90,1.60" />
+<polygon fill="#ede7ea" points="0.00,1.60 0.10,1.60 0.10,1.70 0.00,1.70" />
+<polygon fill="#ede7ea" points="0.10,1.60 0.20,1.60 0.20,1.70 0.10,1.70" />
+<polygon fill="#dedcef" points="0.20,1.60 0.30,1.60 0.30,1.70 0.20,1.70" />
+<polygon fill="#bbb6eb" points="0.30,1.60 0.40,1.60 0.40,1.70 0.30,1.70" />
+<polygon fill="#a29ee8" points="0.40,1.60 0.50,1.60 0.50,1.70 0.40,1.70" />
+<polygon fill="#c1bcec" points="0.50,1.60 0.60,1.60 0.60,1.70 0.50,1.70" />
+<polygon fill="#eae6ed" points="0.60,1.60 0.70,1.60 0.70,1.70 0.60,1.70" />
+<polygon fill="#ede7ea" points="0.70,1.60 0.80,1.60 0.80,1.70 0.70,1.70" />
+<polygon fill="#ede7ea" points="0.80,1.60 0.90,1.60 0.90,1.70 0.80,1.70" />
+<polygon fill="#ede7ea" points="0.90,1.60 1.00,1.60 1.00,1.70 0.90,1.70" />
+<polygon fill="#ede7ea" points="0.00,1.70 0.10,1.70 0.10,1.80 0.00,1.80" />
+<polygon fill="#ede7ea" points="0.10,1.70 0.20,1.70 0.20,1.80 0.10,1.80" />
+<polygon fill="#e2dfef" points="0.20,1.70 0.30,1.70 0.30,1.80 0.20,1.80" />
+<polygon fill="#c7c3ec" points="0.30,1.70 0.40,1.70 0.40,1.80 0.30,1.80" />
+<polygon fill="#8e8ce5" points="0.40,1.70 0.50,1.70 0.50,1.80 0.40,1.80" />
+<polygon fill="#c1bcec" points="0.50,1.70 0.60,1.70 0.60,1.80 0.50,1.80" />
+<polygon fill="#e6e4ee" points="0.60,1.70 0.70,1.70 0.70,1.80 0.60,1.80" />
+<polygon fill="#ede7ea" points="0.70,1.70 0.80,1.70 0.80,1.80 0.70,1.80" />
+<polygon fill="#ede7ea" points="0.80,1.70 0.90,1.70 0.90,1.80 0.80,1.80" />
+<polygon fill="#ede7ea" points="0.90,1.70 1.00,1.70 1.00,1.80 0.90,1.80" />
+<polygon fill="#ede7ea" points="0.00,1.80 0.10,1.80 0.10,1.90 0.00,1.90" />
+<polygon fill="#ede7ea" points="0.10,1.80 0.20,1.80 0.20,1.90 0.10,1.90" />
+<polygon fill="#e4e2ef" points="0.20,1.80 0.30,1.80 0.30,1.90 0.20,1.90" />
+<polygon fill="#c0bbeb" points="0.30,1.80 0.40,1.80 0.40,1.90 0.30,1.90" />
+<polygon fill="#8282e4" points="0.40,1.80 0.50,1.80 0.50,1.90 0.40,1.90" />
+<polygon fill="#c1bcec" points="0.50,1.80 0.60,1.80 0.60,1.90 0.50,1.90" />
+<polygon fill="#e9e6ee" points="0.60,1.80 0.70,1.80 0.70,1.90 0.60,1.90" />
+<polygon fill="#ede7ea" points="0.70,1.80 0.80,1.80 0.80,1.90 0.70,1.90" />
+<polygon fill="#ede7ea" points="0.80,1.80 0.90,1.80 0.90,1.90 0.80,1.90" />
+<polygon fill="#ede7ea" points="0.90,1.80 1.00,1.80 1.00,1.90 0.90,1.90" />
+<polygon fill="#ede7ea" points="0.00,1.90 0.10,1.90 0.10,2.00 0.00,2.00" />
+<polygon fill="#ede7ea" points="0.10,1.90 0.20,1.90 0.20,2.00 0.10,2.00" />
+<polygon fill="#e0ddef" points="0.20,1.90 0.30,1.90 0.30,2.00 0.20,2.00" />
+<polygon fill="#bdb8eb" points="0.30,1.90 0.40,1.90 0.40,2.00 0.30,2.00" />
+<polygon fill="#5c68df" points="0.40,1.90 0.50,1.90 0.50,2.00 0.40,2.00" />
+<polygon fill="#b7b2ea" points="0.50,1.90 0.60,1.90 0.60,2.00 0.50,2.00" />
+<polygon fill="#e6e4ee" points="0.60,1.90 0.70,1.90 0.70,2.00 0.60,2.00" />
+<polygon fill="#ede7ea" points="0.70,1.90 0.80,1.90 0.80,2.00 0.70,2.00" />
+<polygon fill="#ede7ea" points="0.80,1.90 0.90,1.90 0.90,2.00 0.80,2.00" />
+<polygon fill="#ede7ea" points="0.90,1.90 1.00,1.90 1.00,2.00 0.90,2.00" />
+</g>
+</g>
+<g>
+</g>
+<svg version="1.1" viewBox="0 0 1.0 2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</g>
+</svg>
+<g fill="red" />
+<text dominant-baseline="hanging" fill="#ffffff" font-size="0.1" stroke-width="0.002" stroke="black" text-anchor="end" x="0.95" y="0.03">
+</text>
+</g>
+</svg>
