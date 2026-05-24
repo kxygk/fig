@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1620.0"
+   version="1.1"
+   width="810.0"
+   id="svg116"
+   sodipodi:docname="sv-projs.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs116" />
+  <sodipodi:namedview
+     id="namedview116"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0567901"
+     inkscape:cx="404.52687"
+     inkscape:cy="721.0514"
+     inkscape:window-width="3120"
+     inkscape:window-height="1996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g115" />
+  <g
+     id="g116">
+    <g
+       id="g38">
+      <g
+         stroke-width="9"
+         stroke="#000f"
+         id="g10">
+        <line
+           x1="0.00"
+           x2="0.00"
+           y1="810.00"
+           y2="820.00"
+           id="line1" />
+        <line
+           x1="-11.45"
+           x2="-11.45"
+           y1="810.00"
+           y2="820.00"
+           id="line2" />
+        <line
+           x1="-22.90"
+           x2="-22.90"
+           y1="810.00"
+           y2="820.00"
+           id="line3" />
+        <line
+           x1="-34.35"
+           x2="-34.35"
+           y1="810.00"
+           y2="820.00"
+           id="line4" />
+        <line
+           x1="-45.80"
+           x2="-45.80"
+           y1="810.00"
+           y2="820.00"
+           id="line5" />
+        <line
+           x1="0.00"
+           x2="810.00"
+           y1="810.00"
+           y2="810.00"
+           id="line9" />
+      </g>
+      <g
+         stroke-width="9"
+         stroke="#000f"
+         id="g37">
+        <line
+           x1="0.00"
+           x2="-10.00"
+           y1="123.01"
+           y2="123.01"
+           id="line22" />
+        <line
+           x1="0.00"
+           x2="-10.00"
+           y1="8.52"
+           y2="8.52"
+           id="line23" />
+        <g
+           fill="black"
+           font-family="Arial, sans-serif"
+           font-size="45.0"
+           stroke="none"
+           text-anchor="end"
+           id="g36">
+          <text
+             x="-22.50"
+             y="-13.98"
+             id="text36">7</text>
+        </g>
+        <line
+           x1="0.00"
+           x2="0.00"
+           y1="1620.00"
+           y2="0.00"
+           id="line36" />
+      </g>
+    </g>
+    <g
+       id="g115">
+      <g
+         id="g75">
+        <g
+           id="g39">
+          <circle
+             cx="134.04"
+             cy="900.40"
+             fill-opacity="0.8"
+             fill="#fcc981"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 19 {:cycle-frac 7/12, :angle-from-down 56.002050648107506, :index 19, :scale 12.0, :err-y 2.110703445005322, :radius 1.4120452491686004, :err-x 1.29059845047835, :err-angle 50.45116135018217}"
+             id="circle38" />
+          <title
+             id="title38">Index: 19
+{:cycle-frac 7/12, :angle-from-down 56.002050648107506, :index 19, :scale 12.0, :err-y 2.110703445005322, :radius 1.4120452491686004, :err-x 1.29059845047835, :err-angle 50.45116135018217}</title>
+        </g>
+        <g
+           id="g40">
+          <circle
+             cx="141.49"
+             cy="884.08"
+             fill-opacity="0.8"
+             fill="#2c24e9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 12 {:cycle-frac 0, :angle-from-down 62.36640930700543, :index 12, :scale 10.0, :err-y 2.106795729018911, :radius 1.3948992372020708, :err-x 1.2882090611925605, :err-angle 52.32452181466991}"
+             id="circle39" />
+          <title
+             id="title39">Index: 12
+{:cycle-frac 0, :angle-from-down 62.36640930700543, :index 12, :scale 10.0, :err-y 2.106795729018911, :radius 1.3948992372020708, :err-x 1.2882090611925605, :err-angle 52.32452181466991}</title>
+        </g>
+        <g
+           id="g41">
+          <circle
+             cx="152.18"
+             cy="913.64"
+             fill-opacity="0.8"
+             fill="#2c24e9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 24 {:cycle-frac 0, :angle-from-down 55.74254745982113, :index 24, :scale 17.0, :err-y 2.625458961593579, :radius 1.6080751978066954, :err-x 1.60534786430816, :err-angle 52.84607277415138}"
+             id="circle40" />
+          <title
+             id="title40">Index: 24
+{:cycle-frac 0, :angle-from-down 55.74254745982113, :index 24, :scale 17.0, :err-y 2.625458961593579, :radius 1.6080751978066954, :err-x 1.60534786430816, :err-angle 52.84607277415138}</title>
+        </g>
+        <g
+           id="g42">
+          <circle
+             cx="153.08"
+             cy="907.81"
+             fill-opacity="0.8"
+             fill="#2c24e9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 0 {:cycle-frac 0, :angle-from-down 57.424200075472385, :index 0, :scale 9.0, :err-y 2.287459487564748, :radius 1.5865554466777723, :err-x 1.3986766720682633, :err-angle 49.79062892753198}"
+             id="circle41" />
+          <title
+             id="title41">Index: 0
+{:cycle-frac 0, :angle-from-down 57.424200075472385, :index 0, :scale 9.0, :err-y 2.287459487564748, :radius 1.5865554466777723, :err-x 1.3986766720682633, :err-angle 49.79062892753198}</title>
+        </g>
+        <g
+           id="g43">
+          <circle
+             cx="167.75"
+             cy="962.28"
+             fill-opacity="0.8"
+             fill="#fcc981"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 7 {:cycle-frac 7/12, :angle-from-down 47.76630238185316, :index 7, :scale 8.0, :err-y 2.2196121602987042, :radius 1.9787144415725126, :err-x 1.357191140007442, :err-angle 40.24330772006653}"
+             id="circle42" />
+          <title
+             id="title42">Index: 7
+{:cycle-frac 7/12, :angle-from-down 47.76630238185316, :index 7, :scale 8.0, :err-y 2.2196121602987042, :radius 1.9787144415725126, :err-x 1.357191140007442, :err-angle 40.24330772006653}</title>
+        </g>
+        <g
+           id="g44">
+          <circle
+             cx="184.27"
+             cy="482.49"
+             fill-opacity="0.8"
+             fill="#fc93c1"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 32 {:cycle-frac 2/3, :angle-from-down 150.63564851033436, :index 32, :scale 15.0, :err-y 2.2273893354255367, :radius 3.2821100775992904, :err-x 1.3619465262705108, :err-angle 24.23893378722023}"
+             id="circle43" />
+          <title
+             id="title43">Index: 32
+{:cycle-frac 2/3, :angle-from-down 150.63564851033436, :index 32, :scale 15.0, :err-y 2.2273893354255367, :radius 3.2821100775992904, :err-x 1.3619465262705108, :err-angle 24.23893378722023}</title>
+        </g>
+        <g
+           id="g45">
+          <circle
+             cx="194.56"
+             cy="847.48"
+             fill-opacity="0.8"
+             fill="#fcc981"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 31 {:cycle-frac 7/12, :angle-from-down 79.09589797026084, :index 31, :scale 12.0, :err-y 2.7604558935796546, :radius 1.7305324377925895, :err-x 1.6878923030604815, :err-angle 57.16133295171709}"
+             id="circle44" />
+          <title
+             id="title44">Index: 31
+{:cycle-frac 7/12, :angle-from-down 79.09589797026084, :index 31, :scale 12.0, :err-y 2.7604558935796546, :radius 1.7305324377925895, :err-x 1.6878923030604815, :err-angle 57.16133295171709}</title>
+        </g>
+        <g
+           id="g46">
+          <circle
+             cx="213.17"
+             cy="437.65"
+             fill-opacity="0.8"
+             fill="#702af7"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 23 {:cycle-frac 11/12, :angle-from-down 150.2086843911024, :index 23, :scale 18.0, :err-y 2.6122563636394394, :radius 3.747301850577742, :err-x 1.5972750805629008, :err-angle 24.871243715810756}"
+             id="circle45" />
+          <title
+             id="title45">Index: 23
+{:cycle-frac 11/12, :angle-from-down 150.2086843911024, :index 23, :scale 18.0, :err-y 2.6122563636394394, :radius 3.747301850577742, :err-x 1.5972750805629008, :err-angle 24.871243715810756}</title>
+        </g>
+        <g
+           id="g47">
+          <circle
+             cx="223.91"
+             cy="369.02"
+             fill-opacity="0.8"
+             fill="#fc93c1"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 8 {:cycle-frac 2/3, :angle-from-down 153.08038528232555, :index 8, :scale 10.0, :err-y 1.9585896437142016, :radius 4.319462132752069, :err-x 1.197587830389938, :err-angle 16.539525329824134}"
+             id="circle46" />
+          <title
+             id="title46">Index: 8
+{:cycle-frac 2/3, :angle-from-down 153.08038528232555, :index 8, :scale 10.0, :err-y 1.9585896437142016, :radius 4.319462132752069, :err-x 1.197587830389938, :err-angle 16.539525329824134}</title>
+        </g>
+        <g
+           id="g48">
+          <circle
+             cx="250.16"
+             cy="868.30"
+             fill-opacity="0.8"
+             fill="#2f5db9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 25 {:cycle-frac 1/12, :angle-from-down 76.88133584807733, :index 25, :scale 9.0, :err-y 3.1493290903913014, :radius 2.2434055206891683, :err-x 1.9256704458996863, :err-angle 53.408492043437754}"
+             id="circle47" />
+          <title
+             id="title47">Index: 25
+{:cycle-frac 1/12, :angle-from-down 76.88133584807733, :index 25, :scale 9.0, :err-y 3.1493290903913014, :radius 2.2434055206891683, :err-x 1.9256704458996863, :err-angle 53.408492043437754}</title>
+        </g>
+        <g
+           id="g49">
+          <circle
+             cx="270.89"
+             cy="229.29"
+             fill-opacity="0.8"
+             fill="#fc93c1"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 20 {:cycle-frac 2/3, :angle-from-down 154.99202883982423, :index 20, :scale 27.0, :err-y 3.6517150544315182, :radius 5.596477355725123, :err-x 2.2328564450824095, :err-angle 22.94606393503662}"
+             id="circle48" />
+          <title
+             id="title48">Index: 20
+{:cycle-frac 2/3, :angle-from-down 154.99202883982423, :index 20, :scale 27.0, :err-y 3.6517150544315182, :radius 5.596477355725123, :err-x 2.2328564450824095, :err-angle 22.94606393503662}</title>
+        </g>
+        <g
+           id="g50">
+          <circle
+             cx="272.61"
+             cy="288.14"
+             fill-opacity="0.8"
+             fill="#b141fb"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 10 {:cycle-frac 5/6, :angle-from-down 152.41801529688294, :index 10, :scale 16.0, :err-y 3.081905947456849, :radius 5.142206505706217, :err-x 1.8844442831227715, :err-angle 21.49709359292935}"
+             id="circle49" />
+          <title
+             id="title49">Index: 10
+{:cycle-frac 5/6, :angle-from-down 152.41801529688294, :index 10, :scale 16.0, :err-y 3.081905947456849, :radius 5.142206505706217, :err-x 1.8844442831227715, :err-angle 21.49709359292935}</title>
+        </g>
+        <g
+           id="g51">
+          <circle
+             cx="280.73"
+             cy="980.80"
+             fill-opacity="0.8"
+             fill="#b8e014"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 17 {:cycle-frac 5/12, :angle-from-down 58.68324111962554, :index 17, :scale 16.0, :err-y 4.056432245669036, :radius 2.8699851851471125, :err-x 2.4803224645884185, :err-angle 49.5466165178433}"
+             id="circle50" />
+          <title
+             id="title50">Index: 17
+{:cycle-frac 5/12, :angle-from-down 58.68324111962554, :index 17, :scale 16.0, :err-y 4.056432245669036, :radius 2.8699851851471125, :err-x 2.4803224645884185, :err-angle 49.5466165178433}</title>
+        </g>
+        <g
+           id="g52">
+          <circle
+             cx="288.70"
+             cy="360.80"
+             fill-opacity="0.8"
+             fill="#702af7"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 11 {:cycle-frac 11/12, :angle-from-down 147.2711427952091, :index 11, :scale 12.0, :err-y 2.641492165989928, :radius 4.663604039604293, :err-x 1.6151514342028768, :err-angle 20.96516768468328}"
+             id="circle51" />
+          <title
+             id="title51">Index: 11
+{:cycle-frac 11/12, :angle-from-down 147.2711427952091, :index 11, :scale 12.0, :err-y 2.641492165989928, :radius 4.663604039604293, :err-x 1.6151514342028768, :err-angle 20.96516768468328}</title>
+        </g>
+        <g
+           id="g53">
+          <circle
+             cx="313.31"
+             cy="220.91"
+             fill-opacity="0.8"
+             fill="#702af7"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 35 {:cycle-frac 11/12, :angle-from-down 151.99364620070057, :index 35, :scale 18.0, :err-y 3.6637641988722693, :radius 5.827455363521181, :err-x 2.2402239448520356, :err-angle 22.49295811408921}"
+             id="circle52" />
+          <title
+             id="title52">Index: 35
+{:cycle-frac 11/12, :angle-from-down 151.99364620070057, :index 35, :scale 18.0, :err-y 3.6637641988722693, :radius 5.827455363521181, :err-x 2.2402239448520356, :err-angle 22.49295811408921}</title>
+        </g>
+        <g
+           id="g54">
+          <circle
+             cx="318.12"
+             cy="1024.92"
+             fill-opacity="0.8"
+             fill="#f1ee35"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 6 {:cycle-frac 1/2, :angle-from-down 55.957036964230944, :index 6, :scale 16.0, :err-y 3.7790406611352085, :radius 3.353044597420246, :err-x 2.3107102199018197, :err-angle 42.386910587019905}"
+             id="circle53" />
+          <title
+             id="title53">Index: 6
+{:cycle-frac 1/2, :angle-from-down 55.957036964230944, :index 6, :scale 16.0, :err-y 3.7790406611352085, :radius 3.353044597420246, :err-x 2.3107102199018197, :err-angle 42.386910587019905}</title>
+        </g>
+        <g
+           id="g55">
+          <circle
+             cx="319.14"
+             cy="1077.19"
+             fill-opacity="0.8"
+             fill="#458776"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 26 {:cycle-frac 1/6, :angle-from-down 50.063327138468395, :index 26, :scale 10.0, :err-y 3.1669512086666978, :radius 3.6351593256902803, :err-x 1.9364455638321412, :err-angle 33.827264318615725}"
+             id="circle54" />
+          <title
+             id="title54">Index: 26
+{:cycle-frac 1/6, :angle-from-down 50.063327138468395, :index 26, :scale 10.0, :err-y 3.1669512086666978, :radius 3.6351593256902803, :err-x 1.9364455638321412, :err-angle 33.827264318615725}</title>
+        </g>
+        <g
+           id="g56">
+          <circle
+             cx="321.37"
+             cy="884.90"
+             fill-opacity="0.8"
+             fill="#f1ee35"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 30 {:cycle-frac 1/2, :angle-from-down 76.88053518170256, :index 30, :scale 14.0, :err-y 3.84041204560317, :radius 2.88197902560846, :err-x 2.3482360096500146, :err-angle 51.969639940939686}"
+             id="circle55" />
+          <title
+             id="title55">Index: 30
+{:cycle-frac 1/2, :angle-from-down 76.88053518170256, :index 30, :scale 14.0, :err-y 3.84041204560317, :radius 2.88197902560846, :err-x 2.3482360096500146, :err-angle 51.969639940939686}</title>
+        </g>
+        <g
+           id="g57">
+          <circle
+             cx="326.23"
+             cy="278.76"
+             fill-opacity="0.8"
+             fill="#ed53f3"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 9 {:cycle-frac 3/4, :angle-from-down 148.4461965441428, :index 9, :scale 23.0, :err-y 4.076530953653311, :radius 5.444812863380026, :err-x 2.4926119036578944, :err-angle 26.699572844299745}"
+             id="circle56" />
+          <title
+             id="title56">Index: 9
+{:cycle-frac 3/4, :angle-from-down 148.4461965441428, :index 9, :scale 23.0, :err-y 4.076530953653311, :radius 5.444812863380026, :err-x 2.4926119036578944, :err-angle 26.699572844299745}</title>
+        </g>
+        <g
+           id="g58">
+          <circle
+             cx="327.26"
+             cy="998.77"
+             fill-opacity="0.8"
+             fill="#2f5db9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 1 {:cycle-frac 1/12, :angle-from-down 60.02240887183645, :index 1, :scale 14.0, :err-y 3.733433977639339, :radius 3.2996183663092724, :err-x 2.282823822506434, :err-angle 43.53562682697619}"
+             id="circle57" />
+          <title
+             id="title57">Index: 1
+{:cycle-frac 1/12, :angle-from-down 60.02240887183645, :index 1, :scale 14.0, :err-y 3.733433977639339, :radius 3.2996183663092724, :err-x 2.282823822506434, :err-angle 43.53562682697619}</title>
+        </g>
+        <g
+           id="g59">
+          <circle
+             cx="343.02"
+             cy="986.15"
+             fill-opacity="0.8"
+             fill="#f1ee35"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 18 {:cycle-frac 1/2, :angle-from-down 62.81890661145007, :index 18, :scale 25.0, :err-y 3.999333425049355, :radius 3.3677981830660326, :err-x 2.445409151877302, :err-angle 45.630707601941566}"
+             id="circle58" />
+          <title
+             id="title58">Index: 18
+{:cycle-frac 1/2, :angle-from-down 62.81890661145007, :index 18, :scale 25.0, :err-y 3.999333425049355, :radius 3.3677981830660326, :err-x 2.445409151877302, :err-angle 45.630707601941566}</title>
+        </g>
+        <g
+           id="g60">
+          <circle
+             cx="386.90"
+             cy="1032.14"
+             fill-opacity="0.8"
+             fill="#b8e014"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 29 {:cycle-frac 5/12, :angle-from-down 60.13714280105465, :index 29, :scale 13.0, :err-y 3.8263478679803287, :radius 3.896440298737525, :err-x 2.339636409412359, :err-angle 39.53901543069144}"
+             id="circle59" />
+          <title
+             id="title59">Index: 29
+{:cycle-frac 5/12, :angle-from-down 60.13714280105465, :index 29, :scale 13.0, :err-y 3.8263478679803287, :radius 3.896440298737525, :err-x 2.339636409412359, :err-angle 39.53901543069144}</title>
+        </g>
+        <g
+           id="g61">
+          <circle
+             cx="396.66"
+             cy="166.53"
+             fill-opacity="0.8"
+             fill="#ed53f3"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 33 {:cycle-frac 3/4, :angle-from-down 148.34856841944273, :index 33, :scale 26.0, :err-y 4.11368826996541, :radius 6.601976962069662, :err-x 2.5153319001452292, :err-angle 22.724279685875295}"
+             id="circle60" />
+          <title
+             id="title60">Index: 33
+{:cycle-frac 3/4, :angle-from-down 148.34856841944273, :index 33, :scale 26.0, :err-y 4.11368826996541, :radius 6.601976962069662, :err-x 2.5153319001452292, :err-angle 22.724279685875295}</title>
+        </g>
+        <g
+           id="g62">
+          <circle
+             cx="403.22"
+             cy="208.60"
+             fill-opacity="0.8"
+             fill="#b141fb"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 22 {:cycle-frac 5/6, :angle-from-down 146.15945605531041, :index 22, :scale 44.0, :err-y 5.009929892258094, :radius 6.323840709605114, :err-x 3.0633425890566786, :err-angle 28.352501494234378}"
+             id="circle61" />
+          <title
+             id="title61">Index: 22
+{:cycle-frac 5/6, :angle-from-down 146.15945605531041, :index 22, :scale 44.0, :err-y 5.009929892258094, :radius 6.323840709605114, :err-x 3.0633425890566786, :err-angle 28.352501494234378}</title>
+        </g>
+        <g
+           id="g63">
+          <circle
+             cx="421.22"
+             cy="38.57"
+             fill-opacity="0.8"
+             fill="#ed53f3"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 21 {:cycle-frac 3/4, :angle-from-down 151.3645405749257, :index 21, :scale 26.0, :err-y 4.87002760510789, :radius 7.6764436443710435, :err-x 2.9777987503702508, :err-angle 22.744667118995483}"
+             id="circle62" />
+          <title
+             id="title62">Index: 21
+{:cycle-frac 3/4, :angle-from-down 151.3645405749257, :index 21, :scale 26.0, :err-y 4.87002760510789, :radius 7.6764436443710435, :err-x 2.9777987503702508, :err-angle 22.744667118995483}</title>
+        </g>
+        <g
+           id="g64">
+          <circle
+             cx="425.80"
+             cy="880.96"
+             fill-opacity="0.8"
+             fill="#32ad28"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 3 {:cycle-frac 1/4, :angle-from-down 80.53831915794092, :index 3, :scale 14.0, :err-y 5.026527669752231, :radius 3.770139757504011, :err-x 3.073491369533635, :err-angle 52.517829606455784}"
+             id="circle63" />
+          <title
+             id="title63">Index: 3
+{:cycle-frac 1/4, :angle-from-down 80.53831915794092, :index 3, :scale 14.0, :err-y 5.026527669752231, :radius 3.770139757504011, :err-x 3.073491369533635, :err-angle 52.517829606455784}</title>
+        </g>
+        <g
+           id="g65">
+          <circle
+             cx="443.16"
+             cy="1156.83"
+             fill-opacity="0.8"
+             fill="#2f5db9"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 13 {:cycle-frac 1/12, :angle-from-down 51.952551065786565, :index 13, :scale 30.0, :err-y 5.589784093503587, :radius 4.914889558310971, :err-x 3.417896865926639, :err-angle 41.64184395365191}"
+             id="circle64" />
+          <title
+             id="title64">Index: 13
+{:cycle-frac 1/12, :angle-from-down 51.952551065786565, :index 13, :scale 30.0, :err-y 5.589784093503587, :radius 4.914889558310971, :err-x 3.417896865926639, :err-angle 41.64184395365191}</title>
+        </g>
+        <g
+           id="g66">
+          <circle
+             cx="448.60"
+             cy="1019.34"
+             fill-opacity="0.8"
+             fill="#32ad28"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 27 {:cycle-frac 1/4, :angle-from-down 64.98388684995905, :index 27, :scale 28.0, :err-y 5.260871506669705, :radius 4.323556102714748, :err-x 3.2167818888723625, :err-angle 46.867676205895634}"
+             id="circle65" />
+          <title
+             id="title65">Index: 27
+{:cycle-frac 1/4, :angle-from-down 64.98388684995905, :index 27, :scale 28.0, :err-y 5.260871506669705, :radius 4.323556102714748, :err-x 3.2167818888723625, :err-angle 46.867676205895634}</title>
+        </g>
+        <g
+           id="g67">
+          <circle
+             cx="462.15"
+             cy="106.05"
+             fill-opacity="0.8"
+             fill="#b141fb"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 34 {:cycle-frac 5/6, :angle-from-down 146.71490732980718, :index 34, :scale 29.0, :err-y 5.05718779660605, :radius 7.354679719632174, :err-x 3.0922386323490967, :err-angle 25.020925279002608}"
+             id="circle66" />
+          <title
+             id="title66">Index: 34
+{:cycle-frac 5/6, :angle-from-down 146.71490732980718, :index 34, :scale 29.0, :err-y 5.05718779660605, :radius 7.354679719632174, :err-x 3.0922386323490967, :err-angle 25.020925279002608}</title>
+        </g>
+        <g
+           id="g68">
+          <circle
+             cx="484.24"
+             cy="1007.54"
+             fill-opacity="0.8"
+             fill="#77c80d"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 4 {:cycle-frac 1/3, :angle-from-down 67.8072169024153, :index 4, :scale 27.0, :err-y 5.634532091157656, :radius 4.5676111135593045, :err-x 3.44525821627219, :err-angle 47.93975076858603}"
+             id="circle67" />
+          <title
+             id="title67">Index: 4
+{:cycle-frac 1/3, :angle-from-down 67.8072169024153, :index 4, :scale 27.0, :err-y 5.634532091157656, :radius 4.5676111135593045, :err-x 3.44525821627219, :err-angle 47.93975076858603}</title>
+        </g>
+        <g
+           id="g69">
+          <circle
+             cx="490.12"
+             cy="1236.17"
+             fill-opacity="0.8"
+             fill="#458776"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 14 {:cycle-frac 1/6, :angle-from-down 48.99200272409168, :index 14, :scale 46.0, :err-y 6.159766322381561, :radius 5.672548208067063, :err-x 3.7664148839982223, :err-angle 39.61572173398114}"
+             id="circle68" />
+          <title
+             id="title68">Index: 14
+{:cycle-frac 1/6, :angle-from-down 48.99200272409168, :index 14, :scale 46.0, :err-y 6.159766322381561, :radius 5.672548208067063, :err-x 3.7664148839982223, :err-angle 39.61572173398114}</title>
+        </g>
+        <g
+           id="g70">
+          <circle
+             cx="498.21"
+             cy="1117.85"
+             fill-opacity="0.8"
+             fill="#32ad28"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 15 {:cycle-frac 1/4, :angle-from-down 58.287641834566934, :index 15, :scale 32.0, :err-y 6.316581935175365, :radius 5.114983020305902, :err-x 3.862300446397526, :err-angle 45.597250525776154}"
+             id="circle69" />
+          <title
+             id="title69">Index: 15
+{:cycle-frac 1/4, :angle-from-down 58.287641834566934, :index 15, :scale 32.0, :err-y 6.316581935175365, :radius 5.114983020305902, :err-x 3.862300446397526, :err-angle 45.597250525776154}</title>
+        </g>
+        <g
+           id="g71">
+          <circle
+             cx="511.06"
+             cy="1139.12"
+             fill-opacity="0.8"
+             fill="#77c80d"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 28 {:cycle-frac 1/3, :angle-from-down 57.21863848568207, :index 28, :scale 36.0, :err-y 6.089422159013022, :radius 5.3089734966963835, :err-x 3.7234026510583114, :err-angle 43.20932027029532}"
+             id="circle70" />
+          <title
+             id="title70">Index: 28
+{:cycle-frac 1/3, :angle-from-down 57.21863848568207, :index 28, :scale 36.0, :err-y 6.089422159013022, :radius 5.3089734966963835, :err-x 3.7234026510583114, :err-angle 43.20932027029532}</title>
+        </g>
+        <g
+           id="g72">
+          <circle
+             cx="522.52"
+             cy="1158.66"
+             fill-opacity="0.8"
+             fill="#b8e014"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 5 {:cycle-frac 5/12, :angle-from-down 56.28593917669709, :index 5, :scale 21.0, :err-y 5.775218626172371, :radius 5.486254476474271, :err-x 3.5312815865958704, :err-angle 40.5295423416634}"
+             id="circle71" />
+          <title
+             id="title71">Index: 5
+{:cycle-frac 5/12, :angle-from-down 56.28593917669709, :index 5, :scale 21.0, :err-y 5.775218626172371, :radius 5.486254476474271, :err-x 3.5312815865958704, :err-angle 40.5295423416634}</title>
+        </g>
+        <g
+           id="g73">
+          <circle
+             cx="548.07"
+             cy="1161.41"
+             fill-opacity="0.8"
+             fill="#458776"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 2 {:cycle-frac 1/6, :angle-from-down 57.3329081672546, :index 2, :scale 28.0, :err-y 5.97053891561099, :radius 5.686205436943408, :err-x 3.650710994593936, :err-angle 40.72201256914548}"
+             id="circle72" />
+          <title
+             id="title72">Index: 2
+{:cycle-frac 1/6, :angle-from-down 57.3329081672546, :index 2, :scale 28.0, :err-y 5.97053891561099, :radius 5.686205436943408, :err-x 3.650710994593936, :err-angle 40.72201256914548}</title>
+        </g>
+        <g
+           id="g74">
+          <circle
+             cx="735.66"
+             cy="1256.35"
+             fill-opacity="0.8"
+             fill="#77c80d"
+             r="10.0"
+             stroke-width="1.0"
+             stroke="black"
+             tooltip="Index: 16 {:cycle-frac 1/3, :angle-from-down 58.75308072418009, :index 16, :scale 28.0, :err-y 7.00690049711032, :radius 7.515268689591518, :err-x 4.284398618681251, :err-angle 37.7439345938226}"
+             id="circle73" />
+          <title
+             id="title73">Index: 16
+{:cycle-frac 1/3, :angle-from-down 58.75308072418009, :index 16, :scale 28.0, :err-y 7.00690049711032, :radius 7.515268689591518, :err-x 4.284398618681251, :err-angle 37.7439345938226}</title>
+        </g>
+      </g>
+      <g
+         id="g110">
+        <text
+           angle-from-down="0.9774201716781004"
+           cycle-frac="0.5833333"
+           dominant-baseline="central"
+           err-x="1.29059845047835"
+           err-y="2.110703445005322"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="19"
+           radius="1.4120452491686004"
+           scale="12.0"
+           stroke="none"
+           text-anchor="middle"
+           text="50.5"
+           x="134.04"
+           y="900.40"
+           id="text75">50.5</text>
+        <text
+           angle-from-down="1.0884991850536798"
+           cycle-frac="0"
+           dominant-baseline="central"
+           err-x="1.2882090611925605"
+           err-y="2.106795729018911"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="12"
+           radius="1.3948992372020708"
+           scale="10.0"
+           stroke="none"
+           text-anchor="middle"
+           text="52.3"
+           x="141.49"
+           y="884.08"
+           id="text76">52.3</text>
+        <text
+           angle-from-down="0.9728909866230803"
+           cycle-frac="0"
+           dominant-baseline="central"
+           err-x="1.60534786430816"
+           err-y="2.625458961593579"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="24"
+           radius="1.6080751978066954"
+           scale="17.0"
+           stroke="none"
+           text-anchor="middle"
+           text="52.8"
+           x="152.18"
+           y="913.64"
+           id="text77">52.8</text>
+        <text
+           angle-from-down="1.0022413616409693"
+           cycle-frac="0"
+           dominant-baseline="central"
+           err-x="1.3986766720682633"
+           err-y="2.287459487564748"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="0"
+           radius="1.5865554466777723"
+           scale="9.0"
+           stroke="none"
+           text-anchor="middle"
+           text="49.8"
+           x="153.08"
+           y="907.81"
+           id="text78">49.8</text>
+        <text
+           angle-from-down="0.8336792480665474"
+           cycle-frac="0.5833333"
+           dominant-baseline="central"
+           err-x="1.357191140007442"
+           err-y="2.2196121602987042"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="7"
+           radius="1.9787144415725126"
+           scale="8.0"
+           stroke="none"
+           text-anchor="middle"
+           text="40.2"
+           x="167.75"
+           y="962.28"
+           id="text79">40.2</text>
+        <text
+           angle-from-down="2.629088037382226"
+           cycle-frac="0.6666667"
+           dominant-baseline="central"
+           err-x="1.3619465262705108"
+           err-y="2.2273893354255367"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="32"
+           radius="3.2821100775992904"
+           scale="15.0"
+           stroke="none"
+           text-anchor="middle"
+           text="24.2"
+           x="184.27"
+           y="482.49"
+           id="text80">24.2</text>
+        <text
+           angle-from-down="1.3804838444025516"
+           cycle-frac="0.5833333"
+           dominant-baseline="central"
+           err-x="1.6878923030604815"
+           err-y="2.7604558935796546"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="31"
+           radius="1.7305324377925895"
+           scale="12.0"
+           stroke="none"
+           text-anchor="middle"
+           text="57.2"
+           x="194.56"
+           y="847.48"
+           id="text81">57.2</text>
+        <text
+           angle-from-down="2.6216361077137504"
+           cycle-frac="0.9166667"
+           dominant-baseline="central"
+           err-x="1.5972750805629008"
+           err-y="2.6122563636394394"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="23"
+           radius="3.747301850577742"
+           scale="18.0"
+           stroke="none"
+           text-anchor="middle"
+           text="24.9"
+           x="213.17"
+           y="437.65"
+           id="text82">24.9</text>
+        <text
+           angle-from-down="2.67175674339805"
+           cycle-frac="0.6666667"
+           dominant-baseline="central"
+           err-x="1.197587830389938"
+           err-y="1.9585896437142016"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="8"
+           radius="4.319462132752069"
+           scale="10.0"
+           stroke="none"
+           text-anchor="middle"
+           text="16.5"
+           x="223.91"
+           y="369.02"
+           id="text83">16.5</text>
+        <text
+           angle-from-down="1.3418324438804963"
+           cycle-frac="0.083333336"
+           dominant-baseline="central"
+           err-x="1.9256704458996863"
+           err-y="3.1493290903913014"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="25"
+           radius="2.2434055206891683"
+           scale="9.0"
+           stroke="none"
+           text-anchor="middle"
+           text="53.4"
+           x="250.16"
+           y="868.30"
+           id="text84">53.4</text>
+        <text
+           angle-from-down="2.7051212176009396"
+           cycle-frac="0.6666667"
+           dominant-baseline="central"
+           err-x="2.2328564450824095"
+           err-y="3.6517150544315182"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="20"
+           radius="5.596477355725123"
+           scale="27.0"
+           stroke="none"
+           text-anchor="middle"
+           text="22.9"
+           x="270.89"
+           y="229.29"
+           id="text85">22.9</text>
+        <text
+           angle-from-down="2.66019620628569"
+           cycle-frac="0.8333333"
+           dominant-baseline="central"
+           err-x="1.8844442831227715"
+           err-y="3.081905947456849"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="10"
+           radius="5.142206505706217"
+           scale="16.0"
+           stroke="none"
+           text-anchor="middle"
+           text="21.5"
+           x="272.61"
+           y="288.14"
+           id="text86">21.5</text>
+        <text
+           angle-from-down="1.0242157732791892"
+           cycle-frac="0.41666666"
+           dominant-baseline="central"
+           err-x="2.4803224645884185"
+           err-y="4.056432245669036"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="17"
+           radius="2.8699851851471125"
+           scale="16.0"
+           stroke="none"
+           text-anchor="middle"
+           text="49.5"
+           x="280.73"
+           y="980.80"
+           id="text87">49.5</text>
+        <text
+           angle-from-down="2.570366334951124"
+           cycle-frac="0.9166667"
+           dominant-baseline="central"
+           err-x="1.6151514342028768"
+           err-y="2.641492165989928"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="11"
+           radius="4.663604039604293"
+           scale="12.0"
+           stroke="none"
+           text-anchor="middle"
+           text="21.0"
+           x="288.70"
+           y="360.80"
+           id="text88">21.0</text>
+        <text
+           angle-from-down="2.6527895683135947"
+           cycle-frac="0.9166667"
+           dominant-baseline="central"
+           err-x="2.2402239448520356"
+           err-y="3.6637641988722693"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="35"
+           radius="5.827455363521181"
+           scale="18.0"
+           stroke="none"
+           text-anchor="middle"
+           text="22.5"
+           x="313.31"
+           y="220.91"
+           id="text89">22.5</text>
+        <text
+           angle-from-down="0.9766345346860024"
+           cycle-frac="0.5"
+           dominant-baseline="central"
+           err-x="2.3107102199018197"
+           err-y="3.7790406611352085"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="6"
+           radius="3.353044597420246"
+           scale="16.0"
+           stroke="none"
+           text-anchor="middle"
+           text="42.4"
+           x="318.12"
+           y="1024.92"
+           id="text90">42.4</text>
+        <text
+           angle-from-down="0.8737698930693046"
+           cycle-frac="0.16666667"
+           dominant-baseline="central"
+           err-x="1.9364455638321412"
+           err-y="3.1669512086666978"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="26"
+           radius="3.6351593256902803"
+           scale="10.0"
+           stroke="none"
+           text-anchor="middle"
+           text="33.8"
+           x="319.14"
+           y="1077.19"
+           id="text91">33.8</text>
+        <text
+           angle-from-down="1.3418184696160464"
+           cycle-frac="0.5"
+           dominant-baseline="central"
+           err-x="2.3482360096500146"
+           err-y="3.84041204560317"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="30"
+           radius="2.88197902560846"
+           scale="14.0"
+           stroke="none"
+           text-anchor="middle"
+           text="52.0"
+           x="321.37"
+           y="884.90"
+           id="text92">52.0</text>
+        <text
+           angle-from-down="2.5908748917579194"
+           cycle-frac="0.75"
+           dominant-baseline="central"
+           err-x="2.4926119036578944"
+           err-y="4.076530953653311"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="9"
+           radius="5.444812863380026"
+           scale="23.0"
+           stroke="none"
+           text-anchor="middle"
+           text="26.7"
+           x="326.23"
+           y="278.76"
+           id="text93">26.7</text>
+        <text
+           angle-from-down="1.0475886597918012"
+           cycle-frac="0.083333336"
+           dominant-baseline="central"
+           err-x="2.282823822506434"
+           err-y="3.733433977639339"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="1"
+           radius="3.2996183663092724"
+           scale="14.0"
+           stroke="none"
+           text-anchor="middle"
+           text="43.5"
+           x="327.26"
+           y="998.77"
+           id="text94">43.5</text>
+        <text
+           angle-from-down="1.096396752872638"
+           cycle-frac="0.5"
+           dominant-baseline="central"
+           err-x="2.445409151877302"
+           err-y="3.999333425049355"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="18"
+           radius="3.3677981830660326"
+           scale="25.0"
+           stroke="none"
+           text-anchor="middle"
+           text="45.6"
+           x="343.02"
+           y="986.15"
+           id="text95">45.6</text>
+        <text
+           angle-from-down="1.049591144620409"
+           cycle-frac="0.41666666"
+           dominant-baseline="central"
+           err-x="2.339636409412359"
+           err-y="3.8263478679803287"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="29"
+           radius="3.896440298737525"
+           scale="13.0"
+           stroke="none"
+           text-anchor="middle"
+           text="39.5"
+           x="386.90"
+           y="1032.14"
+           id="text96">39.5</text>
+        <text
+           angle-from-down="2.5891709595393557"
+           cycle-frac="0.75"
+           dominant-baseline="central"
+           err-x="2.5153319001452292"
+           err-y="4.11368826996541"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="33"
+           radius="6.601976962069662"
+           scale="26.0"
+           stroke="none"
+           text-anchor="middle"
+           text="22.7"
+           x="396.66"
+           y="166.53"
+           id="text97">22.7</text>
+        <text
+           angle-from-down="2.55096374108913"
+           cycle-frac="0.8333333"
+           dominant-baseline="central"
+           err-x="3.0633425890566786"
+           err-y="5.009929892258094"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="22"
+           radius="6.323840709605114"
+           scale="44.0"
+           stroke="none"
+           text-anchor="middle"
+           text="28.4"
+           x="403.22"
+           y="208.60"
+           id="text98">28.4</text>
+        <text
+           angle-from-down="2.641809603801004"
+           cycle-frac="0.75"
+           dominant-baseline="central"
+           err-x="2.9777987503702508"
+           err-y="4.87002760510789"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="21"
+           radius="7.6764436443710435"
+           scale="26.0"
+           stroke="none"
+           text-anchor="middle"
+           text="22.7"
+           x="421.22"
+           y="38.57"
+           id="text99">22.7</text>
+        <text
+           angle-from-down="1.405658843328096"
+           cycle-frac="0.25"
+           dominant-baseline="central"
+           err-x="3.073491369533635"
+           err-y="5.026527669752231"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="3"
+           radius="3.770139757504011"
+           scale="14.0"
+           stroke="none"
+           text-anchor="middle"
+           text="52.5"
+           x="425.80"
+           y="880.96"
+           id="text100">52.5</text>
+        <text
+           angle-from-down="0.9067430709084647"
+           cycle-frac="0.083333336"
+           dominant-baseline="central"
+           err-x="3.417896865926639"
+           err-y="5.589784093503587"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="13"
+           radius="4.914889558310971"
+           scale="30.0"
+           stroke="none"
+           text-anchor="middle"
+           text="41.6"
+           x="443.16"
+           y="1156.83"
+           id="text101">41.6</text>
+        <text
+           angle-from-down="1.1341827862752316"
+           cycle-frac="0.25"
+           dominant-baseline="central"
+           err-x="3.2167818888723625"
+           err-y="5.260871506669705"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="27"
+           radius="4.323556102714748"
+           scale="28.0"
+           stroke="none"
+           text-anchor="middle"
+           text="46.9"
+           x="448.60"
+           y="1019.34"
+           id="text102">46.9</text>
+        <text
+           angle-from-down="2.5606581946634974"
+           cycle-frac="0.8333333"
+           dominant-baseline="central"
+           err-x="3.0922386323490967"
+           err-y="5.05718779660605"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="34"
+           radius="7.354679719632174"
+           scale="29.0"
+           stroke="none"
+           text-anchor="middle"
+           text="25.0"
+           x="462.15"
+           y="106.05"
+           id="text103">25.0</text>
+        <text
+           angle-from-down="1.1834591915610977"
+           cycle-frac="0.33333334"
+           dominant-baseline="central"
+           err-x="3.44525821627219"
+           err-y="5.634532091157656"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="4"
+           radius="4.5676111135593045"
+           scale="27.0"
+           stroke="none"
+           text-anchor="middle"
+           text="47.9"
+           x="484.24"
+           y="1007.54"
+           id="text104">47.9</text>
+        <text
+           angle-from-down="0.8550717546814308"
+           cycle-frac="0.16666667"
+           dominant-baseline="central"
+           err-x="3.7664148839982223"
+           err-y="6.159766322381561"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="14"
+           radius="5.672548208067063"
+           scale="46.0"
+           stroke="none"
+           text-anchor="middle"
+           text="39.6"
+           x="490.12"
+           y="1236.17"
+           id="text105">39.6</text>
+        <text
+           angle-from-down="1.017311263236381"
+           cycle-frac="0.25"
+           dominant-baseline="central"
+           err-x="3.862300446397526"
+           err-y="6.316581935175365"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="15"
+           radius="5.114983020305902"
+           scale="32.0"
+           stroke="none"
+           text-anchor="middle"
+           text="45.6"
+           x="498.21"
+           y="1117.85"
+           id="text106">45.6</text>
+        <text
+           angle-from-down="0.9986536350834945"
+           cycle-frac="0.33333334"
+           dominant-baseline="central"
+           err-x="3.7234026510583114"
+           err-y="6.089422159013022"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="28"
+           radius="5.3089734966963835"
+           scale="36.0"
+           stroke="none"
+           text-anchor="middle"
+           text="43.2"
+           x="511.06"
+           y="1139.12"
+           id="text107">43.2</text>
+        <text
+           angle-from-down="0.9823749612106306"
+           cycle-frac="0.41666666"
+           dominant-baseline="central"
+           err-x="3.5312815865958704"
+           err-y="5.775218626172371"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="5"
+           radius="5.486254476474271"
+           scale="21.0"
+           stroke="none"
+           text-anchor="middle"
+           text="40.5"
+           x="522.52"
+           y="1158.66"
+           id="text108">40.5</text>
+        <text
+           angle-from-down="1.0006480172621406"
+           cycle-frac="0.16666667"
+           dominant-baseline="central"
+           err-x="3.650710994593936"
+           err-y="5.97053891561099"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="2"
+           radius="5.686205436943408"
+           scale="28.0"
+           stroke="none"
+           text-anchor="middle"
+           text="40.7"
+           x="548.07"
+           y="1161.41"
+           id="text109">40.7</text>
+        <text
+           angle-from-down="1.025434704326957"
+           cycle-frac="0.33333334"
+           dominant-baseline="central"
+           err-x="4.284398618681251"
+           err-y="7.00690049711032"
+           fill="#000"
+           font-size="3.3333333333333335"
+           index="16"
+           radius="7.515268689591518"
+           scale="28.0"
+           stroke="none"
+           text-anchor="middle"
+           text="37.7"
+           x="735.66"
+           y="1256.35"
+           id="text110">37.7</text>
+      </g>
+      <polyline
+         fill="none"
+         points="0.00,810.00 0.00,810.00"
+         stroke-dasharray="50.0 50.0"
+         stroke-width="3.6"
+         stroke="red"
+         id="polyline111" />
+      <polyline
+         fill="none"
+         points="0.00,810.00 0.00,810.00"
+         stroke-dasharray="7.0 7.0"
+         stroke-width="3.6"
+         stroke="black"
+         id="polyline113" />
+      <polyline
+         fill="none"
+         points="0.00,810.00 0.00,810.00"
+         stroke-dasharray="7.0 7.0"
+         stroke-width="3.6"
+         stroke="black"
+         id="polyline115" />
+    </g>
+  </g>
+</svg>
