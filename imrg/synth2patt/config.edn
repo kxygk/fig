@@ -1,0 +1,19 @@
+{:window-width                   1080.0
+ :row-height                     360
+ :contour-filestr                nil
+ :non-zero-min?                  false
+ :rain-dirstr                    "/home/kxygk/Projects/raingrid/out-merged/"
+ :elevation-filestr              "./data/World_e-Atlas-UCSD_SRTM30-plus_v8.tif"
+ :bin-size                       1
+ :cycle-length                   12
+ :cycle-phase                    0
+ :eas-res                        0.1
+ :sou-res                        0.1
+ :region                         nil
+ :region-key                     :ocean1small
+ :is-in-ram                      false
+ :mouse-click                    nil
+ :datafile-idxs                  [0]
+ :sv-selected-idxs               [0]
+ :noise-selected-idxs            [0]
+ :normalized-noise-selected-idxs [0]}
