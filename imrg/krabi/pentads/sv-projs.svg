@@ -1,0 +1,1077 @@
+<?xml version="1.0"?>
+<svg height="1620.0" version="1.1" width="810.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<g stroke-width="9" stroke="#000f">
+<line x1="0.00" x2="0.00" y1="810.00" y2="820.00" />
+<line x1="-173.50" x2="-173.50" y1="810.00" y2="820.00" />
+<line x1="-347.01" x2="-347.01" y1="810.00" y2="820.00" />
+<line x1="-520.51" x2="-520.51" y1="810.00" y2="820.00" />
+<line x1="-694.01" x2="-694.01" y1="810.00" y2="820.00" />
+<g fill="black" font-family="Arial, sans-serif" font-size="45.0" stroke="none" text-anchor="start" transform="translate(22.5 0.0)">
+<text x="0.00" y="861.43">0.0</text>
+<text x="-173.50" y="861.43">-0.1</text>
+<text x="-347.01" y="861.43">-0.2</text>
+<text x="-520.51" y="861.43">-0.3</text>
+<text x="-694.01" y="861.43">-0.4</text>
+</g>
+<line x1="0.00" x2="810.00" y1="810.00" y2="810.00" />
+</g>
+<g stroke-width="9" stroke="#000f">
+<line x1="0.00" x2="-10.00" y1="1504.01" y2="1504.01" />
+<line x1="0.00" x2="-10.00" y1="1330.51" y2="1330.51" />
+<line x1="0.00" x2="-10.00" y1="1157.01" y2="1157.01" />
+<line x1="0.00" x2="-10.00" y1="983.50" y2="983.50" />
+<line x1="0.00" x2="-10.00" y1="636.50" y2="636.50" />
+<line x1="0.00" x2="-10.00" y1="462.99" y2="462.99" />
+<line x1="0.00" x2="-10.00" y1="289.49" y2="289.49" />
+<line x1="0.00" x2="-10.00" y1="115.99" y2="115.99" />
+<g fill="black" font-family="Arial, sans-serif" font-size="45.0" stroke="none" text-anchor="end">
+<text x="-22.50" y="1481.51">-0.4</text>
+<text x="-22.50" y="1308.01">-0.3</text>
+<text x="-22.50" y="1134.51">-0.2</text>
+<text x="-22.50" y="961.00">-0.1</text>
+<text x="-22.50" y="614.00">0.1</text>
+<text x="-22.50" y="440.49">0.2</text>
+<text x="-22.50" y="266.99">0.3</text>
+<text x="-22.50" y="93.49">0.4</text>
+</g>
+<line x1="0.00" x2="0.00" y1="1620.00" y2="0.00" />
+</g>
+</g>
+<g>
+<g>
+<g>
+<circle cx="1.21" cy="811.32" fill-opacity="0.8" fill="#3364b0" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 7
+{:cycle-frac 7/73, :angle-from-down 42.49800723820242, :index 7, :scale 1.0, :err-y 0.002188757780581629, :radius 0.0010352612996883375, :err-x 9.749571697065034E-4, :err-angle 49.78205828465635}" />
+<title>Index: 7
+{:cycle-frac 7/73, :angle-from-down 42.49800723820242, :index 7, :scale 1.0, :err-y 0.002188757780581629, :radius 0.0010352612996883375, :err-x 9.749571697065034E-4, :err-angle 49.78205828465635}</title>
+</g>
+<g>
+<circle cx="2.35" cy="813.37" fill-opacity="0.8" fill="#2541d4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 3
+{:cycle-frac 3/73, :angle-from-down 34.90544131433263, :index 3, :scale 1.0, :err-y 0.0026445692655407468, :radius 0.0023658736681110727, :err-x 0.0011779931928051254, :err-angle 30.104208726134516}" />
+<title>Index: 3
+{:cycle-frac 3/73, :angle-from-down 34.90544131433263, :index 3, :scale 1.0, :err-y 0.0026445692655407468, :radius 0.0023658736681110727, :err-x 0.0011779931928051254, :err-angle 30.104208726134516}</title>
+</g>
+<g>
+<circle cx="5.51" cy="797.81" fill-opacity="0.8" fill="#3364b0" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 80
+{:cycle-frac 7/73, :angle-from-down 155.67137667115907, :index 80, :scale 1.0, :err-y 0.011659925014969671, :radius 0.007708293187860965, :err-x 0.005193780505289181, :err-angle 35.93844870730601}" />
+<title>Index: 80
+{:cycle-frac 7/73, :angle-from-down 155.67137667115907, :index 80, :scale 1.0, :err-y 0.011659925014969671, :radius 0.007708293187860965, :err-x 0.005193780505289181, :err-angle 35.93844870730601}</title>
+</g>
+<g>
+<circle cx="5.55" cy="819.70" fill-opacity="0.8" fill="#2f5db9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 6
+{:cycle-frac 6/73, :angle-from-down 29.76007041097389, :index 6, :scale 1.0, :err-y 0.007728529174656628, :radius 0.0064400578500987725, :err-x 0.0034425851032794707, :err-angle 30.82541760434676}" />
+<title>Index: 6
+{:cycle-frac 6/73, :angle-from-down 29.76007041097389, :index 6, :scale 1.0, :err-y 0.007728529174656628, :radius 0.0064400578500987725, :err-x 0.0034425851032794707, :err-angle 30.82541760434676}</title>
+</g>
+<g>
+<circle cx="6.32" cy="810.40" fill-opacity="0.8" fill="#396ca4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 8
+{:cycle-frac 8/73, :angle-from-down 86.37859580878255, :index 8, :scale 1.0, :err-y 0.012228731608792282, :radius 0.0036478380869312435, :err-x 0.005447148909844362, :err-angle 73.26423199230214}" />
+<title>Index: 8
+{:cycle-frac 8/73, :angle-from-down 86.37859580878255, :index 8, :scale 1.0, :err-y 0.012228731608792282, :radius 0.0036478380869312435, :err-x 0.005447148909844362, :err-angle 73.26423199230214}</title>
+</g>
+<g>
+<circle cx="10.21" cy="800.73" fill-opacity="0.8" fill="#3e729b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 9
+{:cycle-frac 9/73, :angle-from-down 132.23907400751162, :index 9, :scale 1.0, :err-y 0.01907326423145848, :radius 0.007948895114730615, :err-x 0.008495967839449826, :err-angle 54.98700042966846}" />
+<title>Index: 9
+{:cycle-frac 9/73, :angle-from-down 132.23907400751162, :index 9, :scale 1.0, :err-y 0.01907326423145848, :radius 0.007948895114730615, :err-x 0.008495967839449826, :err-angle 54.98700042966846}</title>
+</g>
+<g>
+<circle cx="10.51" cy="816.68" fill-opacity="0.8" fill="#262ce3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 74
+{:cycle-frac 1/73, :angle-from-down 57.55377616121832, :index 74, :scale 1.0, :err-y 0.01704530085162406, :radius 0.007181012227739323, :err-x 0.007592634700162727, :err-angle 58.21862997394654}" />
+<title>Index: 74
+{:cycle-frac 1/73, :angle-from-down 57.55377616121832, :index 74, :scale 1.0, :err-y 0.01704530085162406, :radius 0.007181012227739323, :err-x 0.007592634700162727, :err-angle 58.21862997394654}</title>
+</g>
+<g>
+<circle cx="11.38" cy="802.00" fill-opacity="0.8" fill="#396ca4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 81
+{:cycle-frac 8/73, :angle-from-down 125.1120159022483, :index 81, :scale 1.0, :err-y 0.02082740594330502, :radius 0.008016170678234872, :err-x 0.009277330242278878, :err-angle 59.530666591047286}" />
+<title>Index: 81
+{:cycle-frac 8/73, :angle-from-down 125.1120159022483, :index 81, :scale 1.0, :err-y 0.02082740594330502, :radius 0.008016170678234872, :err-x 0.009277330242278878, :err-angle 59.530666591047286}</title>
+</g>
+<g>
+<circle cx="11.66" cy="819.09" fill-opacity="0.8" fill="#501df3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 70
+{:cycle-frac 70/73, :angle-from-down 52.05652369209354, :index 70, :scale 1.0, :err-y 0.011720334297073195, :radius 0.008524285968854656, :err-x 0.0052206891304582784, :err-angle 40.85502726242999}" />
+<title>Index: 70
+{:cycle-frac 70/73, :angle-from-down 52.05652369209354, :index 70, :scale 1.0, :err-y 0.011720334297073195, :radius 0.008524285968854656, :err-x 0.0052206891304582784, :err-angle 40.85502726242999}</title>
+</g>
+<g>
+<circle cx="15.09" cy="808.31" fill-opacity="0.8" fill="#deed1f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 107
+{:cycle-frac 34/73, :angle-from-down 96.40749423939917, :index 107, :scale 1.0, :err-y 0.024822228119821044, :radius 0.00874987866968063, :err-x 0.011056778181768005, :err-angle 70.13719379283337}" />
+<title>Index: 107
+{:cycle-frac 34/73, :angle-from-down 96.40749423939917, :index 107, :scale 1.0, :err-y 0.024822228119821044, :radius 0.00874987866968063, :err-x 0.011056778181768005, :err-angle 70.13719379283337}</title>
+</g>
+<g>
+<circle cx="17.08" cy="787.21" fill-opacity="0.8" fill="#fcc587" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 43
+{:cycle-frac 43/73, :angle-from-down 143.15568034939437, :index 43, :scale 1.0, :err-y 0.021670621794699866, :radius 0.016415630464810555, :err-x 0.009652931118365366, :err-angle 34.876378306959694}" />
+<title>Index: 43
+{:cycle-frac 43/73, :angle-from-down 143.15568034939437, :index 43, :scale 1.0, :err-y 0.021670621794699866, :radius 0.016415630464810555, :err-x 0.009652931118365366, :err-angle 34.876378306959694}</title>
+</g>
+<g>
+<circle cx="19.52" cy="804.20" fill-opacity="0.8" fill="#702af7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 140
+{:cycle-frac 67/73, :angle-from-down 106.54840911329842, :index 140, :scale 1.0, :err-y 0.03314971251253522, :radius 0.011739225969388112, :err-x 0.014766161050135595, :err-angle 67.80194553565082}" />
+<title>Index: 140
+{:cycle-frac 67/73, :angle-from-down 106.54840911329842, :index 140, :scale 1.0, :err-y 0.03314971251253522, :radius 0.011739225969388112, :err-x 0.014766161050135595, :err-angle 67.80194553565082}</title>
+</g>
+<g>
+<circle cx="20.28" cy="792.52" fill-opacity="0.8" fill="#41945d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 87
+{:cycle-frac 14/73, :angle-from-down 130.7588846948096, :index 87, :scale 1.0, :err-y 0.020801006222105917, :radius 0.015431422300245367, :err-x 0.009265570787811268, :err-angle 39.249543979279835}" />
+<title>Index: 87
+{:cycle-frac 14/73, :angle-from-down 130.7588846948096, :index 87, :scale 1.0, :err-y 0.020801006222105917, :radius 0.015431422300245367, :err-x 0.009265570787811268, :err-angle 39.249543979279835}</title>
+</g>
+<g>
+<circle cx="21.09" cy="794.54" fill-opacity="0.8" fill="#deed1f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 34
+{:cycle-frac 34/73, :angle-from-down 126.24709879863536, :index 34, :scale 1.0, :err-y 0.026743348543550136, :radius 0.015074524107392582, :err-x 0.011912519345820704, :err-angle 48.798363756020635}" />
+<title>Index: 34
+{:cycle-frac 34/73, :angle-from-down 126.24709879863536, :index 34, :scale 1.0, :err-y 0.026743348543550136, :radius 0.015074524107392582, :err-x 0.011912519345820704, :err-angle 48.798363756020635}</title>
+</g>
+<g>
+<circle cx="21.64" cy="803.95" fill-opacity="0.8" fill="#42798e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 83
+{:cycle-frac 10/73, :angle-from-down 105.62424066377133, :index 83, :scale 1.0, :err-y 0.0384288753565958, :radius 0.012950393350922677, :err-x 0.017117703879830193, :err-angle 69.03287627055875}" />
+<title>Index: 83
+{:cycle-frac 10/73, :angle-from-down 105.62424066377133, :index 83, :scale 1.0, :err-y 0.0384288753565958, :radius 0.012950393350922677, :err-x 0.017117703879830193, :err-angle 69.03287627055875}</title>
+</g>
+<g>
+<circle cx="21.65" cy="789.63" fill-opacity="0.8" fill="#36b11e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 19
+{:cycle-frac 19/73, :angle-from-down 133.2553368688659, :index 19, :scale 1.0, :err-y 0.026526654549626633, :radius 0.01713685540761433, :err-x 0.011815995479688778, :err-angle 42.28472151377999}" />
+<title>Index: 19
+{:cycle-frac 19/73, :angle-from-down 133.2553368688659, :index 19, :scale 1.0, :err-y 0.026526654549626633, :radius 0.01713685540761433, :err-x 0.011815995479688778, :err-angle 42.28472151377999}</title>
+</g>
+<g>
+<circle cx="24.36" cy="791.02" fill-opacity="0.8" fill="#41b714" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 20
+{:cycle-frac 20/73, :angle-from-down 127.92675347555581, :index 20, :scale 1.0, :err-y 0.030913181869298853, :radius 0.017797990948290814, :err-x 0.013769924004064548, :err-angle 47.53839869161145}" />
+<title>Index: 20
+{:cycle-frac 20/73, :angle-from-down 127.92675347555581, :index 20, :scale 1.0, :err-y 0.030913181869298853, :radius 0.017797990948290814, :err-x 0.013769924004064548, :err-angle 47.53839869161145}</title>
+</g>
+<g>
+<circle cx="25.03" cy="791.18" fill-opacity="0.8" fill="#cae617" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 105
+{:cycle-frac 32/73, :angle-from-down 126.93230775244625, :index 105, :scale 1.0, :err-y 0.022558707911749205, :radius 0.01804887035823892, :err-x 0.010048518942114396, :err-angle 38.55882843254568}" />
+<title>Index: 105
+{:cycle-frac 32/73, :angle-from-down 126.93230775244625, :index 105, :scale 1.0, :err-y 0.022558707911749205, :radius 0.01804887035823892, :err-x 0.010048518942114396, :err-angle 38.55882843254568}</title>
+</g>
+<g>
+<circle cx="25.27" cy="770.43" fill-opacity="0.8" fill="#fcc587" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 116
+{:cycle-frac 43/73, :angle-from-down 147.4353615942082, :index 116, :scale 1.0, :err-y 0.035804274850326036, :radius 0.027062829303510515, :err-x 0.01594860554290822, :err-angle 33.92337922744973}" />
+<title>Index: 116
+{:cycle-frac 43/73, :angle-from-down 147.4353615942082, :index 116, :scale 1.0, :err-y 0.035804274850326036, :radius 0.027062829303510515, :err-x 0.01594860554290822, :err-angle 33.92337922744973}</title>
+</g>
+<g>
+<circle cx="25.46" cy="833.36" fill-opacity="0.8" fill="#3e9a52" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 88
+{:cycle-frac 15/73, :angle-from-down 47.46322885197706, :index 88, :scale 1.0, :err-y 0.029765444064621966, :radius 0.01991737350835422, :err-x 0.013258677299865254, :err-angle 41.53382651658047}" />
+<title>Index: 88
+{:cycle-frac 15/73, :angle-from-down 47.46322885197706, :index 88, :scale 1.0, :err-y 0.029765444064621966, :radius 0.01991737350835422, :err-x 0.013258677299865254, :err-angle 41.53382651658047}</title>
+</g>
+<g>
+<circle cx="25.51" cy="806.20" fill-opacity="0.8" fill="#2438db" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 2
+{:cycle-frac 2/73, :angle-from-down 98.4735721261923, :index 2, :scale 1.0, :err-y 0.02917025081701285, :radius 0.014863600763067416, :err-x 0.01299355526157226, :err-angle 62.01269489536249}" />
+<title>Index: 2
+{:cycle-frac 2/73, :angle-from-down 98.4735721261923, :index 2, :scale 1.0, :err-y 0.02917025081701285, :radius 0.014863600763067416, :err-x 0.01299355526157226, :err-angle 62.01269489536249}</title>
+</g>
+<g>
+<circle cx="26.66" cy="767.25" fill-opacity="0.8" fill="#fcbe90" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 117
+{:cycle-frac 44/73, :angle-from-down 148.05352715777525, :index 117, :scale 1.0, :err-y 0.03909375683669859, :radius 0.029036371051032614, :err-x 0.017413867745828617, :err-angle 34.254466244473306}" />
+<title>Index: 117
+{:cycle-frac 44/73, :angle-from-down 148.05352715777525, :index 117, :scale 1.0, :err-y 0.03909375683669859, :radius 0.029036371051032614, :err-x 0.017413867745828617, :err-angle 34.254466244473306}</title>
+</g>
+<g>
+<circle cx="27.51" cy="807.53" fill-opacity="0.8" fill="#7b30f9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 66
+{:cycle-frac 66/73, :angle-from-down 95.12877672256738, :index 66, :scale 1.0, :err-y 0.04310717872997496, :radius 0.01591867463124687, :err-x 0.019201600716841564, :err-angle 69.43416053099534}" />
+<title>Index: 66
+{:cycle-frac 66/73, :angle-from-down 95.12877672256738, :index 66, :scale 1.0, :err-y 0.04310717872997496, :radius 0.01591867463124687, :err-x 0.019201600716841564, :err-angle 69.43416053099534}</title>
+</g>
+<g>
+<circle cx="29.37" cy="775.25" fill-opacity="0.8" fill="#447f84" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 11
+{:cycle-frac 11/73, :angle-from-down 139.79483688209325, :index 11, :scale 1.0, :err-y 0.03933006810705963, :radius 0.02622526831531, :err-x 0.01751912990382758, :err-angle 39.30320724282246}" />
+<title>Index: 11
+{:cycle-frac 11/73, :angle-from-down 139.79483688209325, :index 11, :scale 1.0, :err-y 0.03933006810705963, :radius 0.02622526831531, :err-x 0.01751912990382758, :err-angle 39.30320724282246}</title>
+</g>
+<g>
+<circle cx="30.07" cy="881.67" fill-opacity="0.8" fill="#284ccb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 4
+{:cycle-frac 4/73, :angle-from-down 22.76441809983434, :index 4, :scale 1.0, :err-y 0.03432519864299207, :radius 0.04479442339063339, :err-x 0.015289767929319272, :err-angle 19.9946568487758}" />
+<title>Index: 4
+{:cycle-frac 4/73, :angle-from-down 22.76441809983434, :index 4, :scale 1.0, :err-y 0.03432519864299207, :radius 0.04479442339063339, :err-x 0.015289767929319272, :err-angle 19.9946568487758}</title>
+</g>
+<g>
+<circle cx="30.94" cy="836.43" fill-opacity="0.8" fill="#421bf1" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 71
+{:cycle-frac 71/73, :angle-from-down 49.49821162001602, :index 71, :scale 1.0, :err-y 0.0325408570300899, :radius 0.023451947613118786, :err-x 0.014494953325282847, :err-angle 40.15763745842358}" />
+<title>Index: 71
+{:cycle-frac 71/73, :angle-from-down 49.49821162001602, :index 71, :scale 1.0, :err-y 0.0325408570300899, :radius 0.023451947613118786, :err-x 0.014494953325282847, :err-angle 40.15763745842358}</title>
+</g>
+<g>
+<circle cx="31.20" cy="833.55" fill-opacity="0.8" fill="#38a143" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 89
+{:cycle-frac 16/73, :angle-from-down 52.9572644844645, :index 89, :scale 1.0, :err-y 0.03640119687740847, :radius 0.022529122687963928, :err-x 0.016214497646284343, :err-angle 45.81570093947969}" />
+<title>Index: 89
+{:cycle-frac 16/73, :angle-from-down 52.9572644844645, :index 89, :scale 1.0, :err-y 0.03640119687740847, :radius 0.022529122687963928, :err-x 0.016214497646284343, :err-angle 45.81570093947969}</title>
+</g>
+<g>
+<circle cx="35.61" cy="792.93" fill-opacity="0.8" fill="#5abf0c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 22
+{:cycle-frac 22/73, :angle-from-down 115.60771967508067, :index 22, :scale 1.0, :err-y 0.04628384785898693, :radius 0.022761702164040706, :err-x 0.020616611720157104, :err-angle 56.91824720473232}" />
+<title>Index: 22
+{:cycle-frac 22/73, :angle-from-down 115.60771967508067, :index 22, :scale 1.0, :err-y 0.04628384785898693, :radius 0.022761702164040706, :err-x 0.020616611720157104, :err-angle 56.91824720473232}</title>
+</g>
+<g>
+<circle cx="37.12" cy="772.05" fill-opacity="0.8" fill="#fcce7b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 115
+{:cycle-frac 42/73, :angle-from-down 135.63423728019322, :index 115, :scale 1.0, :err-y 0.04394141580219916, :radius 0.030596335069245296, :err-x 0.01957320209823516, :err-angle 39.36457316723318}" />
+<title>Index: 115
+{:cycle-frac 42/73, :angle-from-down 135.63423728019322, :index 115, :scale 1.0, :err-y 0.04394141580219916, :radius 0.030596335069245296, :err-x 0.01957320209823516, :err-angle 39.36457316723318}</title>
+</g>
+<g>
+<circle cx="38.48" cy="801.09" fill-opacity="0.8" fill="#8acf0f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 26
+{:cycle-frac 26/73, :angle-from-down 103.04331487445114, :index 26, :scale 1.0, :err-y 0.04466990446771998, :radius 0.02276422867513251, :err-x 0.019897699058931545, :err-angle 60.76901478718276}" />
+<title>Index: 26
+{:cycle-frac 26/73, :angle-from-down 103.04331487445114, :index 26, :scale 1.0, :err-y 0.04466990446771998, :radius 0.02276422867513251, :err-x 0.019897699058931545, :err-angle 60.76901478718276}</title>
+</g>
+<g>
+<circle cx="39.30" cy="788.91" fill-opacity="0.8" fill="#284ccb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 77
+{:cycle-frac 4/73, :angle-from-down 118.21779944318864, :index 77, :scale 1.0, :err-y 0.04178571921295899, :radius 0.025708302820755584, :err-x 0.018612971658833424, :err-angle 49.67670967729418}" />
+<title>Index: 77
+{:cycle-frac 4/73, :angle-from-down 118.21779944318864, :index 77, :scale 1.0, :err-y 0.04178571921295899, :radius 0.025708302820755584, :err-x 0.018612971658833424, :err-angle 49.67670967729418}</title>
+</g>
+<g>
+<circle cx="40.36" cy="801.18" fill-opacity="0.8" fill="#4bba0f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 21
+{:cycle-frac 21/73, :angle-from-down 102.32537336181477, :index 21, :scale 1.0, :err-y 0.05301201565782763, :radius 0.023810419433807954, :err-x 0.023613597267239984, :err-angle 63.95306056335885}" />
+<title>Index: 21
+{:cycle-frac 21/73, :angle-from-down 102.32537336181477, :index 21, :scale 1.0, :err-y 0.05301201565782763, :radius 0.023810419433807954, :err-x 0.023613597267239984, :err-angle 63.95306056335885}</title>
+</g>
+<g>
+<circle cx="40.66" cy="836.05" fill-opacity="0.8" fill="#32ad28" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 18
+{:cycle-frac 18/73, :angle-from-down 57.35080611310482, :index 18, :scale 1.0, :err-y 0.045016278830500196, :radius 0.027830790331431137, :err-x 0.020051987565129496, :err-angle 47.636880623726626}" />
+<title>Index: 18
+{:cycle-frac 18/73, :angle-from-down 57.35080611310482, :index 18, :scale 1.0, :err-y 0.045016278830500196, :radius 0.027830790331431137, :err-x 0.020051987565129496, :err-angle 47.636880623726626}</title>
+</g>
+<g>
+<circle cx="40.68" cy="739.56" fill-opacity="0.8" fill="#f4ec3d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 37
+{:cycle-frac 37/73, :angle-from-down 149.9928274281338, :index 37, :scale 1.0, :err-y 0.05508508903818122, :radius 0.04688427053429185, :err-x 0.02453702414134855, :err-angle 30.340574240214796}" />
+<title>Index: 37
+{:cycle-frac 37/73, :angle-from-down 149.9928274281338, :index 37, :scale 1.0, :err-y 0.05508508903818122, :radius 0.04688427053429185, :err-x 0.02453702414134855, :err-angle 30.340574240214796}</title>
+</g>
+<g>
+<circle cx="40.92" cy="723.74" fill-opacity="0.8" fill="#d3e919" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 106
+{:cycle-frac 33/73, :angle-from-down 154.62201896447235, :index 106, :scale 1.0, :err-y 0.06047429711305147, :radius 0.0550264599857592, :err-x 0.026937585362992136, :err-angle 27.928945275624898}" />
+<title>Index: 106
+{:cycle-frac 33/73, :angle-from-down 154.62201896447235, :index 106, :scale 1.0, :err-y 0.06047429711305147, :radius 0.0550264599857592, :err-x 0.026937585362992136, :err-angle 27.928945275624898}</title>
+</g>
+<g>
+<circle cx="46.70" cy="819.78" fill-opacity="0.8" fill="#a43efb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 62
+{:cycle-frac 62/73, :angle-from-down 78.16844533910576, :index 62, :scale 1.0, :err-y 0.0477354832947156, :radius 0.02749921489875717, :err-x 0.021263226155258205, :err-angle 58.07392940671693}" />
+<title>Index: 62
+{:cycle-frac 62/73, :angle-from-down 78.16844533910576, :index 62, :scale 1.0, :err-y 0.0477354832947156, :radius 0.02749921489875717, :err-x 0.021263226155258205, :err-angle 58.07392940671693}</title>
+</g>
+<g>
+<circle cx="50.04" cy="878.69" fill-opacity="0.8" fill="#501df3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 143
+{:cycle-frac 70/73, :angle-from-down 36.07436485003019, :index 143, :scale 1.0, :err-y 0.0629153479019904, :radius 0.04898164400039637, :err-x 0.028024923573463905, :err-angle 33.95317490769272}" />
+<title>Index: 143
+{:cycle-frac 70/73, :angle-from-down 36.07436485003019, :index 143, :scale 1.0, :err-y 0.0629153479019904, :radius 0.04898164400039637, :err-x 0.028024923573463905, :err-angle 33.95317490769272}</title>
+</g>
+<g>
+<circle cx="50.99" cy="759.57" fill-opacity="0.8" fill="#fa7bd6" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 51
+{:cycle-frac 51/73, :angle-from-down 134.6822590534629, :index 51, :scale 1.0, :err-y 0.05232703469470367, :radius 0.041332533073356645, :err-x 0.02330848031595591, :err-angle 36.17514758647027}" />
+<title>Index: 51
+{:cycle-frac 51/73, :angle-from-down 134.6822590534629, :index 51, :scale 1.0, :err-y 0.05232703469470367, :radius 0.041332533073356645, :err-x 0.02330848031595591, :err-angle 36.17514758647027}</title>
+</g>
+<g>
+<circle cx="51.16" cy="814.89" fill-opacity="0.8" fill="#5abf0c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 95
+{:cycle-frac 22/73, :angle-from-down 84.53496693307022, :index 95, :scale 1.0, :err-y 0.05253674940170833, :radius 0.029622161094069923, :err-x 0.02340189533839508, :err-angle 60.140965971636234}" />
+<title>Index: 95
+{:cycle-frac 22/73, :angle-from-down 84.53496693307022, :index 95, :scale 1.0, :err-y 0.05253674940170833, :radius 0.029622161094069923, :err-x 0.02340189533839508, :err-angle 60.140965971636234}</title>
+</g>
+<g>
+<circle cx="51.32" cy="813.69" fill-opacity="0.8" fill="#458776" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 12
+{:cycle-frac 12/73, :angle-from-down 85.89179653276369, :index 12, :scale 1.0, :err-y 0.058911134616986126, :radius 0.029654209702116168, :err-x 0.026241292471893735, :err-angle 63.04376659418211}" />
+<title>Index: 12
+{:cycle-frac 12/73, :angle-from-down 85.89179653276369, :index 12, :scale 1.0, :err-y 0.058911134616986126, :radius 0.029654209702116168, :err-x 0.026241292471893735, :err-angle 63.04376659418211}</title>
+</g>
+<g>
+<circle cx="52.12" cy="766.00" fill-opacity="0.8" fill="#8acf0f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 99
+{:cycle-frac 26/73, :angle-from-down 130.17452237425672, :index 99, :scale 1.0, :err-y 0.043466577826668934, :radius 0.03931166739988168, :err-x 0.01936169094209012, :err-angle 34.028857773430346}" />
+<title>Index: 99
+{:cycle-frac 26/73, :angle-from-down 130.17452237425672, :index 99, :scale 1.0, :err-y 0.043466577826668934, :radius 0.03931166739988168, :err-x 0.01936169094209012, :err-angle 34.028857773430346}</title>
+</g>
+<g>
+<circle cx="52.88" cy="804.39" fill-opacity="0.8" fill="#973bfb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 136
+{:cycle-frac 63/73, :angle-from-down 96.05440474280608, :index 136, :scale 1.0, :err-y 0.05108659636015228, :radius 0.030646876556177517, :err-x 0.022755941218857528, :err-angle 58.48200818664182}" />
+<title>Index: 136
+{:cycle-frac 63/73, :angle-from-down 96.05440474280608, :index 136, :scale 1.0, :err-y 0.05108659636015228, :radius 0.030646876556177517, :err-x 0.022755941218857528, :err-angle 58.48200818664182}</title>
+</g>
+<g>
+<circle cx="53.24" cy="751.07" fill-opacity="0.8" fill="#db48f9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 57
+{:cycle-frac 57/73, :angle-from-down 137.90537317646618, :index 57, :scale 1.0, :err-y 0.05936385369316892, :radius 0.045771935759921445, :err-x 0.026442951016801313, :err-angle 35.83907578358061}" />
+<title>Index: 57
+{:cycle-frac 57/73, :angle-from-down 137.90537317646618, :index 57, :scale 1.0, :err-y 0.05936385369316892, :radius 0.045771935759921445, :err-x 0.026442951016801313, :err-angle 35.83907578358061}</title>
+</g>
+<g>
+<circle cx="55.11" cy="886.58" fill-opacity="0.8" fill="#2c24e9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 0
+{:cycle-frac 0, :angle-from-down 35.73865005121041, :index 0, :scale 1.0, :err-y 0.0452637030384848, :radius 0.05437931516301704, :err-x 0.020162199854343806, :err-angle 23.50844548759837}" />
+<title>Index: 0
+{:cycle-frac 0, :angle-from-down 35.73865005121041, :index 0, :scale 1.0, :err-y 0.0452637030384848, :radius 0.05437931516301704, :err-x 0.020162199854343806, :err-angle 23.50844548759837}</title>
+</g>
+<g>
+<circle cx="58.48" cy="866.01" fill-opacity="0.8" fill="#702af7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 67
+{:cycle-frac 67/73, :angle-from-down 46.233447508537104, :index 67, :scale 1.0, :err-y 0.03888302035738767, :radius 0.04667278999456988, :err-x 0.017319997586578637, :err-angle 25.94062986265351}" />
+<title>Index: 67
+{:cycle-frac 67/73, :angle-from-down 46.233447508537104, :index 67, :scale 1.0, :err-y 0.03888302035738767, :radius 0.04667278999456988, :err-x 0.017319997586578637, :err-angle 25.94062986265351}</title>
+</g>
+<g>
+<circle cx="59.81" cy="746.92" fill-opacity="0.8" fill="#a0d711" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 28
+{:cycle-frac 28/73, :angle-from-down 136.52605919708094, :index 28, :scale 1.0, :err-y 0.06436135694412029, :radius 0.050100562243765454, :err-x 0.02866903179575897, :err-angle 35.9950947191991}" />
+<title>Index: 28
+{:cycle-frac 28/73, :angle-from-down 136.52605919708094, :index 28, :scale 1.0, :err-y 0.06436135694412029, :radius 0.050100562243765454, :err-x 0.02866903179575897, :err-angle 35.9950947191991}</title>
+</g>
+<g>
+<circle cx="60.60" cy="759.69" fill-opacity="0.8" fill="#fc90c3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 49
+{:cycle-frac 49/73, :angle-from-down 129.69663574288055, :index 49, :scale 1.0, :err-y 0.051518491134323476, :radius 0.0453957852385258, :err-x 0.022948323816133778, :err-angle 34.89154116436569}" />
+<title>Index: 49
+{:cycle-frac 49/73, :angle-from-down 129.69663574288055, :index 49, :scale 1.0, :err-y 0.051518491134323476, :radius 0.0453957852385258, :err-x 0.022948323816133778, :err-angle 34.89154116436569}</title>
+</g>
+<g>
+<circle cx="61.31" cy="763.28" fill-opacity="0.8" fill="#fcdd63" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 113
+{:cycle-frac 40/73, :angle-from-down 127.30861422042334, :index 113, :scale 1.0, :err-y 0.06418420663177982, :radius 0.04442771863817039, :err-x 0.02859012221121547, :err-angle 42.50880803108837}" />
+<title>Index: 113
+{:cycle-frac 40/73, :angle-from-down 127.30861422042334, :index 113, :scale 1.0, :err-y 0.06418420663177982, :radius 0.04442771863817039, :err-x 0.02859012221121547, :err-angle 42.50880803108837}</title>
+</g>
+<g>
+<circle cx="61.56" cy="816.28" fill-opacity="0.8" fill="#42798e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 10
+{:cycle-frac 10/73, :angle-from-down 84.17661044616162, :index 10, :scale 1.0, :err-y 0.07610226375345067, :radius 0.03566744612937838, :err-x 0.03389888471697664, :err-angle 64.43706183083677}" />
+<title>Index: 10
+{:cycle-frac 10/73, :angle-from-down 84.17661044616162, :index 10, :scale 1.0, :err-y 0.07610226375345067, :radius 0.03566744612937838, :err-x 0.03389888471697664, :err-angle 64.43706183083677}</title>
+</g>
+<g>
+<circle cx="62.07" cy="923.38" fill-opacity="0.8" fill="#371dee" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 72
+{:cycle-frac 72/73, :angle-from-down 28.699384335729597, :index 72, :scale 1.0, :err-y 0.1005376115088746, :radius 0.07449976830666637, :err-x 0.044783331456483465, :err-angle 33.655607743519006}" />
+<title>Index: 72
+{:cycle-frac 72/73, :angle-from-down 28.699384335729597, :index 72, :scale 1.0, :err-y 0.1005376115088746, :radius 0.07449976830666637, :err-x 0.044783331456483465, :err-angle 33.655607743519006}</title>
+</g>
+<g>
+<circle cx="63.14" cy="894.31" fill-opacity="0.8" fill="#2a53c3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 5
+{:cycle-frac 5/73, :angle-from-down 36.82974522308334, :index 5, :scale 1.0, :err-y 0.05610166028782766, :radius 0.06070957048995761, :err-x 0.02498984420081487, :err-angle 26.004894078853454}" />
+<title>Index: 5
+{:cycle-frac 5/73, :angle-from-down 36.82974522308334, :index 5, :scale 1.0, :err-y 0.05610166028782766, :radius 0.06070957048995761, :err-x 0.02498984420081487, :err-angle 26.004894078853454}</title>
+</g>
+<g>
+<circle cx="67.67" cy="877.96" fill-opacity="0.8" fill="#bb42fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 60
+{:cycle-frac 60/73, :angle-from-down 44.87765235672279, :index 60, :scale 1.0, :err-y 0.08634250008438778, :radius 0.0552778992246144, :err-x 0.038460281103050394, :err-angle 41.909178981293394}" />
+<title>Index: 60
+{:cycle-frac 60/73, :angle-from-down 44.87765235672279, :index 60, :scale 1.0, :err-y 0.08634250008438778, :radius 0.0552778992246144, :err-x 0.038460281103050394, :err-angle 41.909178981293394}</title>
+</g>
+<g>
+<circle cx="68.86" cy="816.28" fill-opacity="0.8" fill="#73c70d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 24
+{:cycle-frac 24/73, :angle-from-down 84.78712296413546, :index 24, :scale 1.0, :err-y 0.06950209805062142, :radius 0.03985029422272065, :err-x 0.030958916242477562, :err-angle 59.764208721607666}" />
+<title>Index: 24
+{:cycle-frac 24/73, :angle-from-down 84.78712296413546, :index 24, :scale 1.0, :err-y 0.06950209805062142, :radius 0.03985029422272065, :err-x 0.030958916242477562, :err-angle 59.764208721607666}</title>
+</g>
+<g>
+<circle cx="69.63" cy="929.87" fill-opacity="0.8" fill="#421bf1" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 144
+{:cycle-frac 71/73, :angle-from-down 30.15079440284013, :index 144, :scale 1.0, :err-y 0.055873673563316475, :radius 0.07989776817149412, :err-x 0.024888290116743927, :err-angle 19.226473172287246}" />
+<title>Index: 144
+{:cycle-frac 71/73, :angle-from-down 30.15079440284013, :index 144, :scale 1.0, :err-y 0.055873673563316475, :radius 0.07989776817149412, :err-x 0.024888290116743927, :err-angle 19.226473172287246}</title>
+</g>
+<g>
+<circle cx="70.00" cy="921.51" fill-opacity="0.8" fill="#262ce3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 1
+{:cycle-frac 1/73, :angle-from-down 32.12016803598967, :index 1, :scale 1.0, :err-y 0.050726290521827436, :radius 0.07588294944326195, :err-x 0.022595447095899487, :err-angle 18.705709362866443}" />
+<title>Index: 1
+{:cycle-frac 1/73, :angle-from-down 32.12016803598967, :index 1, :scale 1.0, :err-y 0.050726290521827436, :radius 0.07588294944326195, :err-x 0.022595447095899487, :err-angle 18.705709362866443}</title>
+</g>
+<g>
+<circle cx="70.79" cy="772.17" fill-opacity="0.8" fill="#94d310" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 100
+{:cycle-frac 27/73, :angle-from-down 118.12012218514604, :index 100, :scale 1.0, :err-y 0.046127313723409766, :radius 0.04625787020411156, :err-x 0.020546885376228743, :err-angle 35.901356978004515}" />
+<title>Index: 100
+{:cycle-frac 27/73, :angle-from-down 118.12012218514604, :index 100, :scale 1.0, :err-y 0.046127313723409766, :radius 0.04625787020411156, :err-x 0.020546885376228743, :err-angle 35.901356978004515}</title>
+</g>
+<g>
+<circle cx="71.75" cy="927.83" fill-opacity="0.8" fill="#6726f6" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 68
+{:cycle-frac 68/73, :angle-from-down 31.33963198874261, :index 68, :scale 1.0, :err-y 0.0628913351501762, :radius 0.07951439248572907, :err-x 0.028014227367262678, :err-angle 21.70820535099644}" />
+<title>Index: 68
+{:cycle-frac 68/73, :angle-from-down 31.33963198874261, :index 68, :scale 1.0, :err-y 0.0628913351501762, :radius 0.07951439248572907, :err-x 0.028014227367262678, :err-angle 21.70820535099644}</title>
+</g>
+<g>
+<circle cx="73.71" cy="820.13" fill-opacity="0.8" fill="#6726f6" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 141
+{:cycle-frac 68/73, :angle-from-down 82.17737600535717, :index 141, :scale 1.0, :err-y 0.08360693219822418, :radius 0.04288339205217751, :err-x 0.03724175361339587, :err-angle 61.99757377851505}" />
+<title>Index: 141
+{:cycle-frac 68/73, :angle-from-down 82.17737600535717, :index 141, :scale 1.0, :err-y 0.08360693219822418, :radius 0.04288339205217751, :err-x 0.03724175361339587, :err-angle 61.99757377851505}</title>
+</g>
+<g>
+<circle cx="74.73" cy="799.82" fill-opacity="0.8" fill="#2f5db9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 79
+{:cycle-frac 6/73, :angle-from-down 97.75850500923534, :index 79, :scale 1.0, :err-y 0.09439105972644588, :radius 0.04346802586962182, :err-x 0.042045420125034774, :err-angle 64.49131656812642}" />
+<title>Index: 79
+{:cycle-frac 6/73, :angle-from-down 97.75850500923534, :index 79, :scale 1.0, :err-y 0.09439105972644588, :radius 0.04346802586962182, :err-x 0.042045420125034774, :err-angle 64.49131656812642}</title>
+</g>
+<g>
+<circle cx="75.23" cy="951.75" fill-opacity="0.8" fill="#5a20f5" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 69
+{:cycle-frac 69/73, :angle-from-down 27.954050095580413, :index 69, :scale 1.0, :err-y 0.09592472968499653, :radius 0.09249286677699871, :err-x 0.0427285759019409, :err-angle 26.974255527705935}" />
+<title>Index: 69
+{:cycle-frac 69/73, :angle-from-down 27.954050095580413, :index 69, :scale 1.0, :err-y 0.09592472968499653, :radius 0.09249286677699871, :err-x 0.0427285759019409, :err-angle 26.974255527705935}</title>
+</g>
+<g>
+<circle cx="75.84" cy="753.59" fill-opacity="0.8" fill="#f972de" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 125
+{:cycle-frac 52/73, :angle-from-down 126.64124270027517, :index 125, :scale 1.0, :err-y 0.052382850360758675, :radius 0.05447573291923698, :err-x 0.02333334276729023, :err-angle 31.621701885445713}" />
+<title>Index: 125
+{:cycle-frac 52/73, :angle-from-down 126.64124270027517, :index 125, :scale 1.0, :err-y 0.052382850360758675, :radius 0.05447573291923698, :err-x 0.02333334276729023, :err-angle 31.621701885445713}</title>
+</g>
+<g>
+<circle cx="76.53" cy="772.46" fill-opacity="0.8" fill="#a9da12" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 29
+{:cycle-frac 29/73, :angle-from-down 116.13007367698708, :index 29, :scale 1.0, :err-y 0.06498845185743372, :radius 0.04913222468779185, :err-x 0.0289483640668972, :err-angle 44.72442201838607}" />
+<title>Index: 29
+{:cycle-frac 29/73, :angle-from-down 116.13007367698708, :index 29, :scale 1.0, :err-y 0.06498845185743372, :radius 0.04913222468779185, :err-x 0.0289483640668972, :err-angle 44.72442201838607}</title>
+</g>
+<g>
+<circle cx="76.77" cy="641.37" fill-opacity="0.8" fill="#e6ee25" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 108
+{:cycle-frac 35/73, :angle-from-down 155.52198546602324, :index 108, :scale 1.0, :err-y 0.10669828260031612, :radius 0.10679128663654121, :err-x 0.047527532072966866, :err-angle 25.60592563159478}" />
+<title>Index: 108
+{:cycle-frac 35/73, :angle-from-down 155.52198546602324, :index 108, :scale 1.0, :err-y 0.10669828260031612, :radius 0.10679128663654121, :err-x 0.047527532072966866, :err-angle 25.60592563159478}</title>
+</g>
+<g>
+<circle cx="77.23" cy="816.68" fill-opacity="0.8" fill="#65c30c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 96
+{:cycle-frac 23/73, :angle-from-down 85.05878619748601, :index 96, :scale 1.0, :err-y 0.07338249577857155, :radius 0.04467927449472852, :err-x 0.032687395117454984, :err-angle 58.28759778416862}" />
+<title>Index: 96
+{:cycle-frac 23/73, :angle-from-down 85.05878619748601, :index 96, :scale 1.0, :err-y 0.07338249577857155, :radius 0.04467927449472852, :err-x 0.032687395117454984, :err-angle 58.28759778416862}</title>
+</g>
+<g>
+<circle cx="77.47" cy="886.72" fill-opacity="0.8" fill="#371dee" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 145
+{:cycle-frac 72/73, :angle-from-down 45.27907366556533, :index 145, :scale 1.0, :err-y 0.07085666890291642, :radius 0.0628406254681924, :err-x 0.031562294366835164, :err-angle 33.062791744076726}" />
+<title>Index: 145
+{:cycle-frac 72/73, :angle-from-down 45.27907366556533, :index 145, :scale 1.0, :err-y 0.07085666890291642, :radius 0.0628406254681924, :err-x 0.031562294366835164, :err-angle 33.062791744076726}</title>
+</g>
+<g>
+<circle cx="78.20" cy="912.92" fill-opacity="0.8" fill="#2a53c3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 78
+{:cycle-frac 5/73, :angle-from-down 37.22658385780678, :index 78, :scale 1.0, :err-y 0.08272648861319165, :radius 0.07449955046341954, :err-x 0.03684957006829777, :err-angle 30.47312775759221}" />
+<title>Index: 78
+{:cycle-frac 5/73, :angle-from-down 37.22658385780678, :index 78, :scale 1.0, :err-y 0.08272648861319165, :radius 0.07449955046341954, :err-x 0.03684957006829777, :err-angle 30.47312775759221}</title>
+</g>
+<g>
+<circle cx="79.06" cy="763.32" fill-opacity="0.8" fill="#f35ded" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 54
+{:cycle-frac 54/73, :angle-from-down 120.56267608018825, :index 54, :scale 1.0, :err-y 0.06597150900889405, :radius 0.0529160202970222, :err-x 0.029386255653874375, :err-angle 41.08552908070986}" />
+<title>Index: 54
+{:cycle-frac 54/73, :angle-from-down 120.56267608018825, :index 54, :scale 1.0, :err-y 0.06597150900889405, :radius 0.0529160202970222, :err-x 0.029386255653874375, :err-angle 41.08552908070986}</title>
+</g>
+<g>
+<circle cx="80.61" cy="683.84" fill-opacity="0.8" fill="#fbe258" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 39
+{:cycle-frac 39/73, :angle-from-down 147.42225536304548, :index 39, :scale 1.0, :err-y 0.06409676105768314, :radius 0.08629056323133731, :err-x 0.028551170578384737, :err-angle 20.68915939177866}" />
+<title>Index: 39
+{:cycle-frac 39/73, :angle-from-down 147.42225536304548, :index 39, :scale 1.0, :err-y 0.06409676105768314, :radius 0.08629056323133731, :err-x 0.028551170578384737, :err-angle 20.68915939177866}</title>
+</g>
+<g>
+<circle cx="81.55" cy="779.40" fill-opacity="0.8" fill="#e6ee25" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 35
+{:cycle-frac 35/73, :angle-from-down 110.56883004952628, :index 35, :scale 1.0, :err-y 0.07189150875897922, :radius 0.0502037045657379, :err-x 0.03202325196850197, :err-angle 49.47317337249511}" />
+<title>Index: 35
+{:cycle-frac 35/73, :angle-from-down 110.56883004952628, :index 35, :scale 1.0, :err-y 0.07189150875897922, :radius 0.0502037045657379, :err-x 0.03202325196850197, :err-angle 49.47317337249511}</title>
+</g>
+<g>
+<circle cx="82.00" cy="806.56" fill-opacity="0.8" fill="#41945d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 14
+{:cycle-frac 14/73, :angle-from-down 92.39999213330387, :index 14, :scale 1.0, :err-y 0.07088693180000107, :radius 0.047302713468842385, :err-x 0.0315757746289046, :err-angle 56.191458405117594}" />
+<title>Index: 14
+{:cycle-frac 14/73, :angle-from-down 92.39999213330387, :index 14, :scale 1.0, :err-y 0.07088693180000107, :radius 0.047302713468842385, :err-x 0.0315757746289046, :err-angle 56.191458405117594}</title>
+</g>
+<g>
+<circle cx="83.98" cy="775.76" fill-opacity="0.8" fill="#36b11e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 92
+{:cycle-frac 19/73, :angle-from-down 112.18006230207132, :index 92, :scale 1.0, :err-y 0.06629283639176173, :radius 0.052273717850188424, :err-x 0.029529387268769955, :err-angle 45.29264961188542}" />
+<title>Index: 92
+{:cycle-frac 19/73, :angle-from-down 112.18006230207132, :index 92, :scale 1.0, :err-y 0.06629283639176173, :radius 0.052273717850188424, :err-x 0.029529387268769955, :err-angle 45.29264961188542}</title>
+</g>
+<g>
+<circle cx="84.03" cy="729.22" fill-opacity="0.8" fill="#7dcb0e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 98
+{:cycle-frac 25/73, :angle-from-down 133.86822428428448, :index 98, :scale 1.0, :err-y 0.0467495024891212, :radius 0.06718149922572665, :err-x 0.02082403225991909, :err-angle 22.088604243467753}" />
+<title>Index: 98
+{:cycle-frac 25/73, :angle-from-down 133.86822428428448, :index 98, :scale 1.0, :err-y 0.0467495024891212, :radius 0.06718149922572665, :err-x 0.02082403225991909, :err-angle 22.088604243467753}</title>
+</g>
+<g>
+<circle cx="84.67" cy="729.99" fill-opacity="0.8" fill="#f35ded" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 127
+{:cycle-frac 54/73, :angle-from-down 133.37826205190757, :index 127, :scale 1.0, :err-y 0.06833495507899356, :radius 0.06714428699729037, :err-x 0.030439025728160797, :err-angle 30.839286359254928}" />
+<title>Index: 127
+{:cycle-frac 54/73, :angle-from-down 133.37826205190757, :index 127, :scale 1.0, :err-y 0.06833495507899356, :radius 0.06714428699729037, :err-x 0.030439025728160797, :err-angle 30.839286359254928}</title>
+</g>
+<g>
+<circle cx="85.51" cy="660.03" fill-opacity="0.8" fill="#fc9bb8" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 48
+{:cycle-frac 48/73, :angle-from-down 150.30901500425168, :index 48, :scale 1.0, :err-y 0.07729067352521647, :radius 0.09950195461337465, :err-x 0.03442824828466376, :err-angle 21.10868701099291}" />
+<title>Index: 48
+{:cycle-frac 48/73, :angle-from-down 150.30901500425168, :index 48, :scale 1.0, :err-y 0.07729067352521647, :radius 0.09950195461337465, :err-x 0.03442824828466376, :err-angle 21.10868701099291}</title>
+</g>
+<g>
+<circle cx="88.25" cy="928.10" fill-opacity="0.8" fill="#8f38fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 64
+{:cycle-frac 64/73, :angle-from-down 36.76915486455456, :index 64, :scale 1.0, :err-y 0.08696650423297875, :radius 0.08497337144100478, :err-x 0.038738236628322605, :err-angle 28.368213127374343}" />
+<title>Index: 64
+{:cycle-frac 64/73, :angle-from-down 36.76915486455456, :index 64, :scale 1.0, :err-y 0.08696650423297875, :radius 0.08497337144100478, :err-x 0.038738236628322605, :err-angle 28.368213127374343}</title>
+</g>
+<g>
+<circle cx="89.14" cy="768.34" fill-opacity="0.8" fill="#e54cf7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 129
+{:cycle-frac 56/73, :angle-from-down 115.0488942070983, :index 129, :scale 1.0, :err-y 0.08317883849935209, :radius 0.05670975721496453, :err-x 0.037051064161724115, :err-angle 48.16387845621808}" />
+<title>Index: 129
+{:cycle-frac 56/73, :angle-from-down 115.0488942070983, :index 129, :scale 1.0, :err-y 0.08317883849935209, :radius 0.05670975721496453, :err-x 0.037051064161724115, :err-angle 48.16387845621808}</title>
+</g>
+<g>
+<circle cx="89.52" cy="797.31" fill-opacity="0.8" fill="#ae40fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 61
+{:cycle-frac 61/73, :angle-from-down 98.07034990635212, :index 61, :scale 1.0, :err-y 0.14195225298277964, :radius 0.05211148944562897, :err-x 0.06323101077213568, :err-angle 69.12110215859401}" />
+<title>Index: 61
+{:cycle-frac 61/73, :angle-from-down 98.07034990635212, :index 61, :scale 1.0, :err-y 0.14195225298277964, :radius 0.05211148944562897, :err-x 0.06323101077213568, :err-angle 69.12110215859401}</title>
+</g>
+<g>
+<circle cx="91.67" cy="784.22" fill-opacity="0.8" fill="#447f84" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 84
+{:cycle-frac 11/73, :angle-from-down 105.71008461817964, :index 84, :scale 1.0, :err-y 0.14375156108159487, :radius 0.05488519771648296, :err-x 0.06403249202648648, :err-angle 66.50600315419432}" />
+<title>Index: 84
+{:cycle-frac 11/73, :angle-from-down 105.71008461817964, :index 84, :scale 1.0, :err-y 0.14375156108159487, :radius 0.05488519771648296, :err-x 0.06403249202648648, :err-angle 66.50600315419432}</title>
+</g>
+<g>
+<circle cx="91.73" cy="858.36" fill-opacity="0.8" fill="#34a637" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 90
+{:cycle-frac 17/73, :angle-from-down 62.20075180392823, :index 90, :scale 1.0, :err-y 0.08625398650655651, :radius 0.05976817860321938, :err-x 0.038420853740146824, :err-angle 46.47559955660506}" />
+<title>Index: 90
+{:cycle-frac 17/73, :angle-from-down 62.20075180392823, :index 90, :scale 1.0, :err-y 0.08625398650655651, :radius 0.05976817860321938, :err-x 0.038420853740146824, :err-angle 46.47559955660506}</title>
+</g>
+<g>
+<circle cx="91.95" cy="790.11" fill-opacity="0.8" fill="#bb42fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 133
+{:cycle-frac 60/73, :angle-from-down 102.20836006682937, :index 133, :scale 1.0, :err-y 0.10264721574737405, :radius 0.05422050916108335, :err-x 0.04572303058437038, :err-angle 60.14606504398988}" />
+<title>Index: 133
+{:cycle-frac 60/73, :angle-from-down 102.20836006682937, :index 133, :scale 1.0, :err-y 0.10264721574737405, :radius 0.05422050916108335, :err-x 0.04572303058437038, :err-angle 60.14606504398988}</title>
+</g>
+<g>
+<circle cx="93.26" cy="751.34" fill-opacity="0.8" fill="#ec51f4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 128
+{:cycle-frac 55/73, :angle-from-down 122.16777158426744, :index 128, :scale 1.0, :err-y 0.08689584973427161, :radius 0.06350225931264664, :err-x 0.038706764388361924, :err-angle 43.05451809345409}" />
+<title>Index: 128
+{:cycle-frac 55/73, :angle-from-down 122.16777158426744, :index 128, :scale 1.0, :err-y 0.08689584973427161, :radius 0.06350225931264664, :err-x 0.038706764388361924, :err-angle 43.05451809345409}</title>
+</g>
+<g>
+<circle cx="93.32" cy="710.35" fill-opacity="0.8" fill="#65c30c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 23
+{:cycle-frac 23/73, :angle-from-down 136.88046690590028, :index 23, :scale 1.0, :err-y 0.081611617833226, :radius 0.07868567941601744, :err-x 0.0363529636050943, :err-angle 30.291743003195332}" />
+<title>Index: 23
+{:cycle-frac 23/73, :angle-from-down 136.88046690590028, :index 23, :scale 1.0, :err-y 0.081611617833226, :radius 0.07868567941601744, :err-x 0.0363529636050943, :err-angle 30.291743003195332}</title>
+</g>
+<g>
+<circle cx="94.35" cy="860.67" fill-opacity="0.8" fill="#a43efb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 135
+{:cycle-frac 62/73, :angle-from-down 61.75901285799497, :index 135, :scale 1.0, :err-y 0.08909005831822094, :radius 0.0617245964813658, :err-x 0.03968414955621016, :err-angle 46.28427451265079}" />
+<title>Index: 135
+{:cycle-frac 62/73, :angle-from-down 61.75901285799497, :index 135, :scale 1.0, :err-y 0.08909005831822094, :radius 0.0617245964813658, :err-x 0.03968414955621016, :err-angle 46.28427451265079}</title>
+</g>
+<g>
+<circle cx="103.03" cy="937.04" fill-opacity="0.8" fill="#d246fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 131
+{:cycle-frac 58/73, :angle-from-down 39.040326679075946, :index 131, :scale 1.0, :err-y 0.0643256828059398, :radius 0.09427340499338471, :err-x 0.028653141158110112, :err-angle 20.205656796905355}" />
+<title>Index: 131
+{:cycle-frac 58/73, :angle-from-down 39.040326679075946, :index 131, :scale 1.0, :err-y 0.0643256828059398, :radius 0.09427340499338471, :err-x 0.028653141158110112, :err-angle 20.205656796905355}</title>
+</g>
+<g>
+<circle cx="106.47" cy="763.41" fill-opacity="0.8" fill="#ec51f4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 55
+{:cycle-frac 55/73, :angle-from-down 113.63593883320675, :index 55, :scale 1.0, :err-y 0.07143429979723388, :radius 0.06698167205867853, :err-x 0.03181959345532037, :err-angle 39.70646388625059}" />
+<title>Index: 55
+{:cycle-frac 55/73, :angle-from-down 113.63593883320675, :index 55, :scale 1.0, :err-y 0.07143429979723388, :radius 0.06698167205867853, :err-x 0.03181959345532037, :err-angle 39.70646388625059}</title>
+</g>
+<g>
+<circle cx="107.98" cy="693.62" fill-opacity="0.8" fill="#fcce7b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 42
+{:cycle-frac 42/73, :angle-from-down 137.14276596422337, :index 42, :scale 1.0, :err-y 0.10327822748323315, :radius 0.09150045637940984, :err-x 0.046004107559402915, :err-angle 32.36898932110632}" />
+<title>Index: 42
+{:cycle-frac 42/73, :angle-from-down 137.14276596422337, :index 42, :scale 1.0, :err-y 0.10327822748323315, :radius 0.09150045637940984, :err-x 0.046004107559402915, :err-angle 32.36898932110632}</title>
+</g>
+<g>
+<circle cx="110.32" cy="758.88" fill-opacity="0.8" fill="#e54cf7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 56
+{:cycle-frac 56/73, :angle-from-down 114.86254949355558, :index 56, :scale 1.0, :err-y 0.10055422335856623, :radius 0.07007853173264265, :err-x 0.04479073101531226, :err-angle 47.62113680378576}" />
+<title>Index: 56
+{:cycle-frac 56/73, :angle-from-down 114.86254949355558, :index 56, :scale 1.0, :err-y 0.10055422335856623, :radius 0.07007853173264265, :err-x 0.04479073101531226, :err-angle 47.62113680378576}</title>
+</g>
+<g>
+<circle cx="112.83" cy="550.01" fill-opacity="0.8" fill="#fc9bb8" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 121
+{:cycle-frac 48/73, :angle-from-down 156.54093145335554, :index 121, :scale 1.0, :err-y 0.14729320283107317, :radius 0.16334958067813776, :err-x 0.06561007591759581, :err-angle 23.26221918034122}" />
+<title>Index: 121
+{:cycle-frac 48/73, :angle-from-down 156.54093145335554, :index 121, :scale 1.0, :err-y 0.14729320283107317, :radius 0.16334958067813776, :err-x 0.06561007591759581, :err-angle 23.26221918034122}</title>
+</g>
+<g>
+<circle cx="113.70" cy="975.88" fill-opacity="0.8" fill="#973bfb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 63
+{:cycle-frac 63/73, :angle-from-down 34.427726037207755, :index 63, :scale 1.0, :err-y 0.0817421481549263, :radius 0.11590638762800035, :err-x 0.03641110684695272, :err-angle 20.014323117249663}" />
+<title>Index: 63
+{:cycle-frac 63/73, :angle-from-down 34.427726037207755, :index 63, :scale 1.0, :err-y 0.0817421481549263, :radius 0.11590638762800035, :err-x 0.03641110684695272, :err-angle 20.014323117249663}</title>
+</g>
+<g>
+<circle cx="114.90" cy="1059.59" fill-opacity="0.8" fill="#2438db" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 75
+{:cycle-frac 2/73, :angle-from-down 24.719037020553262, :index 75, :scale 1.0, :err-y 0.12183137076472386, :radius 0.1583660325615351, :err-x 0.0542683934586287, :err-angle 20.282016631381005}" />
+<title>Index: 75
+{:cycle-frac 2/73, :angle-from-down 24.719037020553262, :index 75, :scale 1.0, :err-y 0.12183137076472386, :radius 0.1583660325615351, :err-x 0.0542683934586287, :err-angle 20.282016631381005}</title>
+</g>
+<g>
+<circle cx="116.00" cy="642.29" fill-opacity="0.8" fill="#fbe258" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 112
+{:cycle-frac 39/73, :angle-from-down 145.33104729620283, :index 112, :scale 1.0, :err-y 0.09277716354807336, :radius 0.11753130641348389, :err-x 0.041326528494253945, :err-angle 22.223836836270166}" />
+<title>Index: 112
+{:cycle-frac 39/73, :angle-from-down 145.33104729620283, :index 112, :scale 1.0, :err-y 0.09277716354807336, :radius 0.11753130641348389, :err-x 0.041326528494253945, :err-angle 22.223836836270166}</title>
+</g>
+<g>
+<circle cx="119.64" cy="684.49" fill-opacity="0.8" fill="#73c70d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 97
+{:cycle-frac 24/73, :angle-from-down 136.37283685156027, :index 97, :scale 1.0, :err-y 0.06340297944827203, :radius 0.09993812222935976, :err-x 0.02824213347966747, :err-angle 19.76638459141157}" />
+<title>Index: 97
+{:cycle-frac 24/73, :angle-from-down 136.37283685156027, :index 97, :scale 1.0, :err-y 0.06340297944827203, :radius 0.09993812222935976, :err-x 0.02824213347966747, :err-angle 19.76638459141157}</title>
+</g>
+<g>
+<circle cx="121.14" cy="824.02" fill-opacity="0.8" fill="#458776" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 85
+{:cycle-frac 12/73, :angle-from-down 83.39774766240097, :index 85, :scale 1.0, :err-y 0.1304962925689803, :radius 0.07028713918243318, :err-x 0.05812808397027648, :err-angle 61.06576129191267}" />
+<title>Index: 85
+{:cycle-frac 12/73, :angle-from-down 83.39774766240097, :index 85, :scale 1.0, :err-y 0.1304962925689803, :radius 0.07028713918243318, :err-x 0.05812808397027648, :err-angle 61.06576129191267}</title>
+</g>
+<g>
+<circle cx="121.67" cy="772.53" fill-opacity="0.8" fill="#448c6b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 86
+{:cycle-frac 13/73, :angle-from-down 107.11874049579589, :index 86, :scale 1.0, :err-y 0.12896856743229065, :radius 0.07337442995463483, :err-x 0.05744757624641117, :err-angle 56.53336808187099}" />
+<title>Index: 86
+{:cycle-frac 13/73, :angle-from-down 107.11874049579589, :index 86, :scale 1.0, :err-y 0.12896856743229065, :radius 0.07337442995463483, :err-x 0.05744757624641117, :err-angle 56.53336808187099}</title>
+</g>
+<g>
+<circle cx="122.72" cy="650.86" fill-opacity="0.8" fill="#fcd471" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 114
+{:cycle-frac 41/73, :angle-from-down 142.36333076153002, :index 114, :scale 1.0, :err-y 0.15564956757887413, :radius 0.1158270515217512, :err-x 0.06933232321048105, :err-angle 35.56052930322173}" />
+<title>Index: 114
+{:cycle-frac 41/73, :angle-from-down 142.36333076153002, :index 114, :scale 1.0, :err-y 0.15564956757887413, :radius 0.1158270515217512, :err-x 0.06933232321048105, :err-angle 35.56052930322173}</title>
+</g>
+<g>
+<circle cx="123.47" cy="734.98" fill-opacity="0.8" fill="#bee215" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 31
+{:cycle-frac 31/73, :angle-from-down 121.2837317297879, :index 31, :scale 1.0, :err-y 0.10042899431535998, :radius 0.08326693145929899, :err-x 0.044734949167447254, :err-angle 39.84199344697578}" />
+<title>Index: 31
+{:cycle-frac 31/73, :angle-from-down 121.2837317297879, :index 31, :scale 1.0, :err-y 0.10042899431535998, :radius 0.08326693145929899, :err-x 0.044734949167447254, :err-angle 39.84199344697578}</title>
+</g>
+<g>
+<circle cx="124.82" cy="827.82" fill-opacity="0.8" fill="#ae40fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 134
+{:cycle-frac 61/73, :angle-from-down 81.87699851120519, :index 134, :scale 1.0, :err-y 0.1294367929114048, :radius 0.07266824557711585, :err-x 0.057656141941506034, :err-angle 59.73125287655269}" />
+<title>Index: 134
+{:cycle-frac 61/73, :angle-from-down 81.87699851120519, :index 134, :scale 1.0, :err-y 0.1294367929114048, :radius 0.07266824557711585, :err-x 0.057656141941506034, :err-angle 59.73125287655269}</title>
+</g>
+<g>
+<circle cx="126.31" cy="651.34" fill-opacity="0.8" fill="#7dcb0e" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 25
+{:cycle-frac 25/73, :angle-from-down 141.4754394086201, :index 25, :scale 1.0, :err-y 0.098289256233238, :radius 0.11688433857113936, :err-x 0.04378182726288252, :err-angle 24.287315323918158}" />
+<title>Index: 25
+{:cycle-frac 25/73, :angle-from-down 141.4754394086201, :index 25, :scale 1.0, :err-y 0.098289256233238, :radius 0.11688433857113936, :err-x 0.04378182726288252, :err-angle 24.287315323918158}</title>
+</g>
+<g>
+<circle cx="128.21" cy="720.22" fill-opacity="0.8" fill="#fbb59c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 118
+{:cycle-frac 45/73, :angle-from-down 125.00165084817723, :index 118, :scale 1.0, :err-y 0.08748174597013202, :radius 0.09021183307004255, :err-x 0.03896774517889247, :err-angle 32.432048184977596}" />
+<title>Index: 118
+{:cycle-frac 45/73, :angle-from-down 125.00165084817723, :index 118, :scale 1.0, :err-y 0.08748174597013202, :radius 0.09021183307004255, :err-x 0.03896774517889247, :err-angle 32.432048184977596}</title>
+</g>
+<g>
+<circle cx="132.16" cy="859.92" fill-opacity="0.8" fill="#fbada4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 46
+{:cycle-frac 46/73, :angle-from-down 69.30633050468388, :index 46, :scale 1.0, :err-y 0.10921789736173837, :radius 0.08142597622630666, :err-x 0.04864986570820999, :err-angle 47.558566035724844}" />
+<title>Index: 46
+{:cycle-frac 46/73, :angle-from-down 69.30633050468388, :index 46, :scale 1.0, :err-y 0.10921789736173837, :radius 0.08142597622630666, :err-x 0.04864986570820999, :err-angle 47.558566035724844}</title>
+</g>
+<g>
+<circle cx="132.64" cy="751.19" fill-opacity="0.8" fill="#fb87cb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 123
+{:cycle-frac 50/73, :angle-from-down 113.91189830866364, :index 123, :scale 1.0, :err-y 0.10121561947690969, :radius 0.08362620329252081, :err-x 0.04508534236669869, :err-angle 43.17818867086181}" />
+<title>Index: 123
+{:cycle-frac 50/73, :angle-from-down 113.91189830866364, :index 123, :scale 1.0, :err-y 0.10121561947690969, :radius 0.08362620329252081, :err-x 0.04508534236669869, :err-angle 43.17818867086181}</title>
+</g>
+<g>
+<circle cx="134.19" cy="888.12" fill-opacity="0.8" fill="#32ad28" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 91
+{:cycle-frac 18/73, :angle-from-down 59.79430487399284, :index 91, :scale 1.0, :err-y 0.09998124406905559, :radius 0.08949555119056347, :err-x 0.044535503931092124, :err-angle 38.150870974487496}" />
+<title>Index: 91
+{:cycle-frac 18/73, :angle-from-down 59.79430487399284, :index 91, :scale 1.0, :err-y 0.09998124406905559, :radius 0.08949555119056347, :err-x 0.044535503931092124, :err-angle 38.150870974487496}</title>
+</g>
+<g>
+<circle cx="136.91" cy="1018.56" fill-opacity="0.8" fill="#c544fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 59
+{:cycle-frac 59/73, :angle-from-down 33.2825384702278, :index 59, :scale 1.0, :err-y 0.1264260961711409, :radius 0.14378907305463637, :err-x 0.05631506144426046, :err-angle 24.211857219321075}" />
+<title>Index: 59
+{:cycle-frac 59/73, :angle-from-down 33.2825384702278, :index 59, :scale 1.0, :err-y 0.1264260961711409, :radius 0.14378907305463637, :err-x 0.05631506144426046, :err-angle 24.211857219321075}</title>
+</g>
+<g>
+<circle cx="137.75" cy="1031.27" fill-opacity="0.8" fill="#5a20f5" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 142
+{:cycle-frac 69/73, :angle-from-down 31.903807750474055, :index 142, :scale 1.0, :err-y 0.08359180671823145, :radius 0.15022241602108302, :err-x 0.03723501614098336, :err-angle 15.71421080910882}" />
+<title>Index: 142
+{:cycle-frac 69/73, :angle-from-down 31.903807750474055, :index 142, :scale 1.0, :err-y 0.08359180671823145, :radius 0.15022241602108302, :err-x 0.03723501614098336, :err-angle 15.71421080910882}</title>
+</g>
+<g>
+<circle cx="138.30" cy="701.54" fill-opacity="0.8" fill="#a0d711" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 101
+{:cycle-frac 28/73, :angle-from-down 128.1030191451791, :index 101, :scale 1.0, :err-y 0.06756761396597134, :radius 0.10129929110369641, :err-x 0.03009722238820763, :err-angle 22.716906857827727}" />
+<title>Index: 101
+{:cycle-frac 28/73, :angle-from-down 128.1030191451791, :index 101, :scale 1.0, :err-y 0.06756761396597134, :radius 0.10129929110369641, :err-x 0.03009722238820763, :err-angle 22.716906857827727}</title>
+</g>
+<g>
+<circle cx="138.83" cy="860.59" fill-opacity="0.8" fill="#94d310" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 27
+{:cycle-frac 27/73, :angle-from-down 69.97660431966773, :index 27, :scale 1.0, :err-y 0.12243420948745698, :radius 0.08516095301379203, :err-x 0.05453692108654628, :err-angle 49.823188912517686}" />
+<title>Index: 27
+{:cycle-frac 27/73, :angle-from-down 69.97660431966773, :index 27, :scale 1.0, :err-y 0.12243420948745698, :radius 0.08516095301379203, :err-x 0.05453692108654628, :err-angle 49.823188912517686}</title>
+</g>
+<g>
+<circle cx="138.88" cy="1039.65" fill-opacity="0.8" fill="#8334fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 65
+{:cycle-frac 65/73, :angle-from-down 31.16295014439571, :index 65, :scale 1.0, :err-y 0.14251024950966348, :radius 0.15468281717668766, :err-x 0.063479563955765, :err-angle 24.84808932703695}" />
+<title>Index: 65
+{:cycle-frac 65/73, :angle-from-down 31.16295014439571, :index 65, :scale 1.0, :err-y 0.14251024950966348, :radius 0.15468281717668766, :err-x 0.063479563955765, :err-angle 24.84808932703695}</title>
+</g>
+<g>
+<circle cx="143.53" cy="775.70" fill-opacity="0.8" fill="#41b714" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 93
+{:cycle-frac 20/73, :angle-from-down 103.43883862547202, :index 93, :scale 1.0, :err-y 0.15015018503984862, :radius 0.085052709314123, :err-x 0.06688268603136967, :err-angle 57.986125595752}" />
+<title>Index: 93
+{:cycle-frac 20/73, :angle-from-down 103.43883862547202, :index 93, :scale 1.0, :err-y 0.15015018503984862, :radius 0.085052709314123, :err-x 0.06688268603136967, :err-angle 57.986125595752}</title>
+</g>
+<g>
+<circle cx="144.24" cy="718.97" fill-opacity="0.8" fill="#f665e7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 53
+{:cycle-frac 53/73, :angle-from-down 122.25674991099692, :index 53, :scale 1.0, :err-y 0.07888066137702386, :radius 0.0983045997360862, :err-x 0.03513649022427865, :err-angle 28.684865207130557}" />
+<title>Index: 53
+{:cycle-frac 53/73, :angle-from-down 122.25674991099692, :index 53, :scale 1.0, :err-y 0.07888066137702386, :radius 0.0983045997360862, :err-x 0.03513649022427865, :err-angle 28.684865207130557}</title>
+</g>
+<g>
+<circle cx="144.42" cy="620.54" fill-opacity="0.8" fill="#d3e919" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 33
+{:cycle-frac 33/73, :angle-from-down 142.68374849301284, :index 33, :scale 1.0, :err-y 0.15445823087380245, :radius 0.13730461330549504, :err-x 0.06880165587376195, :err-angle 30.82066229850918}" />
+<title>Index: 33
+{:cycle-frac 33/73, :angle-from-down 142.68374849301284, :index 33, :scale 1.0, :err-y 0.15445823087380245, :radius 0.13730461330549504, :err-x 0.06880165587376195, :err-angle 30.82066229850918}</title>
+</g>
+<g>
+<circle cx="144.79" cy="969.80" fill-opacity="0.8" fill="#c544fb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 132
+{:cycle-frac 59/73, :angle-from-down 42.17839851569059, :index 132, :scale 1.0, :err-y 0.11167035364969227, :radius 0.12428608745592994, :err-x 0.04974228436802934, :err-angle 26.60265817513931}" />
+<title>Index: 132
+{:cycle-frac 59/73, :angle-from-down 42.17839851569059, :index 132, :scale 1.0, :err-y 0.11167035364969227, :radius 0.12428608745592994, :err-x 0.04974228436802934, :err-angle 26.60265817513931}</title>
+</g>
+<g>
+<circle cx="144.83" cy="730.32" fill-opacity="0.8" fill="#b5df14" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 30
+{:cycle-frac 30/73, :angle-from-down 118.81580030499802, :index 30, :scale 1.0, :err-y 0.12353224938540609, :radius 0.09527385031211785, :err-x 0.05502603042547218, :err-angle 42.96129736340644}" />
+<title>Index: 30
+{:cycle-frac 30/73, :angle-from-down 118.81580030499802, :index 30, :scale 1.0, :err-y 0.12353224938540609, :radius 0.09527385031211785, :err-x 0.05502603042547218, :err-angle 42.96129736340644}</title>
+</g>
+<g>
+<circle cx="146.50" cy="780.44" fill-opacity="0.8" fill="#fcbe90" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 44
+{:cycle-frac 44/73, :angle-from-down 101.40768387132661, :index 44, :scale 1.0, :err-y 0.1120415177754923, :radius 0.08614048255726192, :err-x 0.049907615191200724, :err-angle 50.39724727197896}" />
+<title>Index: 44
+{:cycle-frac 44/73, :angle-from-down 101.40768387132661, :index 44, :scale 1.0, :err-y 0.1120415177754923, :radius 0.08614048255726192, :err-x 0.049907615191200724, :err-angle 50.39724727197896}</title>
+</g>
+<g>
+<circle cx="148.59" cy="928.13" fill-opacity="0.8" fill="#8f38fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 137
+{:cycle-frac 64/73, :angle-from-down 51.51558431621335, :index 137, :scale 1.0, :err-y 0.11000183184626099, :radius 0.10940527174502114, :err-x 0.048999060376092446, :err-angle 32.122917739819336}" />
+<title>Index: 137
+{:cycle-frac 64/73, :angle-from-down 51.51558431621335, :index 137, :scale 1.0, :err-y 0.11000183184626099, :radius 0.10940527174502114, :err-x 0.048999060376092446, :err-angle 32.122917739819336}</title>
+</g>
+<g>
+<circle cx="151.39" cy="635.62" fill-opacity="0.8" fill="#f8e949" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 38
+{:cycle-frac 38/73, :angle-from-down 139.03726789037808, :index 38, :scale 1.0, :err-y 0.0946774159323737, :radius 0.1330958391165159, :err-x 0.042172974228342236, :err-angle 21.37364706720684}" />
+<title>Index: 38
+{:cycle-frac 38/73, :angle-from-down 139.03726789037808, :index 38, :scale 1.0, :err-y 0.0946774159323737, :radius 0.1330958391165159, :err-x 0.042172974228342236, :err-angle 21.37364706720684}</title>
+</g>
+<g>
+<circle cx="153.25" cy="934.46" fill-opacity="0.8" fill="#3e9a52" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 15
+{:cycle-frac 15/73, :angle-from-down 50.917913446428976, :index 15, :scale 1.0, :err-y 0.125076976033491, :radius 0.11378772748985817, :err-x 0.055714111278524284, :err-angle 34.25342358007013}" />
+<title>Index: 15
+{:cycle-frac 15/73, :angle-from-down 50.917913446428976, :index 15, :scale 1.0, :err-y 0.125076976033491, :radius 0.11378772748985817, :err-x 0.055714111278524284, :err-angle 34.25342358007013}</title>
+</g>
+<g>
+<circle cx="154.01" cy="814.47" fill-opacity="0.8" fill="#2541d4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 76
+{:cycle-frac 3/73, :angle-from-down 88.33638618257743, :index 76, :scale 1.0, :err-y 0.16932814152392744, :radius 0.08880137295752802, :err-x 0.07542528783973604, :err-angle 62.285899441198545}" />
+<title>Index: 76
+{:cycle-frac 3/73, :angle-from-down 88.33638618257743, :index 76, :scale 1.0, :err-y 0.16932814152392744, :radius 0.08880137295752802, :err-x 0.07542528783973604, :err-angle 62.285899441198545}</title>
+</g>
+<g>
+<circle cx="157.01" cy="784.88" fill-opacity="0.8" fill="#db48f9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 130
+{:cycle-frac 57/73, :angle-from-down 99.0896214632459, :index 130, :scale 1.0, :err-y 0.14700410213465173, :radius 0.0916451805388257, :err-x 0.06548129931232495, :err-angle 56.81157836987681}" />
+<title>Index: 130
+{:cycle-frac 57/73, :angle-from-down 99.0896214632459, :index 130, :scale 1.0, :err-y 0.14700410213465173, :radius 0.0916451805388257, :err-x 0.06548129931232495, :err-angle 56.81157836987681}</title>
+</g>
+<g>
+<circle cx="160.67" cy="1014.16" fill-opacity="0.8" fill="#d246fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 58
+{:cycle-frac 58/73, :angle-from-down 38.20195897141604, :index 58, :scale 1.0, :err-y 0.12520066382331857, :radius 0.1497405064272125, :err-x 0.05576920659266412, :err-angle 24.096841461189655}" />
+<title>Index: 58
+{:cycle-frac 58/73, :angle-from-down 38.20195897141604, :index 58, :scale 1.0, :err-y 0.12520066382331857, :radius 0.1497405064272125, :err-x 0.05576920659266412, :err-angle 24.096841461189655}</title>
+</g>
+<g>
+<circle cx="165.53" cy="777.42" fill-opacity="0.8" fill="#4bba0f" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 94
+{:cycle-frac 21/73, :angle-from-down 101.1338813044723, :index 94, :scale 1.0, :err-y 0.1342024020166198, :radius 0.09723654222582645, :err-x 0.059778928120209004, :err-angle 52.14522220291601}" />
+<title>Index: 94
+{:cycle-frac 21/73, :angle-from-down 101.1338813044723, :index 94, :scale 1.0, :err-y 0.1342024020166198, :radius 0.09723654222582645, :err-x 0.059778928120209004, :err-angle 52.14522220291601}</title>
+</g>
+<g>
+<circle cx="165.78" cy="733.07" fill-opacity="0.8" fill="#fbb59c" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 45
+{:cycle-frac 45/73, :angle-from-down 114.89203680721991, :index 45, :scale 1.0, :err-y 0.11809310037425559, :radius 0.10533620296510501, :err-x 0.05260322358381507, :err-angle 40.56014525289915}" />
+<title>Index: 45
+{:cycle-frac 45/73, :angle-from-down 114.89203680721991, :index 45, :scale 1.0, :err-y 0.11809310037425559, :radius 0.10533620296510501, :err-x 0.05260322358381507, :err-angle 40.56014525289915}</title>
+</g>
+<g>
+<circle cx="180.77" cy="651.84" fill-opacity="0.8" fill="#fcdd63" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 40
+{:cycle-frac 40/73, :angle-from-down 131.18342803484347, :index 40, :scale 1.0, :err-y 0.07261235096167315, :radius 0.13844071390608695, :err-x 0.03234434289961297, :err-angle 17.546499104579823}" />
+<title>Index: 40
+{:cycle-frac 40/73, :angle-from-down 131.18342803484347, :index 40, :scale 1.0, :err-y 0.07261235096167315, :radius 0.13844071390608695, :err-x 0.03234434289961297, :err-angle 17.546499104579823}</title>
+</g>
+<g>
+<circle cx="186.94" cy="771.80" fill-opacity="0.8" fill="#448c6b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 13
+{:cycle-frac 13/73, :angle-from-down 101.54923248585783, :index 13, :scale 1.0, :err-y 0.1613152575400879, :radius 0.10996872167092767, :err-x 0.0718560401324839, :err-angle 53.69056131166942}" />
+<title>Index: 13
+{:cycle-frac 13/73, :angle-from-down 101.54923248585783, :index 13, :scale 1.0, :err-y 0.1613152575400879, :radius 0.10996872167092767, :err-x 0.0718560401324839, :err-angle 53.69056131166942}</title>
+</g>
+<g>
+<circle cx="187.08" cy="623.20" fill-opacity="0.8" fill="#fc90c3" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 122
+{:cycle-frac 49/73, :angle-from-down 134.95757238640402, :index 122, :scale 1.0, :err-y 0.09126925281282777, :radius 0.1523755605701716, :err-x 0.0406548468693397, :err-angle 19.026480469087392}" />
+<title>Index: 122
+{:cycle-frac 49/73, :angle-from-down 134.95757238640402, :index 122, :scale 1.0, :err-y 0.09126925281282777, :radius 0.1523755605701716, :err-x 0.0406548468693397, :err-angle 19.026480469087392}</title>
+</g>
+<g>
+<circle cx="188.48" cy="670.66" fill-opacity="0.8" fill="#cae617" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 32
+{:cycle-frac 32/73, :angle-from-down 126.4748482739076, :index 32, :scale 1.0, :err-y 0.12162456657036222, :radius 0.13509350499267542, :err-x 0.05417627489082405, :err-angle 30.02005735987359}" />
+<title>Index: 32
+{:cycle-frac 32/73, :angle-from-down 126.4748482739076, :index 32, :scale 1.0, :err-y 0.12162456657036222, :radius 0.13509350499267542, :err-x 0.05417627489082405, :err-angle 30.02005735987359}</title>
+</g>
+<g>
+<circle cx="190.24" cy="806.33" fill-opacity="0.8" fill="#3e729b" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 82
+{:cycle-frac 9/73, :angle-from-down 91.10635614234897, :index 82, :scale 1.0, :err-y 0.17706719769984727, :radius 0.10966555979792333, :err-x 0.07887256207556702, :err-angle 58.20892921641002}" />
+<title>Index: 82
+{:cycle-frac 9/73, :angle-from-down 91.10635614234897, :index 82, :scale 1.0, :err-y 0.17706719769984727, :radius 0.10966555979792333, :err-x 0.07887256207556702, :err-angle 58.20892921641002}</title>
+</g>
+<g>
+<circle cx="194.49" cy="732.34" fill-opacity="0.8" fill="#f665e7" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 126
+{:cycle-frac 53/73, :angle-from-down 111.76637856798753, :index 126, :scale 1.0, :err-y 0.1351472821621547, :radius 0.12070363739746673, :err-x 0.060199814195669735, :err-angle 41.915415475325936}" />
+<title>Index: 126
+{:cycle-frac 53/73, :angle-from-down 111.76637856798753, :index 126, :scale 1.0, :err-y 0.1351472821621547, :radius 0.12070363739746673, :err-x 0.060199814195669735, :err-angle 41.915415475325936}</title>
+</g>
+<g>
+<circle cx="204.99" cy="558.55" fill-opacity="0.8" fill="#f972de" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 52
+{:cycle-frac 52/73, :angle-from-down 140.81147432581034, :index 52, :scale 1.0, :err-y 0.12997802053838117, :radius 0.18698181392505603, :err-x 0.057897225610080455, :err-angle 20.581513255312935}" />
+<title>Index: 52
+{:cycle-frac 52/73, :angle-from-down 140.81147432581034, :index 52, :scale 1.0, :err-y 0.12997802053838117, :radius 0.18698181392505603, :err-x 0.057897225610080455, :err-angle 20.581513255312935}</title>
+</g>
+<g>
+<circle cx="214.87" cy="646.07" fill-opacity="0.8" fill="#fa7bd6" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 124
+{:cycle-frac 51/73, :angle-from-down 127.3411733459187, :index 124, :scale 1.0, :err-y 0.1241442740693791, :radius 0.15576849432472367, :err-x 0.05529864983497033, :err-angle 26.81366618570597}" />
+<title>Index: 124
+{:cycle-frac 51/73, :angle-from-down 127.3411733459187, :index 124, :scale 1.0, :err-y 0.1241442740693791, :radius 0.15576849432472367, :err-x 0.05529864983497033, :err-angle 26.81366618570597}</title>
+</g>
+<g>
+<circle cx="219.56" cy="1136.10" fill-opacity="0.8" fill="#2c24e9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 73
+{:cycle-frac 0, :angle-from-down 33.952108603616594, :index 73, :scale 1.0, :err-y 0.1699078307753548, :radius 0.22658152189543393, :err-x 0.07568350379990052, :err-angle 21.091878500354493}" />
+<title>Index: 73
+{:cycle-frac 0, :angle-from-down 33.952108603616594, :index 73, :scale 1.0, :err-y 0.1699078307753548, :radius 0.22658152189543393, :err-x 0.07568350379990052, :err-angle 21.091878500354493}</title>
+</g>
+<g>
+<circle cx="220.17" cy="1121.53" fill-opacity="0.8" fill="#7b30f9" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 139
+{:cycle-frac 66/73, :angle-from-down 35.25068012665108, :index 139, :scale 1.0, :err-y 0.1410763984103487, :radius 0.21986673961294267, :err-x 0.06284087135031928, :err-angle 18.460931140571624}" />
+<title>Index: 139
+{:cycle-frac 66/73, :angle-from-down 35.25068012665108, :index 139, :scale 1.0, :err-y 0.1410763984103487, :radius 0.21986673961294267, :err-x 0.06284087135031928, :err-angle 18.460931140571624}</title>
+</g>
+<g>
+<circle cx="224.63" cy="693.34" fill-opacity="0.8" fill="#efee32" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 36
+{:cycle-frac 36/73, :angle-from-down 117.44537887977096, :index 36, :scale 1.0, :err-y 0.1153591692507016, :radius 0.14588412442242743, :err-x 0.051385425171382, :err-angle 30.11768326885718}" />
+<title>Index: 36
+{:cycle-frac 36/73, :angle-from-down 117.44537887977096, :index 36, :scale 1.0, :err-y 0.1153591692507016, :radius 0.14588412442242743, :err-x 0.051385425171382, :err-angle 30.11768326885718}</title>
+</g>
+<g>
+<circle cx="230.99" cy="609.41" fill-opacity="0.8" fill="#fcd471" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 41
+{:cycle-frac 41/73, :angle-from-down 130.97152498966923, :index 41, :scale 1.0, :err-y 0.1380236186126177, :radius 0.17632670048188498, :err-x 0.06148104543548376, :err-angle 25.321727232681265}" />
+<title>Index: 41
+{:cycle-frac 41/73, :angle-from-down 130.97152498966923, :index 41, :scale 1.0, :err-y 0.1380236186126177, :radius 0.17632670048188498, :err-x 0.06148104543548376, :err-angle 25.321727232681265}</title>
+</g>
+<g>
+<circle cx="240.15" cy="1081.52" fill-opacity="0.8" fill="#8334fa" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 138
+{:cycle-frac 65/73, :angle-from-down 41.492061289742125, :index 138, :scale 1.0, :err-y 0.14981922726831395, :radius 0.20892290851801287, :err-x 0.06673526466976885, :err-angle 21.64117810096138}" />
+<title>Index: 138
+{:cycle-frac 65/73, :angle-from-down 41.492061289742125, :index 138, :scale 1.0, :err-y 0.14981922726831395, :radius 0.20892290851801287, :err-x 0.06673526466976885, :err-angle 21.64117810096138}</title>
+</g>
+<g>
+<circle cx="240.82" cy="627.40" fill-opacity="0.8" fill="#f8e949" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 111
+{:cycle-frac 38/73, :angle-from-down 127.16990986069527, :index 111, :scale 1.0, :err-y 0.17631334714389374, :radius 0.17418746699148246, :err-x 0.0785367679502715, :err-angle 32.75872140125909}" />
+<title>Index: 111
+{:cycle-frac 38/73, :angle-from-down 127.16990986069527, :index 111, :scale 1.0, :err-y 0.17631334714389374, :radius 0.17418746699148246, :err-x 0.0785367679502715, :err-angle 32.75872140125909}</title>
+</g>
+<g>
+<circle cx="247.99" cy="552.14" fill-opacity="0.8" fill="#a9da12" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 102
+{:cycle-frac 29/73, :angle-from-down 136.11725694963332, :index 102, :scale 1.0, :err-y 0.1344603484367493, :radius 0.20619856829967087, :err-x 0.05989382740871764, :err-angle 20.326619773082015}" />
+<title>Index: 102
+{:cycle-frac 29/73, :angle-from-down 136.11725694963332, :index 102, :scale 1.0, :err-y 0.1344603484367493, :radius 0.20619856829967087, :err-x 0.05989382740871764, :err-angle 20.326619773082015}</title>
+</g>
+<g>
+<circle cx="248.59" cy="404.07" fill-opacity="0.8" fill="#b5df14" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 103
+{:cycle-frac 30/73, :angle-from-down 148.51673769956236, :index 103, :scale 1.0, :err-y 0.26719037590764155, :radius 0.27435086136723397, :err-x 0.119016903094004, :err-angle 26.140174948147276}" />
+<title>Index: 103
+{:cycle-frac 30/73, :angle-from-down 148.51673769956236, :index 103, :scale 1.0, :err-y 0.26719037590764155, :radius 0.27435086136723397, :err-x 0.119016903094004, :err-angle 26.140174948147276}</title>
+</g>
+<g>
+<circle cx="253.23" cy="635.66" fill-opacity="0.8" fill="#efee32" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 109
+{:cycle-frac 36/73, :angle-from-down 124.5453287554917, :index 109, :scale 1.0, :err-y 0.18845544829069613, :radius 0.17719504399634942, :err-x 0.08394532830966904, :err-angle 35.04683471757453}" />
+<title>Index: 109
+{:cycle-frac 36/73, :angle-from-down 124.5453287554917, :index 109, :scale 1.0, :err-y 0.18845544829069613, :radius 0.17719504399634942, :err-x 0.08394532830966904, :err-angle 35.04683471757453}</title>
+</g>
+<g>
+<circle cx="256.91" cy="641.22" fill-opacity="0.8" fill="#fbada4" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 119
+{:cycle-frac 46/73, :angle-from-down 123.30352527524035, :index 119, :scale 1.0, :err-y 0.1606049069777092, :radius 0.1771708336872371, :err-x 0.07153962258279402, :err-angle 31.32803512901109}" />
+<title>Index: 119
+{:cycle-frac 46/73, :angle-from-down 123.30352527524035, :index 119, :scale 1.0, :err-y 0.1606049069777092, :radius 0.1771708336872371, :err-x 0.07153962258279402, :err-angle 31.32803512901109}</title>
+</g>
+<g>
+<circle cx="259.41" cy="691.61" fill-opacity="0.8" fill="#bee215" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 104
+{:cycle-frac 31/73, :angle-from-down 114.53130251742117, :index 104, :scale 1.0, :err-y 0.1877941007502964, :radius 0.1643503946222025, :err-x 0.08365073859677287, :err-angle 41.26028208849641}" />
+<title>Index: 104
+{:cycle-frac 31/73, :angle-from-down 114.53130251742117, :index 104, :scale 1.0, :err-y 0.1877941007502964, :radius 0.1643503946222025, :err-x 0.08365073859677287, :err-angle 41.26028208849641}</title>
+</g>
+<g>
+<circle cx="279.83" cy="660.23" fill-opacity="0.8" fill="#f4ec3d" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 110
+{:cycle-frac 37/73, :angle-from-down 118.15673910081837, :index 110, :scale 1.0, :err-y 0.14865548199280165, :radius 0.1829337489827505, :err-x 0.06621688762040402, :err-angle 30.523559453982795}" />
+<title>Index: 110
+{:cycle-frac 37/73, :angle-from-down 118.15673910081837, :index 110, :scale 1.0, :err-y 0.14865548199280165, :radius 0.1829337489827505, :err-x 0.06621688762040402, :err-angle 30.523559453982795}</title>
+</g>
+<g>
+<circle cx="291.58" cy="646.76" fill-opacity="0.8" fill="#fb87cb" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 50
+{:cycle-frac 50/73, :angle-from-down 119.24244588629963, :index 50, :scale 1.0, :err-y 0.1311846708388253, :radius 0.19259859457760167, :err-x 0.058434714213060644, :err-angle 25.920475155339354}" />
+<title>Index: 50
+{:cycle-frac 50/73, :angle-from-down 119.24244588629963, :index 50, :scale 1.0, :err-y 0.1311846708388253, :radius 0.19259859457760167, :err-x 0.058434714213060644, :err-angle 25.920475155339354}</title>
+</g>
+<g>
+<circle cx="311.61" cy="592.09" fill-opacity="0.8" fill="#fca3b0" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 120
+{:cycle-frac 47/73, :angle-from-down 124.96543061312805, :index 120, :scale 1.0, :err-y 0.13348094254628817, :radius 0.2191549790067441, :err-x 0.05945756223427478, :err-angle 21.76630630680949}" />
+<title>Index: 120
+{:cycle-frac 47/73, :angle-from-down 124.96543061312805, :index 120, :scale 1.0, :err-y 0.13348094254628817, :radius 0.2191549790067441, :err-x 0.05945756223427478, :err-angle 21.76630630680949}</title>
+</g>
+<g>
+<circle cx="501.39" cy="1467.80" fill-opacity="0.8" fill="#34a637" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 17
+{:cycle-frac 17/73, :angle-from-down 37.31563718331493, :index 17, :scale 1.0, :err-y 0.210116439702797, :radius 0.4767067779737307, :err-x 0.09359396968403191, :err-angle 13.15718894362445}" />
+<title>Index: 17
+{:cycle-frac 17/73, :angle-from-down 37.31563718331493, :index 17, :scale 1.0, :err-y 0.210116439702797, :radius 0.4767067779737307, :err-x 0.09359396968403191, :err-angle 13.15718894362445}</title>
+</g>
+<g>
+<circle cx="538.38" cy="506.54" fill-opacity="0.8" fill="#fca3b0" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 47
+{:cycle-frac 47/73, :angle-from-down 119.40798574785832, :index 47, :scale 1.0, :err-y 0.3087037406805066, :radius 0.3561987812498117, :err-x 0.13750855757629682, :err-angle 31.667821058096305}" />
+<title>Index: 47
+{:cycle-frac 47/73, :angle-from-down 119.40798574785832, :index 47, :scale 1.0, :err-y 0.3087037406805066, :radius 0.3561987812498117, :err-x 0.13750855757629682, :err-angle 31.667821058096305}</title>
+</g>
+<g>
+<circle cx="542.36" cy="1581.43" fill-opacity="0.8" fill="#38a143" r="10.0" stroke-width="1.0" stroke="black" tooltip="Index: 16
+{:cycle-frac 16/73, :angle-from-down 35.10937729259473, :index 16, :scale 1.0, :err-y 0.24293536539178406, :radius 0.5435089793229099, :err-x 0.108212785519396, :err-angle 13.075649009921348}" />
+<title>Index: 16
+{:cycle-frac 16/73, :angle-from-down 35.10937729259473, :index 16, :scale 1.0, :err-y 0.24293536539178406, :radius 0.5435089793229099, :err-x 0.108212785519396, :err-angle 13.075649009921348}</title>
+</g>
+</g>
+<g>
+<text angle-from-down="0.7417301518430143" cycle-frac="0.09589041" dominant-baseline="central" err-x="9.749571697065034E-4" err-y="0.002188757780581629" fill="#000" font-size="3.3333333333333335" index="7" radius="0.0010352612996883375" scale="1.0" stroke="none" text-anchor="middle" text="49.8" x="1.21" y="811.32">49.8</text>
+<text angle-from-down="0.6092148777967613" cycle-frac="0.04109589" dominant-baseline="central" err-x="0.0011779931928051254" err-y="0.0026445692655407468" fill="#000" font-size="3.3333333333333335" index="3" radius="0.0023658736681110727" scale="1.0" stroke="none" text-anchor="middle" text="30.1" x="2.35" y="813.37">30.1</text>
+<text angle-from-down="2.716978074024016" cycle-frac="0.09589041" dominant-baseline="central" err-x="0.005193780505289181" err-y="0.011659925014969671" fill="#000" font-size="3.3333333333333335" index="80" radius="0.007708293187860965" scale="1.0" stroke="none" text-anchor="middle" text="35.9" x="5.51" y="797.81">35.9</text>
+<text angle-from-down="0.5194112142968363" cycle-frac="0.08219178" dominant-baseline="central" err-x="0.0034425851032794707" err-y="0.007728529174656628" fill="#000" font-size="3.3333333333333335" index="6" radius="0.0064400578500987725" scale="1.0" stroke="none" text-anchor="middle" text="30.8" x="5.55" y="819.70">30.8</text>
+<text angle-from-down="1.5075909001126298" cycle-frac="0.10958904" dominant-baseline="central" err-x="0.005447148909844362" err-y="0.012228731608792282" fill="#000" font-size="3.3333333333333335" index="8" radius="0.0036478380869312435" scale="1.0" stroke="none" text-anchor="middle" text="73.3" x="6.32" y="810.40">73.3</text>
+<text angle-from-down="2.3080072412195305" cycle-frac="0.12328767" dominant-baseline="central" err-x="0.008495967839449826" err-y="0.01907326423145848" fill="#000" font-size="3.3333333333333335" index="9" radius="0.007948895114730615" scale="1.0" stroke="none" text-anchor="middle" text="55.0" x="10.21" y="800.73">55.0</text>
+<text angle-from-down="1.0045028909690825" cycle-frac="0.01369863" dominant-baseline="central" err-x="0.007592634700162727" err-y="0.01704530085162406" fill="#000" font-size="3.3333333333333335" index="74" radius="0.007181012227739323" scale="1.0" stroke="none" text-anchor="middle" text="58.2" x="10.51" y="816.68">58.2</text>
+<text angle-from-down="2.183616611301737" cycle-frac="0.10958904" dominant-baseline="central" err-x="0.009277330242278878" err-y="0.02082740594330502" fill="#000" font-size="3.3333333333333335" index="81" radius="0.008016170678234872" scale="1.0" stroke="none" text-anchor="middle" text="59.5" x="11.38" y="802.00">59.5</text>
+<text angle-from-down="0.9085577355694672" cycle-frac="0.9589041" dominant-baseline="central" err-x="0.0052206891304582784" err-y="0.011720334297073195" fill="#000" font-size="3.3333333333333335" index="70" radius="0.008524285968854656" scale="1.0" stroke="none" text-anchor="middle" text="40.9" x="11.66" y="819.09">40.9</text>
+<text angle-from-down="1.6826281980749818" cycle-frac="0.46575344" dominant-baseline="central" err-x="0.011056778181768005" err-y="0.024822228119821044" fill="#000" font-size="3.3333333333333335" index="107" radius="0.00874987866968063" scale="1.0" stroke="none" text-anchor="middle" text="70.1" x="15.09" y="808.31">70.1</text>
+<text angle-from-down="2.4985379650294783" cycle-frac="0.5890411" dominant-baseline="central" err-x="0.009652931118365366" err-y="0.021670621794699866" fill="#000" font-size="3.3333333333333335" index="43" radius="0.016415630464810555" scale="1.0" stroke="none" text-anchor="middle" text="34.9" x="17.08" y="787.21">34.9</text>
+<text angle-from-down="1.8596205517889892" cycle-frac="0.91780823" dominant-baseline="central" err-x="0.014766161050135595" err-y="0.03314971251253522" fill="#000" font-size="3.3333333333333335" index="140" radius="0.011739225969388112" scale="1.0" stroke="none" text-anchor="middle" text="67.8" x="19.52" y="804.20">67.8</text>
+<text angle-from-down="2.2821730641600486" cycle-frac="0.19178082" dominant-baseline="central" err-x="0.009265570787811268" err-y="0.020801006222105917" fill="#000" font-size="3.3333333333333335" index="87" radius="0.015431422300245367" scale="1.0" stroke="none" text-anchor="middle" text="39.2" x="20.28" y="792.52">39.2</text>
+<text angle-from-down="2.2034275451267646" cycle-frac="0.46575344" dominant-baseline="central" err-x="0.011912519345820704" err-y="0.026743348543550136" fill="#000" font-size="3.3333333333333335" index="34" radius="0.015074524107392582" scale="1.0" stroke="none" text-anchor="middle" text="48.8" x="21.09" y="794.54">48.8</text>
+<text angle-from-down="1.8434907695016907" cycle-frac="0.1369863" dominant-baseline="central" err-x="0.017117703879830193" err-y="0.0384288753565958" fill="#000" font-size="3.3333333333333335" index="83" radius="0.012950393350922677" scale="1.0" stroke="none" text-anchor="middle" text="69.0" x="21.64" y="803.95">69.0</text>
+<text angle-from-down="2.325744374215901" cycle-frac="0.26027396" dominant-baseline="central" err-x="0.011815995479688778" err-y="0.026526654549626633" fill="#000" font-size="3.3333333333333335" index="19" radius="0.01713685540761433" scale="1.0" stroke="none" text-anchor="middle" text="42.3" x="21.65" y="789.63">42.3</text>
+<text angle-from-down="2.2327430495355483" cycle-frac="0.2739726" dominant-baseline="central" err-x="0.013769924004064548" err-y="0.030913181869298853" fill="#000" font-size="3.3333333333333335" index="20" radius="0.017797990948290814" scale="1.0" stroke="none" text-anchor="middle" text="47.5" x="24.36" y="791.02">47.5</text>
+<text angle-from-down="2.2153866974349103" cycle-frac="0.43835616" dominant-baseline="central" err-x="0.010048518942114396" err-y="0.022558707911749205" fill="#000" font-size="3.3333333333333335" index="105" radius="0.01804887035823892" scale="1.0" stroke="none" text-anchor="middle" text="38.6" x="25.03" y="791.18">38.6</text>
+<text angle-from-down="2.5732324936873288" cycle-frac="0.5890411" dominant-baseline="central" err-x="0.01594860554290822" err-y="0.035804274850326036" fill="#000" font-size="3.3333333333333335" index="116" radius="0.027062829303510515" scale="1.0" stroke="none" text-anchor="middle" text="33.9" x="25.27" y="770.43">33.9</text>
+<text angle-from-down="0.8283896170945679" cycle-frac="0.20547946" dominant-baseline="central" err-x="0.013258677299865254" err-y="0.029765444064621966" fill="#000" font-size="3.3333333333333335" index="88" radius="0.01991737350835422" scale="1.0" stroke="none" text-anchor="middle" text="41.5" x="25.46" y="833.36">41.5</text>
+<text angle-from-down="1.7186880598021685" cycle-frac="0.02739726" dominant-baseline="central" err-x="0.01299355526157226" err-y="0.02917025081701285" fill="#000" font-size="3.3333333333333335" index="2" radius="0.014863600763067416" scale="1.0" stroke="none" text-anchor="middle" text="62.0" x="25.51" y="806.20">62.0</text>
+<text angle-from-down="2.58402151809402" cycle-frac="0.60273975" dominant-baseline="central" err-x="0.017413867745828617" err-y="0.03909375683669859" fill="#000" font-size="3.3333333333333335" index="117" radius="0.029036371051032614" scale="1.0" stroke="none" text-anchor="middle" text="34.3" x="26.66" y="767.25">34.3</text>
+<text angle-from-down="1.660310367203341" cycle-frac="0.9041096" dominant-baseline="central" err-x="0.019201600716841564" err-y="0.04310717872997496" fill="#000" font-size="3.3333333333333335" index="66" radius="0.01591867463124687" scale="1.0" stroke="none" text-anchor="middle" text="69.4" x="27.51" y="807.53">69.4</text>
+<text angle-from-down="2.439880180880931" cycle-frac="0.15068494" dominant-baseline="central" err-x="0.01751912990382758" err-y="0.03933006810705963" fill="#000" font-size="3.3333333333333335" index="11" radius="0.02622526831531" scale="1.0" stroke="none" text-anchor="middle" text="39.3" x="29.37" y="775.25">39.3</text>
+<text angle-from-down="0.39731404814270044" cycle-frac="0.05479452" dominant-baseline="central" err-x="0.015289767929319272" err-y="0.03432519864299207" fill="#000" font-size="3.3333333333333335" index="4" radius="0.04479442339063339" scale="1.0" stroke="none" text-anchor="middle" text="20.0" x="30.07" y="881.67">20.0</text>
+<text angle-from-down="0.8639067666181959" cycle-frac="0.9726027" dominant-baseline="central" err-x="0.014494953325282847" err-y="0.0325408570300899" fill="#000" font-size="3.3333333333333335" index="71" radius="0.023451947613118786" scale="1.0" stroke="none" text-anchor="middle" text="40.2" x="30.94" y="836.43">40.2</text>
+<text angle-from-down="0.924278628103363" cycle-frac="0.21917808" dominant-baseline="central" err-x="0.016214497646284343" err-y="0.03640119687740847" fill="#000" font-size="3.3333333333333335" index="89" radius="0.022529122687963928" scale="1.0" stroke="none" text-anchor="middle" text="45.8" x="31.20" y="833.55">45.8</text>
+<text angle-from-down="2.0177353490527867" cycle-frac="0.30136988" dominant-baseline="central" err-x="0.020616611720157104" err-y="0.04628384785898693" fill="#000" font-size="3.3333333333333335" index="22" radius="0.022761702164040706" scale="1.0" stroke="none" text-anchor="middle" text="56.9" x="35.61" y="792.93">56.9</text>
+<text angle-from-down="2.3672640189706105" cycle-frac="0.5753425" dominant-baseline="central" err-x="0.01957320209823516" err-y="0.04394141580219916" fill="#000" font-size="3.3333333333333335" index="115" radius="0.030596335069245296" scale="1.0" stroke="none" text-anchor="middle" text="39.4" x="37.12" y="772.05">39.4</text>
+<text angle-from-down="1.7984451167284197" cycle-frac="0.3561644" dominant-baseline="central" err-x="0.019897699058931545" err-y="0.04466990446771998" fill="#000" font-size="3.3333333333333335" index="26" radius="0.02276422867513251" scale="1.0" stroke="none" text-anchor="middle" text="60.8" x="38.48" y="801.09">60.8</text>
+<text angle-from-down="2.063289834745961" cycle-frac="0.05479452" dominant-baseline="central" err-x="0.018612971658833424" err-y="0.04178571921295899" fill="#000" font-size="3.3333333333333335" index="77" radius="0.025708302820755584" scale="1.0" stroke="none" text-anchor="middle" text="49.7" x="39.30" y="788.91">49.7</text>
+<text angle-from-down="1.7859146734961666" cycle-frac="0.28767124" dominant-baseline="central" err-x="0.023613597267239984" err-y="0.05301201565782763" fill="#000" font-size="3.3333333333333335" index="21" radius="0.023810419433807954" scale="1.0" stroke="none" text-anchor="middle" text="64.0" x="40.36" y="801.18">64.0</text>
+<text angle-from-down="1.0009603953465704" cycle-frac="0.24657534" dominant-baseline="central" err-x="0.020051987565129496" err-y="0.045016278830500196" fill="#000" font-size="3.3333333333333335" index="18" radius="0.027830790331431137" scale="1.0" stroke="none" text-anchor="middle" text="47.6" x="40.66" y="836.05">47.6</text>
+<text angle-from-down="2.6178686929965935" cycle-frac="0.5068493" dominant-baseline="central" err-x="0.02453702414134855" err-y="0.05508508903818122" fill="#000" font-size="3.3333333333333335" index="37" radius="0.04688427053429185" scale="1.0" stroke="none" text-anchor="middle" text="30.3" x="40.68" y="739.56">30.3</text>
+<text angle-from-down="2.6986633270111553" cycle-frac="0.4520548" dominant-baseline="central" err-x="0.026937585362992136" err-y="0.06047429711305147" fill="#000" font-size="3.3333333333333335" index="106" radius="0.0550264599857592" scale="1.0" stroke="none" text-anchor="middle" text="27.9" x="40.92" y="723.74">27.9</text>
+<text angle-from-down="1.364296742332611" cycle-frac="0.84931505" dominant-baseline="central" err-x="0.021263226155258205" err-y="0.0477354832947156" fill="#000" font-size="3.3333333333333335" index="62" radius="0.02749921489875717" scale="1.0" stroke="none" text-anchor="middle" text="58.1" x="46.70" y="819.78">58.1</text>
+<text angle-from-down="0.6296164421987374" cycle-frac="0.9589041" dominant-baseline="central" err-x="0.028024923573463905" err-y="0.0629153479019904" fill="#000" font-size="3.3333333333333335" index="143" radius="0.04898164400039637" scale="1.0" stroke="none" text-anchor="middle" text="34.0" x="50.04" y="878.69">34.0</text>
+<text angle-from-down="2.3506488645068693" cycle-frac="0.69863015" dominant-baseline="central" err-x="0.02330848031595591" err-y="0.05232703469470367" fill="#000" font-size="3.3333333333333335" index="51" radius="0.041332533073356645" scale="1.0" stroke="none" text-anchor="middle" text="36.2" x="50.99" y="759.57">36.2</text>
+<text angle-from-down="1.4754135060466083" cycle-frac="0.30136988" dominant-baseline="central" err-x="0.02340189533839508" err-y="0.05253674940170833" fill="#000" font-size="3.3333333333333335" index="95" radius="0.029622161094069923" scale="1.0" stroke="none" text-anchor="middle" text="60.1" x="51.16" y="814.89">60.1</text>
+<text angle-from-down="1.499094649949776" cycle-frac="0.16438356" dominant-baseline="central" err-x="0.026241292471893735" err-y="0.058911134616986126" fill="#000" font-size="3.3333333333333335" index="12" radius="0.029654209702116168" scale="1.0" stroke="none" text-anchor="middle" text="63.0" x="51.32" y="813.69">63.0</text>
+<text angle-from-down="2.271974017641806" cycle-frac="0.3561644" dominant-baseline="central" err-x="0.01936169094209012" err-y="0.043466577826668934" fill="#000" font-size="3.3333333333333335" index="99" radius="0.03931166739988168" scale="1.0" stroke="none" text-anchor="middle" text="34.0" x="52.12" y="766.00">34.0</text>
+<text angle-from-down="1.6764656238052231" cycle-frac="0.8630137" dominant-baseline="central" err-x="0.022755941218857528" err-y="0.05108659636015228" fill="#000" font-size="3.3333333333333335" index="136" radius="0.030646876556177517" scale="1.0" stroke="none" text-anchor="middle" text="58.5" x="52.88" y="804.39">58.5</text>
+<text angle-from-down="2.406902818120806" cycle-frac="0.7808219" dominant-baseline="central" err-x="0.026442951016801313" err-y="0.05936385369316892" fill="#000" font-size="3.3333333333333335" index="57" radius="0.045771935759921445" scale="1.0" stroke="none" text-anchor="middle" text="35.8" x="53.24" y="751.07">35.8</text>
+<text angle-from-down="0.6237571136116618" cycle-frac="0" dominant-baseline="central" err-x="0.020162199854343806" err-y="0.0452637030384848" fill="#000" font-size="3.3333333333333335" index="0" radius="0.05437931516301704" scale="1.0" stroke="none" text-anchor="middle" text="23.5" x="55.11" y="886.58">23.5</text>
+<text angle-from-down="0.8069258835719416" cycle-frac="0.91780823" dominant-baseline="central" err-x="0.017319997586578637" err-y="0.03888302035738767" fill="#000" font-size="3.3333333333333335" index="67" radius="0.04667278999456988" scale="1.0" stroke="none" text-anchor="middle" text="25.9" x="58.48" y="866.01">25.9</text>
+<text angle-from-down="2.3828292477617485" cycle-frac="0.38356164" dominant-baseline="central" err-x="0.02866903179575897" err-y="0.06436135694412029" fill="#000" font-size="3.3333333333333335" index="28" radius="0.050100562243765454" scale="1.0" stroke="none" text-anchor="middle" text="36.0" x="59.81" y="746.92">36.0</text>
+<text angle-from-down="2.2636333224730274" cycle-frac="0.6712329" dominant-baseline="central" err-x="0.022948323816133778" err-y="0.051518491134323476" fill="#000" font-size="3.3333333333333335" index="49" radius="0.0453957852385258" scale="1.0" stroke="none" text-anchor="middle" text="34.9" x="60.60" y="759.69">34.9</text>
+<text angle-from-down="2.2219544842976613" cycle-frac="0.5479452" dominant-baseline="central" err-x="0.02859012221121547" err-y="0.06418420663177982" fill="#000" font-size="3.3333333333333335" index="113" radius="0.04442771863817039" scale="1.0" stroke="none" text-anchor="middle" text="42.5" x="61.31" y="763.28">42.5</text>
+<text angle-from-down="1.4691590054541732" cycle-frac="0.1369863" dominant-baseline="central" err-x="0.03389888471697664" err-y="0.07610226375345067" fill="#000" font-size="3.3333333333333335" index="10" radius="0.03566744612937838" scale="1.0" stroke="none" text-anchor="middle" text="64.4" x="61.56" y="816.28">64.4</text>
+<text angle-from-down="0.5008987499537672" cycle-frac="0.98630136" dominant-baseline="central" err-x="0.044783331456483465" err-y="0.1005376115088746" fill="#000" font-size="3.3333333333333335" index="72" radius="0.07449976830666637" scale="1.0" stroke="none" text-anchor="middle" text="33.7" x="62.07" y="923.38">33.7</text>
+<text angle-from-down="0.6428003168134578" cycle-frac="0.06849315" dominant-baseline="central" err-x="0.02498984420081487" err-y="0.05610166028782766" fill="#000" font-size="3.3333333333333335" index="5" radius="0.06070957048995761" scale="1.0" stroke="none" text-anchor="middle" text="26.0" x="63.14" y="894.31">26.0</text>
+<text angle-from-down="0.7832627941902055" cycle-frac="0.82191783" dominant-baseline="central" err-x="0.038460281103050394" err-y="0.08634250008438778" fill="#000" font-size="3.3333333333333335" index="60" radius="0.0552778992246144" scale="1.0" stroke="none" text-anchor="middle" text="41.9" x="67.67" y="877.96">41.9</text>
+<text angle-from-down="1.4798144590174578" cycle-frac="0.32876712" dominant-baseline="central" err-x="0.030958916242477562" err-y="0.06950209805062142" fill="#000" font-size="3.3333333333333335" index="24" radius="0.03985029422272065" scale="1.0" stroke="none" text-anchor="middle" text="59.8" x="68.86" y="816.28">59.8</text>
+<text angle-from-down="0.5262306344214378" cycle-frac="0.9726027" dominant-baseline="central" err-x="0.024888290116743927" err-y="0.055873673563316475" fill="#000" font-size="3.3333333333333335" index="144" radius="0.07989776817149412" scale="1.0" stroke="none" text-anchor="middle" text="19.2" x="69.63" y="929.87">19.2</text>
+<text angle-from-down="0.5606026885218602" cycle-frac="0.01369863" dominant-baseline="central" err-x="0.022595447095899487" err-y="0.050726290521827436" fill="#000" font-size="3.3333333333333335" index="1" radius="0.07588294944326195" scale="1.0" stroke="none" text-anchor="middle" text="18.7" x="70.00" y="921.51">18.7</text>
+<text angle-from-down="2.0615850449887976" cycle-frac="0.369863" dominant-baseline="central" err-x="0.020546885376228743" err-y="0.046127313723409766" fill="#000" font-size="3.3333333333333335" index="100" radius="0.04625787020411156" scale="1.0" stroke="none" text-anchor="middle" text="35.9" x="70.79" y="772.17">35.9</text>
+<text angle-from-down="0.546979764566897" cycle-frac="0.9315069" dominant-baseline="central" err-x="0.028014227367262678" err-y="0.0628913351501762" fill="#000" font-size="3.3333333333333335" index="68" radius="0.07951439248572907" scale="1.0" stroke="none" text-anchor="middle" text="21.7" x="71.75" y="927.83">21.7</text>
+<text angle-from-down="1.434265781942868" cycle-frac="0.9315069" dominant-baseline="central" err-x="0.03724175361339587" err-y="0.08360693219822418" fill="#000" font-size="3.3333333333333335" index="141" radius="0.04288339205217751" scale="1.0" stroke="none" text-anchor="middle" text="62.0" x="73.71" y="820.13">62.0</text>
+<text angle-from-down="1.7062077842385261" cycle-frac="0.08219178" dominant-baseline="central" err-x="0.042045420125034774" err-y="0.09439105972644588" fill="#000" font-size="3.3333333333333335" index="79" radius="0.04346802586962182" scale="1.0" stroke="none" text-anchor="middle" text="64.5" x="74.73" y="799.82">64.5</text>
+<text angle-from-down="0.4878902134353138" cycle-frac="0.94520545" dominant-baseline="central" err-x="0.0427285759019409" err-y="0.09592472968499653" fill="#000" font-size="3.3333333333333335" index="69" radius="0.09249286677699871" scale="1.0" stroke="none" text-anchor="middle" text="27.0" x="75.23" y="951.75">27.0</text>
+<text angle-from-down="2.210306653937036" cycle-frac="0.7123288" dominant-baseline="central" err-x="0.02333334276729023" err-y="0.052382850360758675" fill="#000" font-size="3.3333333333333335" index="125" radius="0.05447573291923698" scale="1.0" stroke="none" text-anchor="middle" text="31.6" x="75.84" y="753.59">31.6</text>
+<text angle-from-down="2.0268521462470224" cycle-frac="0.39726028" dominant-baseline="central" err-x="0.0289483640668972" err-y="0.06498845185743372" fill="#000" font-size="3.3333333333333335" index="29" radius="0.04913222468779185" scale="1.0" stroke="none" text-anchor="middle" text="44.7" x="76.53" y="772.46">44.7</text>
+<text angle-from-down="2.7143707056208735" cycle-frac="0.47945204" dominant-baseline="central" err-x="0.047527532072966866" err-y="0.10669828260031612" fill="#000" font-size="3.3333333333333335" index="108" radius="0.10679128663654121" scale="1.0" stroke="none" text-anchor="middle" text="25.6" x="76.77" y="641.37">25.6</text>
+<text angle-from-down="1.4845558768960387" cycle-frac="0.31506848" dominant-baseline="central" err-x="0.032687395117454984" err-y="0.07338249577857155" fill="#000" font-size="3.3333333333333335" index="96" radius="0.04467927449472852" scale="1.0" stroke="none" text-anchor="middle" text="58.3" x="77.23" y="816.68">58.3</text>
+<text angle-from-down="0.7902689177171728" cycle-frac="0.98630136" dominant-baseline="central" err-x="0.031562294366835164" err-y="0.07085666890291642" fill="#000" font-size="3.3333333333333335" index="145" radius="0.0628406254681924" scale="1.0" stroke="none" text-anchor="middle" text="33.1" x="77.47" y="886.72">33.1</text>
+<text angle-from-down="0.6497264575885009" cycle-frac="0.06849315" dominant-baseline="central" err-x="0.03684957006829777" err-y="0.08272648861319165" fill="#000" font-size="3.3333333333333335" index="78" radius="0.07449955046341954" scale="1.0" stroke="none" text-anchor="middle" text="30.5" x="78.20" y="912.92">30.5</text>
+<text angle-from-down="2.104215652614696" cycle-frac="0.739726" dominant-baseline="central" err-x="0.029386255653874375" err-y="0.06597150900889405" fill="#000" font-size="3.3333333333333335" index="54" radius="0.0529160202970222" scale="1.0" stroke="none" text-anchor="middle" text="41.1" x="79.06" y="763.32">41.1</text>
+<text angle-from-down="2.573003746801012" cycle-frac="0.53424656" dominant-baseline="central" err-x="0.028551170578384737" err-y="0.06409676105768314" fill="#000" font-size="3.3333333333333335" index="39" radius="0.08629056323133731" scale="1.0" stroke="none" text-anchor="middle" text="20.7" x="80.61" y="683.84">20.7</text>
+<text angle-from-down="1.9297901344422785" cycle-frac="0.47945204" dominant-baseline="central" err-x="0.03202325196850197" err-y="0.07189150875897922" fill="#000" font-size="3.3333333333333335" index="35" radius="0.0502037045657379" scale="1.0" stroke="none" text-anchor="middle" text="49.5" x="81.55" y="779.40">49.5</text>
+<text angle-from-down="1.6126840915430118" cycle-frac="0.19178082" dominant-baseline="central" err-x="0.0315757746289046" err-y="0.07088693180000107" fill="#000" font-size="3.3333333333333335" index="14" radius="0.047302713468842385" scale="1.0" stroke="none" text-anchor="middle" text="56.2" x="82.00" y="806.56">56.2</text>
+<text angle-from-down="1.9579114422635142" cycle-frac="0.26027396" dominant-baseline="central" err-x="0.029529387268769955" err-y="0.06629283639176173" fill="#000" font-size="3.3333333333333335" index="92" radius="0.052273717850188424" scale="1.0" stroke="none" text-anchor="middle" text="45.3" x="83.98" y="775.76">45.3</text>
+<text angle-from-down="2.336441277558994" cycle-frac="0.34246576" dominant-baseline="central" err-x="0.02082403225991909" err-y="0.0467495024891212" fill="#000" font-size="3.3333333333333335" index="98" radius="0.06718149922572665" scale="1.0" stroke="none" text-anchor="middle" text="22.1" x="84.03" y="729.22">22.1</text>
+<text angle-from-down="2.327889823393595" cycle-frac="0.739726" dominant-baseline="central" err-x="0.030439025728160797" err-y="0.06833495507899356" fill="#000" font-size="3.3333333333333335" index="127" radius="0.06714428699729037" scale="1.0" stroke="none" text-anchor="middle" text="30.8" x="84.67" y="729.99">30.8</text>
+<text angle-from-down="2.6233872072537503" cycle-frac="0.65753424" dominant-baseline="central" err-x="0.03442824828466376" err-y="0.07729067352521647" fill="#000" font-size="3.3333333333333335" index="48" radius="0.09950195461337465" scale="1.0" stroke="none" text-anchor="middle" text="21.1" x="85.51" y="660.03">21.1</text>
+<text angle-from-down="0.6417428155621667" cycle-frac="0.8767123" dominant-baseline="central" err-x="0.038738236628322605" err-y="0.08696650423297875" fill="#000" font-size="3.3333333333333335" index="64" radius="0.08497337144100478" scale="1.0" stroke="none" text-anchor="middle" text="28.4" x="88.25" y="928.10">28.4</text>
+<text angle-from-down="2.0079820046924963" cycle-frac="0.7671233" dominant-baseline="central" err-x="0.037051064161724115" err-y="0.08317883849935209" fill="#000" font-size="3.3333333333333335" index="129" radius="0.05670975721496453" scale="1.0" stroke="none" text-anchor="middle" text="48.2" x="89.14" y="768.34">48.2</text>
+<text angle-from-down="1.711650504448757" cycle-frac="0.8356164" dominant-baseline="central" err-x="0.06323101077213568" err-y="0.14195225298277964" fill="#000" font-size="3.3333333333333335" index="61" radius="0.05211148944562897" scale="1.0" stroke="none" text-anchor="middle" text="69.1" x="89.52" y="797.31">69.1</text>
+<text angle-from-down="1.8449890291490474" cycle-frac="0.15068494" dominant-baseline="central" err-x="0.06403249202648648" err-y="0.14375156108159487" fill="#000" font-size="3.3333333333333335" index="84" radius="0.05488519771648296" scale="1.0" stroke="none" text-anchor="middle" text="66.5" x="91.67" y="784.22">66.5</text>
+<text angle-from-down="1.08560791619435" cycle-frac="0.23287672" dominant-baseline="central" err-x="0.038420853740146824" err-y="0.08625398650655651" fill="#000" font-size="3.3333333333333335" index="90" radius="0.05976817860321938" scale="1.0" stroke="none" text-anchor="middle" text="46.5" x="91.73" y="858.36">46.5</text>
+<text angle-from-down="1.7838724062300642" cycle-frac="0.82191783" dominant-baseline="central" err-x="0.04572303058437038" err-y="0.10264721574737405" fill="#000" font-size="3.3333333333333335" index="133" radius="0.05422050916108335" scale="1.0" stroke="none" text-anchor="middle" text="60.1" x="91.95" y="790.11">60.1</text>
+<text angle-from-down="2.132229853969836" cycle-frac="0.75342464" dominant-baseline="central" err-x="0.038706764388361924" err-y="0.08689584973427161" fill="#000" font-size="3.3333333333333335" index="128" radius="0.06350225931264664" scale="1.0" stroke="none" text-anchor="middle" text="43.1" x="93.26" y="751.34">43.1</text>
+<text angle-from-down="2.3890148291750952" cycle-frac="0.31506848" dominant-baseline="central" err-x="0.0363529636050943" err-y="0.081611617833226" fill="#000" font-size="3.3333333333333335" index="23" radius="0.07868567941601744" scale="1.0" stroke="none" text-anchor="middle" text="30.3" x="93.32" y="710.35">30.3</text>
+<text angle-from-down="1.0778981171535253" cycle-frac="0.84931505" dominant-baseline="central" err-x="0.03968414955621016" err-y="0.08909005831822094" fill="#000" font-size="3.3333333333333335" index="135" radius="0.0617245964813658" scale="1.0" stroke="none" text-anchor="middle" text="46.3" x="94.35" y="860.67">46.3</text>
+<text angle-from-down="0.6813822416040589" cycle-frac="0.79452056" dominant-baseline="central" err-x="0.028653141158110112" err-y="0.0643256828059398" fill="#000" font-size="3.3333333333333335" index="131" radius="0.09427340499338471" scale="1.0" stroke="none" text-anchor="middle" text="20.2" x="103.03" y="937.04">20.2</text>
+<text angle-from-down="1.9833212812343413" cycle-frac="0.75342464" dominant-baseline="central" err-x="0.03181959345532037" err-y="0.07143429979723388" fill="#000" font-size="3.3333333333333335" index="55" radius="0.06698167205867853" scale="1.0" stroke="none" text-anchor="middle" text="39.7" x="106.47" y="763.41">39.7</text>
+<text angle-from-down="2.393592811367714" cycle-frac="0.5753425" dominant-baseline="central" err-x="0.046004107559402915" err-y="0.10327822748323315" fill="#000" font-size="3.3333333333333335" index="42" radius="0.09150045637940984" scale="1.0" stroke="none" text-anchor="middle" text="32.4" x="107.98" y="693.62">32.4</text>
+<text angle-from-down="2.00472967589749" cycle-frac="0.7671233" dominant-baseline="central" err-x="0.04479073101531226" err-y="0.10055422335856623" fill="#000" font-size="3.3333333333333335" index="56" radius="0.07007853173264265" scale="1.0" stroke="none" text-anchor="middle" text="47.6" x="110.32" y="758.88">47.6</text>
+<text angle-from-down="2.7321546679998066" cycle-frac="0.65753424" dominant-baseline="central" err-x="0.06561007591759581" err-y="0.14729320283107317" fill="#000" font-size="3.3333333333333335" index="121" radius="0.16334958067813776" scale="1.0" stroke="none" text-anchor="middle" text="23.3" x="112.83" y="550.01">23.3</text>
+<text angle-from-down="0.6008771733238552" cycle-frac="0.8630137" dominant-baseline="central" err-x="0.03641110684695272" err-y="0.0817421481549263" fill="#000" font-size="3.3333333333333335" index="63" radius="0.11590638762800035" scale="1.0" stroke="none" text-anchor="middle" text="20.0" x="113.70" y="975.88">20.0</text>
+<text angle-from-down="0.4314285839310237" cycle-frac="0.02739726" dominant-baseline="central" err-x="0.0542683934586287" err-y="0.12183137076472386" fill="#000" font-size="3.3333333333333335" index="75" radius="0.1583660325615351" scale="1.0" stroke="none" text-anchor="middle" text="20.3" x="114.90" y="1059.59">20.3</text>
+<text angle-from-down="2.536505280690342" cycle-frac="0.53424656" dominant-baseline="central" err-x="0.041326528494253945" err-y="0.09277716354807336" fill="#000" font-size="3.3333333333333335" index="112" radius="0.11753130641348389" scale="1.0" stroke="none" text-anchor="middle" text="22.2" x="116.00" y="642.29">22.2</text>
+<text angle-from-down="2.380155013344784" cycle-frac="0.32876712" dominant-baseline="central" err-x="0.02824213347966747" err-y="0.06340297944827203" fill="#000" font-size="3.3333333333333335" index="97" radius="0.09993812222935976" scale="1.0" stroke="none" text-anchor="middle" text="19.8" x="119.64" y="684.49">19.8</text>
+<text angle-from-down="1.4555652854563013" cycle-frac="0.16438356" dominant-baseline="central" err-x="0.05812808397027648" err-y="0.1304962925689803" fill="#000" font-size="3.3333333333333335" index="85" radius="0.07028713918243318" scale="1.0" stroke="none" text-anchor="middle" text="61.1" x="121.14" y="824.02">61.1</text>
+<text angle-from-down="1.8695747122410213" cycle-frac="0.1780822" dominant-baseline="central" err-x="0.05744757624641117" err-y="0.12896856743229065" fill="#000" font-size="3.3333333333333335" index="86" radius="0.07337442995463483" scale="1.0" stroke="none" text-anchor="middle" text="56.5" x="121.67" y="772.53">56.5</text>
+<text angle-from-down="2.484708855894425" cycle-frac="0.56164384" dominant-baseline="central" err-x="0.06933232321048105" err-y="0.15564956757887413" fill="#000" font-size="3.3333333333333335" index="114" radius="0.1158270515217512" scale="1.0" stroke="none" text-anchor="middle" text="35.6" x="122.72" y="650.86">35.6</text>
+<text angle-from-down="2.1168004477903164" cycle-frac="0.42465752" dominant-baseline="central" err-x="0.044734949167447254" err-y="0.10042899431535998" fill="#000" font-size="3.3333333333333335" index="31" radius="0.08326693145929899" scale="1.0" stroke="none" text-anchor="middle" text="39.8" x="123.47" y="734.98">39.8</text>
+<text angle-from-down="1.429023205671026" cycle-frac="0.8356164" dominant-baseline="central" err-x="0.057656141941506034" err-y="0.1294367929114048" fill="#000" font-size="3.3333333333333335" index="134" radius="0.07266824557711585" scale="1.0" stroke="none" text-anchor="middle" text="59.7" x="124.82" y="827.82">59.7</text>
+<text angle-from-down="2.4692122283861604" cycle-frac="0.34246576" dominant-baseline="central" err-x="0.04378182726288252" err-y="0.098289256233238" fill="#000" font-size="3.3333333333333335" index="25" radius="0.11688433857113936" scale="1.0" stroke="none" text-anchor="middle" text="24.3" x="126.31" y="651.34">24.3</text>
+<text angle-from-down="2.1816903777290553" cycle-frac="0.6164383" dominant-baseline="central" err-x="0.03896774517889247" err-y="0.08748174597013202" fill="#000" font-size="3.3333333333333335" index="118" radius="0.09021183307004255" scale="1.0" stroke="none" text-anchor="middle" text="32.4" x="128.21" y="720.22">32.4</text>
+<text angle-from-down="1.209623659782117" cycle-frac="0.63013697" dominant-baseline="central" err-x="0.04864986570820999" err-y="0.10921789736173837" fill="#000" font-size="3.3333333333333335" index="46" radius="0.08142597622630666" scale="1.0" stroke="none" text-anchor="middle" text="47.6" x="132.16" y="859.92">47.6</text>
+<text angle-from-down="1.9881376826831403" cycle-frac="0.6849315" dominant-baseline="central" err-x="0.04508534236669869" err-y="0.10121561947690969" fill="#000" font-size="3.3333333333333335" index="123" radius="0.08362620329252081" scale="1.0" stroke="none" text-anchor="middle" text="43.2" x="132.64" y="751.19">43.2</text>
+<text angle-from-down="1.0436074939924682" cycle-frac="0.24657534" dominant-baseline="central" err-x="0.044535503931092124" err-y="0.09998124406905559" fill="#000" font-size="3.3333333333333335" index="91" radius="0.08949555119056347" scale="1.0" stroke="none" text-anchor="middle" text="38.2" x="134.19" y="888.12">38.2</text>
+<text angle-from-down="0.5808898797271518" cycle-frac="0.8082192" dominant-baseline="central" err-x="0.05631506144426046" err-y="0.1264260961711409" fill="#000" font-size="3.3333333333333335" index="59" radius="0.14378907305463637" scale="1.0" stroke="none" text-anchor="middle" text="24.2" x="136.91" y="1018.56">24.2</text>
+<text angle-from-down="0.5568264891690577" cycle-frac="0.94520545" dominant-baseline="central" err-x="0.03723501614098336" err-y="0.08359180671823145" fill="#000" font-size="3.3333333333333335" index="142" radius="0.15022241602108302" scale="1.0" stroke="none" text-anchor="middle" text="15.7" x="137.75" y="1031.27">15.7</text>
+<text angle-from-down="2.2358194658287074" cycle-frac="0.38356164" dominant-baseline="central" err-x="0.03009722238820763" err-y="0.06756761396597134" fill="#000" font-size="3.3333333333333335" index="101" radius="0.10129929110369641" scale="1.0" stroke="none" text-anchor="middle" text="22.7" x="138.30" y="701.54">22.7</text>
+<text angle-from-down="1.2213221447434883" cycle-frac="0.369863" dominant-baseline="central" err-x="0.05453692108654628" err-y="0.12243420948745698" fill="#000" font-size="3.3333333333333335" index="27" radius="0.08516095301379203" scale="1.0" stroke="none" text-anchor="middle" text="49.8" x="138.83" y="860.59">49.8</text>
+<text angle-from-down="0.5438960846545475" cycle-frac="0.89041096" dominant-baseline="central" err-x="0.063479563955765" err-y="0.14251024950966348" fill="#000" font-size="3.3333333333333335" index="65" radius="0.15468281717668766" scale="1.0" stroke="none" text-anchor="middle" text="24.8" x="138.88" y="1039.65">24.8</text>
+<text angle-from-down="1.8053483084535724" cycle-frac="0.2739726" dominant-baseline="central" err-x="0.06688268603136967" err-y="0.15015018503984862" fill="#000" font-size="3.3333333333333335" index="93" radius="0.085052709314123" scale="1.0" stroke="none" text-anchor="middle" text="58.0" x="143.53" y="775.70">58.0</text>
+<text angle-from-down="2.1337828187341805" cycle-frac="0.72602737" dominant-baseline="central" err-x="0.03513649022427865" err-y="0.07888066137702386" fill="#000" font-size="3.3333333333333335" index="53" radius="0.0983045997360862" scale="1.0" stroke="none" text-anchor="middle" text="28.7" x="144.24" y="718.97">28.7</text>
+<text angle-from-down="2.4903012002905713" cycle-frac="0.4520548" dominant-baseline="central" err-x="0.06880165587376195" err-y="0.15445823087380245" fill="#000" font-size="3.3333333333333335" index="33" radius="0.13730461330549504" scale="1.0" stroke="none" text-anchor="middle" text="30.8" x="144.42" y="620.54">30.8</text>
+<text angle-from-down="0.7361519273170899" cycle-frac="0.8082192" dominant-baseline="central" err-x="0.04974228436802934" err-y="0.11167035364969227" fill="#000" font-size="3.3333333333333335" index="132" radius="0.12428608745592994" scale="1.0" stroke="none" text-anchor="middle" text="26.6" x="144.79" y="969.80">26.6</text>
+<text angle-from-down="2.073726918714298" cycle-frac="0.41095892" dominant-baseline="central" err-x="0.05502603042547218" err-y="0.12353224938540609" fill="#000" font-size="3.3333333333333335" index="30" radius="0.09527385031211785" scale="1.0" stroke="none" text-anchor="middle" text="43.0" x="144.83" y="730.32">43.0</text>
+<text angle-from-down="1.769897970376199" cycle-frac="0.60273975" dominant-baseline="central" err-x="0.049907615191200724" err-y="0.1120415177754923" fill="#000" font-size="3.3333333333333335" index="44" radius="0.08614048255726192" scale="1.0" stroke="none" text-anchor="middle" text="50.4" x="146.50" y="780.44">50.4</text>
+<text angle-from-down="0.8991165624066746" cycle-frac="0.8767123" dominant-baseline="central" err-x="0.048999060376092446" err-y="0.11000183184626099" fill="#000" font-size="3.3333333333333335" index="137" radius="0.10940527174502114" scale="1.0" stroke="none" text-anchor="middle" text="32.1" x="148.59" y="928.13">32.1</text>
+<text angle-from-down="2.4266581076644878" cycle-frac="0.5205479" dominant-baseline="central" err-x="0.042172974228342236" err-y="0.0946774159323737" fill="#000" font-size="3.3333333333333335" index="38" radius="0.1330958391165159" scale="1.0" stroke="none" text-anchor="middle" text="21.4" x="151.39" y="635.62">21.4</text>
+<text angle-from-down="0.888685237885679" cycle-frac="0.20547946" dominant-baseline="central" err-x="0.055714111278524284" err-y="0.125076976033491" fill="#000" font-size="3.3333333333333335" index="15" radius="0.11378772748985817" scale="1.0" stroke="none" text-anchor="middle" text="34.3" x="153.25" y="934.46">34.3</text>
+<text angle-from-down="1.5417607881992008" cycle-frac="0.04109589" dominant-baseline="central" err-x="0.07542528783973604" err-y="0.16932814152392744" fill="#000" font-size="3.3333333333333335" index="76" radius="0.08880137295752802" scale="1.0" stroke="none" text-anchor="middle" text="62.3" x="154.01" y="814.47">62.3</text>
+<text angle-from-down="1.7294401490884823" cycle-frac="0.7808219" dominant-baseline="central" err-x="0.06548129931232495" err-y="0.14700410213465173" fill="#000" font-size="3.3333333333333335" index="130" radius="0.0916451805388257" scale="1.0" stroke="none" text-anchor="middle" text="56.8" x="157.01" y="784.88">56.8</text>
+<text angle-from-down="0.6667499647629962" cycle-frac="0.79452056" dominant-baseline="central" err-x="0.05576920659266412" err-y="0.12520066382331857" fill="#000" font-size="3.3333333333333335" index="58" radius="0.1497405064272125" scale="1.0" stroke="none" text-anchor="middle" text="24.1" x="160.67" y="1014.16">24.1</text>
+<text angle-from-down="1.7651192140841794" cycle-frac="0.28767124" dominant-baseline="central" err-x="0.059778928120209004" err-y="0.1342024020166198" fill="#000" font-size="3.3333333333333335" index="94" radius="0.09723654222582645" scale="1.0" stroke="none" text-anchor="middle" text="52.1" x="165.53" y="777.42">52.1</text>
+<text angle-from-down="2.005244326608501" cycle-frac="0.6164383" dominant-baseline="central" err-x="0.05260322358381507" err-y="0.11809310037425559" fill="#000" font-size="3.3333333333333335" index="45" radius="0.10533620296510501" scale="1.0" stroke="none" text-anchor="middle" text="40.6" x="165.78" y="733.07">40.6</text>
+<text angle-from-down="2.289582743261053" cycle-frac="0.5479452" dominant-baseline="central" err-x="0.03234434289961297" err-y="0.07261235096167315" fill="#000" font-size="3.3333333333333335" index="40" radius="0.13844071390608695" scale="1.0" stroke="none" text-anchor="middle" text="17.5" x="180.77" y="651.84">17.5</text>
+<text angle-from-down="1.7723684597514051" cycle-frac="0.1780822" dominant-baseline="central" err-x="0.0718560401324839" err-y="0.1613152575400879" fill="#000" font-size="3.3333333333333335" index="13" radius="0.10996872167092767" scale="1.0" stroke="none" text-anchor="middle" text="53.7" x="186.94" y="771.80">53.7</text>
+<text angle-from-down="2.3554539886413313" cycle-frac="0.6712329" dominant-baseline="central" err-x="0.0406548468693397" err-y="0.09126925281282777" fill="#000" font-size="3.3333333333333335" index="122" radius="0.1523755605701716" scale="1.0" stroke="none" text-anchor="middle" text="19.0" x="187.08" y="623.20">19.0</text>
+<text angle-from-down="2.2074025233399546" cycle-frac="0.43835616" dominant-baseline="central" err-x="0.05417627489082405" err-y="0.12162456657036222" fill="#000" font-size="3.3333333333333335" index="32" radius="0.13509350499267542" scale="1.0" stroke="none" text-anchor="middle" text="30.0" x="188.48" y="670.66">30.0</text>
+<text angle-from-down="1.5901058841785491" cycle-frac="0.12328767" dominant-baseline="central" err-x="0.07887256207556702" err-y="0.17706719769984727" fill="#000" font-size="3.3333333333333335" index="82" radius="0.10966555979792333" scale="1.0" stroke="none" text-anchor="middle" text="58.2" x="190.24" y="806.33">58.2</text>
+<text angle-from-down="1.9506912990418075" cycle-frac="0.72602737" dominant-baseline="central" err-x="0.060199814195669735" err-y="0.1351472821621547" fill="#000" font-size="3.3333333333333335" index="126" radius="0.12070363739746673" scale="1.0" stroke="none" text-anchor="middle" text="41.9" x="194.49" y="732.34">41.9</text>
+<text angle-from-down="2.457623851572853" cycle-frac="0.7123288" dominant-baseline="central" err-x="0.057897225610080455" err-y="0.12997802053838117" fill="#000" font-size="3.3333333333333335" index="52" radius="0.18698181392505603" scale="1.0" stroke="none" text-anchor="middle" text="20.6" x="204.99" y="558.55">20.6</text>
+<text angle-from-down="2.2225227482391254" cycle-frac="0.69863015" dominant-baseline="central" err-x="0.05529864983497033" err-y="0.1241442740693791" fill="#000" font-size="3.3333333333333335" index="124" radius="0.15576849432472367" scale="1.0" stroke="none" text-anchor="middle" text="26.8" x="214.87" y="646.07">26.8</text>
+<text angle-from-down="0.5925760831278039" cycle-frac="0" dominant-baseline="central" err-x="0.07568350379990052" err-y="0.1699078307753548" fill="#000" font-size="3.3333333333333335" index="73" radius="0.22658152189543393" scale="1.0" stroke="none" text-anchor="middle" text="21.1" x="219.56" y="1136.10">21.1</text>
+<text angle-from-down="0.6152404317773931" cycle-frac="0.9041096" dominant-baseline="central" err-x="0.06284087135031928" err-y="0.1410763984103487" fill="#000" font-size="3.3333333333333335" index="139" radius="0.21986673961294267" scale="1.0" stroke="none" text-anchor="middle" text="18.5" x="220.17" y="1121.53">18.5</text>
+<text angle-from-down="2.0498085527042127" cycle-frac="0.49315068" dominant-baseline="central" err-x="0.051385425171382" err-y="0.1153591692507016" fill="#000" font-size="3.3333333333333335" index="36" radius="0.14588412442242743" scale="1.0" stroke="none" text-anchor="middle" text="30.1" x="224.63" y="693.34">30.1</text>
+<text angle-from-down="2.2858843374277606" cycle-frac="0.56164384" dominant-baseline="central" err-x="0.06148104543548376" err-y="0.1380236186126177" fill="#000" font-size="3.3333333333333335" index="41" radius="0.17632670048188498" scale="1.0" stroke="none" text-anchor="middle" text="25.3" x="230.99" y="609.41">25.3</text>
+<text angle-from-down="0.7241730829452849" cycle-frac="0.89041096" dominant-baseline="central" err-x="0.06673526466976885" err-y="0.14981922726831395" fill="#000" font-size="3.3333333333333335" index="138" radius="0.20892290851801287" scale="1.0" stroke="none" text-anchor="middle" text="21.6" x="240.15" y="1081.52">21.6</text>
+<text angle-from-down="2.219533636533536" cycle-frac="0.5205479" dominant-baseline="central" err-x="0.0785367679502715" err-y="0.17631334714389374" fill="#000" font-size="3.3333333333333335" index="111" radius="0.17418746699148246" scale="1.0" stroke="none" text-anchor="middle" text="32.8" x="240.82" y="627.40">32.8</text>
+<text angle-from-down="2.3756943025542347" cycle-frac="0.39726028" dominant-baseline="central" err-x="0.05989382740871764" err-y="0.1344603484367493" fill="#000" font-size="3.3333333333333335" index="102" radius="0.20619856829967087" scale="1.0" stroke="none" text-anchor="middle" text="20.3" x="247.99" y="552.14">20.3</text>
+<text angle-from-down="2.592106067178152" cycle-frac="0.41095892" dominant-baseline="central" err-x="0.119016903094004" err-y="0.26719037590764155" fill="#000" font-size="3.3333333333333335" index="103" radius="0.27435086136723397" scale="1.0" stroke="none" text-anchor="middle" text="26.1" x="248.59" y="404.07">26.1</text>
+<text angle-from-down="2.173726054762102" cycle-frac="0.49315068" dominant-baseline="central" err-x="0.08394532830966904" err-y="0.18845544829069613" fill="#000" font-size="3.3333333333333335" index="109" radius="0.17719504399634942" scale="1.0" stroke="none" text-anchor="middle" text="35.0" x="253.23" y="635.66">35.0</text>
+<text angle-from-down="2.1520524953689915" cycle-frac="0.63013697" dominant-baseline="central" err-x="0.07153962258279402" err-y="0.1606049069777092" fill="#000" font-size="3.3333333333333335" index="119" radius="0.1771708336872371" scale="1.0" stroke="none" text-anchor="middle" text="31.3" x="256.91" y="641.22">31.3</text>
+<text angle-from-down="1.9989483255266696" cycle-frac="0.42465752" dominant-baseline="central" err-x="0.08365073859677287" err-y="0.1877941007502964" fill="#000" font-size="3.3333333333333335" index="104" radius="0.1643503946222025" scale="1.0" stroke="none" text-anchor="middle" text="41.3" x="259.41" y="691.61">41.3</text>
+<text angle-from-down="2.062224130729205" cycle-frac="0.5068493" dominant-baseline="central" err-x="0.06621688762040402" err-y="0.14865548199280165" fill="#000" font-size="3.3333333333333335" index="110" radius="0.1829337489827505" scale="1.0" stroke="none" text-anchor="middle" text="30.5" x="279.83" y="660.23">30.5</text>
+<text angle-from-down="2.0811732888470966" cycle-frac="0.6849315" dominant-baseline="central" err-x="0.058434714213060644" err-y="0.1311846708388253" fill="#000" font-size="3.3333333333333335" index="50" radius="0.19259859457760167" scale="1.0" stroke="none" text-anchor="middle" text="25.9" x="291.58" y="646.76">25.9</text>
+<text angle-from-down="2.1810582153716007" cycle-frac="0.6438356" dominant-baseline="central" err-x="0.05945756223427478" err-y="0.13348094254628817" fill="#000" font-size="3.3333333333333335" index="120" radius="0.2191549790067441" scale="1.0" stroke="none" text-anchor="middle" text="21.8" x="311.61" y="592.09">21.8</text>
+<text angle-from-down="0.6512807313284683" cycle-frac="0.23287672" dominant-baseline="central" err-x="0.09359396968403191" err-y="0.210116439702797" fill="#000" font-size="3.3333333333333335" index="17" radius="0.4767067779737307" scale="1.0" stroke="none" text-anchor="middle" text="13.2" x="501.39" y="1467.80">13.2</text>
+<text angle-from-down="2.0840625044745913" cycle-frac="0.6438356" dominant-baseline="central" err-x="0.13750855757629682" err-y="0.3087037406805066" fill="#000" font-size="3.3333333333333335" index="47" radius="0.3561987812498117" scale="1.0" stroke="none" text-anchor="middle" text="31.7" x="538.38" y="506.54">31.7</text>
+<text angle-from-down="0.6127742320807106" cycle-frac="0.21917808" dominant-baseline="central" err-x="0.108212785519396" err-y="0.24293536539178406" fill="#000" font-size="3.3333333333333335" index="16" radius="0.5435089793229099" scale="1.0" stroke="none" text-anchor="middle" text="13.1" x="542.36" y="1581.43">13.1</text>
+</g>
+<polyline fill="none" points="0.00,810.00 810.00,684.87" stroke-dasharray="50.0 50.0" stroke-width="3.6" stroke="red" />
+<polyline fill="none" points="0.00,810.00 0.00,810.00" stroke-dasharray="50.0 50.0" stroke-width="3.6" stroke="red" />
+<polyline fill="none" points="0.00,810.00 810.00,67.04" stroke-dasharray="7.0 7.0" stroke-width="3.6" stroke="black" />
+<polyline fill="none" points="0.00,810.00 0.00,810.00" stroke-dasharray="7.0 7.0" stroke-width="3.6" stroke="black" />
+<polyline fill="none" points="0.00,810.00 685.03,1620.00" stroke-dasharray="7.0 7.0" stroke-width="3.6" stroke="black" />
+<polyline fill="none" points="0.00,810.00 0.00,810.00" stroke-dasharray="7.0 7.0" stroke-width="3.6" stroke="black" />
+</g>
+</g>
+</svg>

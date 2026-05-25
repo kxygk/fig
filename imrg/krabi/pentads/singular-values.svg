@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<svg height="360.0" version="1.1" viewBox="0 0 1080.0 360.0" width="1080.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<text dominant-baseline="hanging" dx="-90.0" dy="90.0" fill="#0004" font-family="Arial, sans-serif" font-size="90" stroke-width="3.0" stroke="none" text-anchor="end" text="Singular Values" x="972.00" y="60.29">Singular Values</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="45.0" dy="45.0" fill="black" font-family="Arial, sans-serif" font-size="45.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" text="%" x="108.00" y="36.29">%</text>
+</g>
+<g fill="none" stroke-width="27.0" stroke="red">
+<line x1="108.00" x2="108.00" y1="60.29" y2="324.00" />
+<line x1="153.47" x2="153.47" y1="206.53" y2="324.00" />
+</g>
+<g fill="none" stroke-width="27.0" stroke="#ffb2b0">
+<line x1="198.95" x2="198.95" y1="231.42" y2="324.00" />
+<line x1="244.42" x2="244.42" y1="259.63" y2="324.00" />
+<line x1="289.89" x2="289.89" y1="268.81" y2="324.00" />
+<line x1="335.37" x2="335.37" y1="280.86" y2="324.00" />
+<line x1="380.84" x2="380.84" y1="282.66" y2="324.00" />
+<line x1="426.32" x2="426.32" y1="286.49" y2="324.00" />
+<line x1="471.79" x2="471.79" y1="288.06" y2="324.00" />
+<line x1="517.26" x2="517.26" y1="289.39" y2="324.00" />
+<line x1="562.74" x2="562.74" y1="292.40" y2="324.00" />
+<line x1="608.21" x2="608.21" y1="294.37" y2="324.00" />
+<line x1="653.68" x2="653.68" y1="296.11" y2="324.00" />
+<line x1="699.16" x2="699.16" y1="297.88" y2="324.00" />
+<line x1="744.63" x2="744.63" y1="299.81" y2="324.00" />
+<line x1="790.11" x2="790.11" y1="300.37" y2="324.00" />
+<line x1="835.58" x2="835.58" y1="301.36" y2="324.00" />
+<line x1="881.05" x2="881.05" y1="301.96" y2="324.00" />
+<line x1="926.53" x2="926.53" y1="302.94" y2="324.00" />
+<line x1="972.00" x2="972.00" y1="303.21" y2="324.00" />
+</g>
+<g stroke="black">
+<g fill="black" font-family="Arial, sans-serif" font-size="45.0" stroke="none" text-anchor="start" transform="translate(22.5 0.0)" />
+<line x1="108.00" x2="972.00" y1="324.00" y2="324.00" />
+</g>
+<g stroke="black">
+<line x1="108.00" x2="78.00" y1="111.47" y2="111.47" />
+<g fill="black" font-family="Arial, sans-serif" font-size="45.0" stroke="none" text-anchor="end">
+<text x="85.50" y="88.97">10</text>
+</g>
+<line x1="108.00" x2="108.00" y1="324.00" y2="36.00" />
+</g>
+</g>
+</svg>

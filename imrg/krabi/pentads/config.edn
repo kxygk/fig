@@ -1,0 +1,11 @@
+{:window-width                   1080.0
+ :row-height                     360
+ :non-zero-min?                  false
+ :normalize-data?                false
+ :rain-dirstr                    "/home/kxygk/Data/imerg/daily/V06/late-leapless-02years/"
+ :bin-size                       5
+ :cycle-length                   365
+ :cycle-phase                    0
+ :eas-res                        0.1
+ :sou-res                        0.1
+ :region-key                     :krabi-region}
