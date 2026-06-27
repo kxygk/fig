@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<svg height="1300" version="1.1" viewBox="0 0 1800 1300" width="1800" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g>
+<text dominant-baseline="hanging" dx="-100.0" dy="100.0" fill="#0004" font-family="Arial, sans-serif" font-size="100" stroke-width="3.3333333333333335" stroke="none" text-anchor="end" text="Monthly Avrg" x="1620.00" y="216.67">Monthly Avrg</text>
+</g>
+<g>
+<text dominant-baseline="text-bottom" dy="-25.0" fill="black" font-family="Arial, sans-serif" font-size="50.0" font-style="italic" stroke="none" text-anchor="middle" text="" x="900.00" y="130.09">
+</text>
+</g>
+<g>
+<text dominant-baseline="hanging" dx="50.0" dy="50.0" fill="black" font-family="Arial, sans-serif" font-size="50.0" font-style="italic" stroke="none" text-anchor="beginning" text-orientation="sideways" text="d18O" x="180.00" y="130.09">d18O</text>
+</g>
+<g>
+<circle cx="240.00" cy="980.32" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="360.00" cy="543.72" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="480.00" cy="867.59" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="600.00" cy="669.28" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="720.00" cy="597.58" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="840.00" cy="568.71" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="960.00" cy="561.87" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="1080.00" cy="627.51" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="1200.00" cy="677.13" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="1320.00" cy="697.76" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="1440.00" cy="727.31" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+<circle cx="1560.00" cy="638.76" fill="blue" r="33.333333333333336" stroke-width="3.3333333333333335" stroke="#000f" />
+</g>
+<g stroke="black">
+<line x1="240.00" x2="240.00" y1="1170.00" y2="1180.00" />
+<line x1="360.00" x2="360.00" y1="1170.00" y2="1180.00" />
+<line x1="480.00" x2="480.00" y1="1170.00" y2="1180.00" />
+<line x1="600.00" x2="600.00" y1="1170.00" y2="1180.00" />
+<line x1="720.00" x2="720.00" y1="1170.00" y2="1180.00" />
+<line x1="840.00" x2="840.00" y1="1170.00" y2="1180.00" />
+<line x1="960.00" x2="960.00" y1="1170.00" y2="1180.00" />
+<line x1="1080.00" x2="1080.00" y1="1170.00" y2="1180.00" />
+<line x1="1200.00" x2="1200.00" y1="1170.00" y2="1180.00" />
+<line x1="1320.00" x2="1320.00" y1="1170.00" y2="1180.00" />
+<line x1="1440.00" x2="1440.00" y1="1170.00" y2="1180.00" />
+<line x1="1560.00" x2="1560.00" y1="1170.00" y2="1180.00" />
+<g font-family="Arial, sans-serif" font-size="50" stroke="none" text-anchor="middle">
+<text x="240.00" y="1227.14">JAN</text>
+<text x="360.00" y="1227.14">FEB</text>
+<text x="480.00" y="1227.14">MAR</text>
+<text x="600.00" y="1227.14">APR</text>
+<text x="720.00" y="1227.14">MAY</text>
+<text x="840.00" y="1227.14">JUN</text>
+<text x="960.00" y="1227.14">JUL</text>
+<text x="1080.00" y="1227.14">AUG</text>
+<text x="1200.00" y="1227.14">SEP</text>
+<text x="1320.00" y="1227.14">OCT</text>
+<text x="1440.00" y="1227.14">NOV</text>
+<text x="1560.00" y="1227.14">DEC</text>
+</g>
+<line x1="180.00" x2="1620.00" y1="1170.00" y2="1170.00" />
+</g>
+<g stroke="black">
+<line x1="180.00" x2="146.67" y1="216.67" y2="216.67" />
+<line x1="180.00" x2="146.67" y1="390.00" y2="390.00" />
+<line x1="180.00" x2="146.67" y1="563.33" y2="563.33" />
+<line x1="180.00" x2="146.67" y1="736.67" y2="736.67" />
+<line x1="180.00" x2="146.67" y1="910.00" y2="910.00" />
+<line x1="180.00" x2="146.67" y1="1083.33" y2="1083.33" />
+<line x1="180.00" x2="175.00" y1="303.33" y2="303.33" />
+<line x1="180.00" x2="175.00" y1="476.67" y2="476.67" />
+<line x1="180.00" x2="175.00" y1="650.00" y2="650.00" />
+<line x1="180.00" x2="175.00" y1="823.33" y2="823.33" />
+<line x1="180.00" x2="175.00" y1="996.67" y2="996.67" />
+<g fill="black" font-family="Arial, sans-serif" font-size="50.0" stroke="none" text-anchor="end">
+<text x="155.00" y="191.67">0</text>
+<text x="155.00" y="365.00">-2</text>
+<text x="155.00" y="538.33">-4</text>
+<text x="155.00" y="711.67">-6</text>
+<text x="155.00" y="885.00">-8</text>
+<text x="155.00" y="1058.33">-10</text>
+</g>
+<line x1="180.00" x2="180.00" y1="1170.00" y2="130.00" />
+</g>
+</g>
+</svg>
